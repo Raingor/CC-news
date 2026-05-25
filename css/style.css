@@ -714,14 +714,12 @@ footer {
   }
   
   .scroll-jump {
-    bottom: 16px;
+    bottom: 20px;
     right: 16px;
-    padding: 8px 14px;
-    font-size: 11px;
-  }
-  
-  .jump-label {
-    display: none;
+    padding: 10px 16px;
+    font-size: 12px;
+    min-height: 44px;
+    gap: 6px;
   }
   
   .divider-ornament {
@@ -770,10 +768,11 @@ footer {
   }
   
   .scroll-jump {
-    bottom: 12px;
+    bottom: 16px;
     right: 12px;
-    padding: 6px 12px;
-    font-size: 10px;
+    padding: 8px 14px;
+    font-size: 11px;
+    min-height: 40px;
   }
   
   .section-divider {

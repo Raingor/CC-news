@@ -286,8 +286,10 @@ function updateJumpButton(btn, label) {
   const scrollY = window.scrollY;
   const viewportH = window.innerHeight;
   const isAtOrPastHoroscope = scrollY + viewportH / 2 >= horoscopeTop;
+  const isMobile = window.innerWidth <= 720;
+  const showThreshold = isMobile ? 200 : 400;
 
-  if (scrollY > 400) {
+  if (scrollY > showThreshold) {
     btn.classList.add('visible');
   } else {
     btn.classList.remove('visible');
