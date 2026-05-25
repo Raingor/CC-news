@@ -25,13 +25,28 @@
           <span class="article-count" id="article-count"></span>
         </div>
       </div>
+
+      <nav class="section-nav" id="section-nav" aria-label="Section navigation">
+        <a href="#news-section" class="section-nav-link active" data-section="news">
+          <span class="section-nav-icon">📰</span>
+          <span class="section-nav-label">今日新聞</span>
+        </a>
+        <span class="section-nav-sep"></span>
+        <a href="#horoscope-section" class="section-nav-link" data-section="horoscope">
+          <span class="section-nav-icon">🔮</span>
+          <span class="section-nav-label">星座運程</span>
+        </a>
+      </nav>
     </div>
   </header>
 
   <main class="container">
     <!-- 新聞板塊 -->
     <section id="news-section">
-      <h2 class="section-title">今日新聞</h2>
+      <h2 class="section-title" id="news-title">
+        <span class="section-title-icon">📰</span>
+        今日新聞
+      </h2>
       
       <!-- 分類標籤 -->
       <div class="category-tabs">
@@ -47,9 +62,17 @@
       </div>
     </section>
 
+    <!-- 板塊分割線 -->
+    <div class="section-divider">
+      <span class="divider-ornament">❦</span>
+    </div>
+
     <!-- 星座運程板塊 -->
     <section id="horoscope-section">
-      <h2 class="section-title">每日星座運程</h2>
+      <h2 class="section-title" id="horoscope-title">
+        <span class="section-title-icon">🔮</span>
+        每日星座運程
+      </h2>
       <p class="horoscope-date" id="horoscope-date"></p>
       
       <!-- 星座卡片網格 -->
@@ -58,6 +81,13 @@
       </div>
     </section>
   </main>
+
+  <!-- 浮動跳轉按鈕 -->
+  <button class="scroll-jump" id="scroll-jump" aria-label="跳至星座運程">
+    <span class="jump-icon">🔮</span>
+    <span class="jump-label" id="jump-label">星座運程</span>
+    <span class="jump-arrow">↓</span>
+  </button>
 
   <footer>
     <div class="container">

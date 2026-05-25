@@ -201,6 +201,107 @@ function showError(message) {
 }
 
 // ============================================
+// SECTION NAVIGATION
+// ============================================
+let currentSection = 'news';
+const sections = ['news', 'horoscope'];
+const sectionElements = {
+  news: document.getElementById('news-section'),
+  horoscope: document.getElementById('horoscope-section')
+};
+
+function setupSectionNav() {
+  const navLinks = document.querySelectorAll('.section-nav-link');
+  const jumpBtn = document.getElementById('scroll-jump');
+  const jumpLabel = document.getElementById('jump-label');
+  const sectionNav = document.getElementById('section-nav');
+
+  // Smooth scroll on nav link click
+  navLinks.forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      const target = document.querySelector(link.getAttribute('href'));
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+
+  // Floating jump button click
+  jumpBtn.addEventListener('click', () => {
+    if (currentSection === 'news') {
+      sectionElements.horoscope.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  });
+
+  // IntersectionObserver to track visible section
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.id.replace('-section', '');
+        setActiveSection(id);
+      }
+    });
+  }, {
+    threshold: 0.15,
+    rootMargin: '-80px 0px -40% 0px'
+  });
+
+  observer.observe(sectionElements.news);
+  observer.observe(sectionElements.horoscope);
+
+  // Scroll handler for sticky nav shadow and jump button visibility
+  let ticking = false;
+  window.addEventListener('scroll', () => {
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        updateNavShadow(sectionNav);
+        updateJumpButton(jumpBtn, jumpLabel);
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+
+  // Initial state
+  updateNavShadow(sectionNav);
+  updateJumpButton(jumpBtn, jumpLabel);
+}
+
+function setActiveSection(id) {
+  if (currentSection === id) return;
+  currentSection = id;
+
+  document.querySelectorAll('.section-nav-link').forEach(link => {
+    link.classList.toggle('active', link.dataset.section === id);
+  });
+}
+
+function updateNavShadow(nav) {
+  nav.classList.toggle('scrolled', window.scrollY > 60);
+}
+
+function updateJumpButton(btn, label) {
+  const horoscopeTop = sectionElements.horoscope.offsetTop;
+  const scrollY = window.scrollY;
+  const viewportH = window.innerHeight;
+  const isAtOrPastHoroscope = scrollY + viewportH / 2 >= horoscopeTop;
+
+  if (scrollY > 400) {
+    btn.classList.add('visible');
+  } else {
+    btn.classList.remove('visible');
+  }
+
+  btn.classList.toggle('at-horoscope', isAtOrPastHoroscope);
+  label.textContent = isAtOrPastHoroscope ? '回到頂部' : '星座運程';
+  btn.querySelector('.jump-icon').textContent = isAtOrPastHoroscope ? '↑' : '🔮';
+}
+
+// ============================================
 // INITIALIZE
 // ============================================
-document.addEventListener('DOMContentLoaded', loadData);
+document.addEventListener('DOMContentLoaded', () => {
+  setupSectionNav();
+  loadData();
+});
