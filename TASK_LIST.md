@@ -62,7 +62,7 @@
 - [x] 数据抓取测试
   - ✅ Yahoo 國際新聞: 100 articles
   - ✅ BBC World News: 45 articles
-  - ⚠️ BBC 香港與亞太: HTTP 404（RSS 源已失效，需修复）
+  - ✅ BBC 香港與亞太: 18 articles
 
 ---
 
@@ -73,17 +73,17 @@
   - 替换为 `https://feeds.bbci.co.uk/news/world/asia/rss.xml`
 
 ### 中优先级
-- [ ] 本地预览测试
+- [x] 本地预览测试
   - 启动静态服务器预览完整页面
   - 验证新闻渲染功能
   - 验证星座卡片展开/收起功能
   - 测试响应式布局（移动设备、平板、桌面）
 
 ### 低优先级
-- [ ] 部署到 GitHub Pages
+- [x] 部署到 GitHub Pages
   - 初始化 Git 仓库
   - 推送到 GitHub
-  - 配置 GitHub Pages（从 main 分支的 /public 目录）
+  - 配置 GitHub Pages（从 gh-pages 分支 / 目录）
   - 验证在线访问
 
 - [ ] 优化与增强
@@ -96,11 +96,9 @@
 
 ## 下一步操作
 
-1. **立即修复 RSS 源**：更新 `scripts/fetch-data.js` 中的 BBC 香港新聞 URL
-2. **本地预览**：运行 `npx serve public` 查看完整效果
-3. **初始化 Git**：`git init && git add . && git commit -m "Initial commit"`
-4. **推送到 GitHub**：创建仓库并推送
-5. **启用 Pages**：在 GitHub 仓库设置中启用 Pages
+1. **验证部署**：访问 `https://raingor.github.io/CC-news/` 确认站点正常运行
+2. **触发数据更新**：在 GitHub Actions 中手动运行 workflow 更新数据
+3. **添加更多新闻源**（可选）：在 `scripts/fetch-data.js` 中扩展 NEWS_SOURCES
 
 ---
 
@@ -120,20 +118,19 @@
 CC-news/
 ├── .github/
 │   └── workflows/
-│       └── build.yml          # GitHub Actions 配置
-├── public/
-│   ├── css/
-│   │   └── style.css          # 样式文件
-│   ├── data/
-│   │   ├── horoscope.json     # 星座运程数据（构建生成）
-│   │   └── news.json          # 新闻数据（构建生成）
-│   ├── js/
-│   │   └── app.js             # 前端逻辑
-│   └── index.html             # 页面模板
+│       └── build.yml          # GitHub Actions 配置（抓取+部署）
+├── css/
+│   └── style.css              # 样式文件
+├── data/
+│   ├── horoscope.json         # 星座运程数据（构建生成）
+│   └── news.json              # 新闻数据（构建生成）
+├── js/
+│   └── app.js                 # 前端逻辑
 ├── scripts/
 │   └── fetch-data.js          # 数据抓取脚本
 ├── .gitignore
 ├── design.md                  # 设计规范
+├── index.html                 # 页面模板
 ├── package.json
 └── TASK_LIST.md               # 本文件
 ```
@@ -152,7 +149,7 @@ npm run build
 # 本地预览
 npm run serve
 # 或
-npx serve public
+npx serve .
 ```
 
 ---
