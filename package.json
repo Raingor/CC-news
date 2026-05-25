@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/fetch-data.js",
-    "serve": "npx serve public"
+    "serve": "npx serve ."
   },
   "dependencies": {
     "fast-xml-parser": "^5.3.7"

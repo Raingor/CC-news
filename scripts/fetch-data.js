@@ -235,7 +235,7 @@ async function build() {
   console.log('🚀 Starting data fetch...\n');
 
   // Create data directory
-  const dataDir = join(rootDir, 'public', 'data');
+  const dataDir = join(rootDir, 'data');
   mkdirSync(dataDir, { recursive: true });
 
   // Fetch all news sources
