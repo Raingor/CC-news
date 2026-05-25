@@ -205,20 +205,23 @@ function generateHoroscope() {
   const luckyNumbers = [1, 2, 3, 5, 7, 8, 9, 11, 13, 16, 18, 21];
 
   const horoscopes = HOROSCOPE_TEMPLATES.map((template, index) => {
-    // 使用日期和星座索引生成伪随机数
-    const rng = (seed + index * 7) % 1000 / 1000;
-    const pickArray = (arr) => arr[Math.floor(rng * arr.length) % arr.length];
+    // 用 date seed + 星座索引 + 类别偏移做多重哈希，确保每个星座每项运程都不同
+    const hash = (i, categorySeed) => {
+      const h = ((seed * 31 + i * 17) * 31 + categorySeed * 13) >>> 0;
+      return (h % 1000) / 1000;
+    };
+    const pickArray = (arr, i, catSeed) => arr[Math.floor(hash(i, catSeed) * arr.length) % arr.length];
     
     return {
       sign: template.sign,
       signEn: template.signEn,
       emoji: template.emoji,
-      overall: pickArray(fortuneTexts.overall),
-      love: pickArray(fortuneTexts.love),
-      career: pickArray(fortuneTexts.career),
-      wealth: pickArray(fortuneTexts.wealth),
-      luckyNumber: luckyNumbers[index % luckyNumbers.length],
-      luckyColor: luckyColors[index % luckyColors.length]
+      overall: pickArray(fortuneTexts.overall, index, 0),
+      love: pickArray(fortuneTexts.love, index, 1),
+      career: pickArray(fortuneTexts.career, index, 2),
+      wealth: pickArray(fortuneTexts.wealth, index, 3),
+      luckyNumber: luckyNumbers[Math.floor(hash(index, 4) * luckyNumbers.length) % luckyNumbers.length],
+      luckyColor: luckyColors[Math.floor(hash(index, 5) * luckyColors.length) % luckyColors.length]
     };
   });
 
