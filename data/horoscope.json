@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "horoscopes": [
     {
       "sign": "白羊座",
       "signEn": "Aries",
       "emoji": "♈",
-      "overall": "整体运势良好，人际關係和谐，工作上会有贵人相助，把握机会勇往直前。",
-      "love": "爱情运势平稳，需要多花时间在另一半身上，小惊喜能增进感情。",
-      "career": "事业运稳定发展，专注本职工作会有回报。避免分心，集中精力完成目标。",
-      "wealth": "财富运势平稳，适合理财规划。小额投资可考虑，但需谨慎评估风险。",
-      "luckyNumber": 7,
-      "luckyColor": "紫色"
+      "overall": "For Aries, May 26th is looking like a busy day with a lot on your plate. You've got a bunch of tasks to tackle and not a lot of time to waste, so prioritize what needs to get done and focus on one thing at a time. Don't be afraid to ask for help if you need it, whether it's a coworker or a friend - having some extra support can make a big difference. Try to take a few breaks throughout the day to rest your mind and recharge. By staying organized and managing your time well, you should be able to get everything done that you need to.",
+      "luckyNumber": 6,
+      "luckyColor": "白色",
+      "love": "伴侶今天可能需要你的支持，耐心傾聽比給建議更重要。",
+      "career": "項目推進中可能遇到小阻礙，換個方法就能突破。",
+      "wealth": "今天有可能獲得額外收入，比如兼職或獎金。"
     },
     {
       "sign": "金牛座",
       "signEn": "Taurus",
       "emoji": "♉",
-      "overall": "运势上升期，各方面都有不错的发展。保持谦逊态度，会得到更多支持。",
-      "love": "感情运势上升，适合表达心意。单身者多参与社交活动，机会自来。",
-      "career": "事业运势上升，有机会展现能力。把握表现机会，但不可过于张扬。",
-      "wealth": "财运上升，工作回报丰厚。适合长期投资规划，耐心等待收获。",
-      "luckyNumber": 21,
-      "luckyColor": "棕色"
+      "overall": "Today, Taurus, you might feel a bit stuck or uncertain about how to move forward with a project or decision. Take a step back and break it down into smaller, more manageable tasks to help you gain some clarity. You've also got a good opportunity to connect with friends or family and get their input, which could be really helpful right now. Don't be afraid to ask for advice or feedback - it could make a big difference in how you approach things. Overall, it's a good day to focus on planning and preparation rather than taking bold action.",
+      "luckyNumber": 23,
+      "luckyColor": "銀色",
+      "love": "單身者不要急於脫單，先享受一個人的生活也很好。",
+      "career": "今天適合做決策，你的判斷力準確，相信自己的直覺。",
+      "wealth": "財運平穩，做好本職工作就是最好的賺錢方式。"
     },
     {
       "sign": "雙子座",
       "signEn": "Gemini",
       "emoji": "♊",
-      "overall": "整体运势良好，人际關係和谐，工作上会有贵人相助，把握机会勇往直前。",
-      "love": "感情方面较为敏感，注意沟通方式，避免误会。真诚是最好的桥梁。",
-      "career": "工作上可能遇到小挑战，保持冷静分析问题。求助同事是明智之选。",
-      "wealth": "今日财运一般，注意控制开支。避免借贷，守成为上策。",
-      "luckyNumber": 8,
-      "luckyColor": "白色"
+      "overall": "For Geminis, today is a good day to tackle tasks you've been putting off, like organizing your space or catching up on paperwork. You'll have the focus and energy to get a lot done, so make a list and start checking things off. Just be careful not to take on too much at once, or you might end up feeling overwhelmed. Try to prioritize your most important tasks and break them down into smaller, manageable chunks. With a clear plan and a bit of discipline, you can accomplish a lot and feel a sense of accomplishment by the end of the day.",
+      "luckyNumber": 7,
+      "luckyColor": "黑色",
+      "love": "感情穩定發展，偶爾的浪漫舉動能讓關係更加甜蜜。",
+      "career": "適合整理工作環境和文件，整潔的空間帶來清晰的思路。",
+      "wealth": "省錢不等於降低生活品質，找到性價比高的選擇才是智慧。"
     },
     {
       "sign": "巨蟹座",
       "signEn": "Cancer",
       "emoji": "♋",
-      "overall": "运势上升期，各方面都有不错的发展。保持谦逊态度，会得到更多支持。",
-      "love": "感情运势上升，适合表达心意。单身者多参与社交活动，机会自来。",
-      "career": "事业运势上升，有机会展现能力。把握表现机会，但不可过于张扬。",
-      "wealth": "财运上升，工作回报丰厚。适合长期投资规划，耐心等待收获。",
-      "luckyNumber": 21,
-      "luckyColor": "棕色"
+      "overall": "For Cancers, today is a good day to tackle tasks you've been putting off, especially around the house. You might feel a surge of energy and motivation to get organized and declutter your space. Take advantage of this momentum to tackle that to-do list and get your home feeling more relaxed and peaceful. At work, be prepared for some unexpected news or a surprise announcement that could shake things up. Overall, it's a day to stay flexible and adapt to changing circumstances.",
+      "luckyNumber": 23,
+      "luckyColor": "珊瑚色",
+      "love": "伴侶之間的小默契比大驚喜更珍貴，珍惜日常的溫暖。",
+      "career": "與客戶或合作夥伴的溝通順暢，良好的關係是成功的基礎。",
+      "wealth": "今天避免大額消費，給自己一天冷靜期再決定。"
     },
     {
       "sign": "獅子座",
       "signEn": "Leo",
       "emoji": "♌",
-      "overall": "运势平稳，适合沉淀思考，不宜冒进。保持耐心，稳扎稳打才能走得更远。",
-      "love": "感情方面较为敏感，注意沟通方式，避免误会。真诚是最好的桥梁。",
-      "career": "工作上可能遇到小挑战，保持冷静分析问题。求助同事是明智之选。",
-      "wealth": "今日财运一般，注意控制开支。避免借贷，守成为上策。",
-      "luckyNumber": 9,
-      "luckyColor": "黑色"
+      "overall": "Leos, today is a good day to focus on your work and career goals. You've got a lot of energy and motivation, so use it to tackle any projects or tasks you've been putting off. Don't be afraid to take charge and lead the way, as your natural confidence and charisma will serve you well. Just be sure to listen to others and consider their input, as collaboration can be key to success. Overall, it's a great day to make progress and get things done.",
+      "luckyNumber": 8,
+      "luckyColor": "金色",
+      "love": "今天容易因為小事產生誤會，及時溝通就能化解。",
+      "career": "今天工作效率高，先處理最困難的任務會更有成就感。",
+      "wealth": "適合學習理財知識，提高財商比追求短期收益更重要。"
     },
     {
       "sign": "處女座",
       "signEn": "Virgo",
       "emoji": "♍",
-      "overall": "运势上升期，各方面都有不错的发展。保持谦逊态度，会得到更多支持。",
-      "love": "感情运势上升，适合表达心意。单身者多参与社交活动，机会自来。",
-      "career": "工作运势强劲，项目推进顺利，团队协作良好。适合提出新想法。",
-      "wealth": "财运良好，正财稳定，偏财有小惊喜。理性消费，避免冲动购物。",
-      "luckyNumber": 1,
-      "luckyColor": "紅色"
+      "overall": "For Virgo, today is a good day to tackle tasks you've been putting off, like organizing your workspace or catching up on paperwork. You'll be in a productive mindset and able to focus on the details. Just be careful not to get too caught up in perfectionism, as this can slow you down and make it harder to get things done. Take regular breaks to rest your mind and avoid burnout. By staying on top of your tasks, you'll feel more in control and prepared for the rest of the week.",
+      "luckyNumber": 27,
+      "luckyColor": "紅色",
+      "love": "今天感情運勢平穩，適合與伴侶一起做一頓飯或看場電影。",
+      "career": "今天可能收到好消息或正面反饋，這是對你付出的肯定。",
+      "wealth": "你的細心完美讓你在金錢管理上有自己的節奏，堅持下去。"
     },
     {
       "sign": "天秤座",
       "signEn": "Libra",
       "emoji": "♎",
-      "overall": "运势平稳，适合沉淀思考，不宜冒进。保持耐心，稳扎稳打才能走得更远。",
-      "love": "感情方面较为敏感，注意沟通方式，避免误会。真诚是最好的桥梁。",
-      "career": "工作上可能遇到小挑战，保持冷静分析问题。求助同事是明智之选。",
-      "wealth": "今日财运一般，注意控制开支。避免借贷，守成为上策。",
+      "overall": "For Libra, today is a good day to focus on your relationships and communication. You may need to have a tough conversation with someone, but try to approach it in a calm and respectful manner. Be open to listening to their perspective and try to find a compromise that works for both of you. At work, you may be tasked with a new project or responsibility, so make sure to prioritize your tasks and manage your time effectively. By staying organized and being willing to collaborate, you can achieve your goals and build stronger relationships.",
       "luckyNumber": 9,
-      "luckyColor": "黑色"
+      "luckyColor": "粉色",
+      "love": "適合與伴侶一起規劃未來，共同的目標讓關係更緊密。",
+      "career": "職場人際關係和諧，你的平衡和諧讓大家願意與你合作。",
+      "wealth": "偏財運不錯，但見好就收，不要貪心。"
     },
     {
       "sign": "天蠍座",
       "signEn": "Scorpio",
       "emoji": "♏",
-      "overall": "今日運勢平稳上升，适合处理重要事务，保持积极心态会有意想不到的收获。",
-      "love": "感情运势佳，单身者有机会结识新朋友，有伴者感情甜蜜，适合深度沟通。",
-      "career": "工作运势强劲，项目推进顺利，团队协作良好。适合提出新想法。",
-      "wealth": "财运良好，正财稳定，偏财有小惊喜。理性消费，避免冲动购物。",
+      "overall": "Scorpios, today you might feel like taking a step back and re-evaluating your priorities. You've been putting in a lot of effort lately, and it's time to think about what's really important to you. Take some time to reflect on your goals and make a list of what you want to achieve in the coming weeks. This will help you stay focused and motivated, and you'll be more likely to make progress on the things that matter most. By doing so, you'll be able to make the most of the opportunities that come your way.",
       "luckyNumber": 1,
-      "luckyColor": "藍色"
+      "luckyColor": "紅色",
+      "love": "單身者今天在社交場合容易遇到有趣的人，展現深沉專注的一面會加分。",
+      "career": "工作中充分發揮你的深沉專注優勢，能讓你在團隊中脫穎而出。",
+      "wealth": "正財收入穩定，今天適合重新檢視個人財務狀況。"
     },
     {
       "sign": "射手座",
       "signEn": "Sagittarius",
       "emoji": "♐",
-      "overall": "运势平稳，适合沉淀思考，不宜冒进。保持耐心，稳扎稳打才能走得更远。",
-      "love": "感情方面较为敏感，注意沟通方式，避免误会。真诚是最好的桥梁。",
-      "career": "工作上可能遇到小挑战，保持冷静分析问题。求助同事是明智之选。",
-      "wealth": "今日财运一般，注意控制开支。避免借贷，守成为上策。",
+      "overall": "Today is a good day to tackle tasks you've been putting off, Sagittarius. You're feeling more focused and motivated than usual, so make the most of it by getting a head start on your to-do list. Don't be afraid to ask for help if you need it, as others are more willing to lend a hand than you think. In your personal life, a conversation with a friend or family member may clear up some misunderstandings and bring you closer together. Overall, it's a productive and positive day ahead, so make the most of the opportunities that come your way.",
       "luckyNumber": 11,
-      "luckyColor": "金色"
+      "luckyColor": "橙色",
+      "love": "單身者今天魅力四射，但不要急著投入，先了解對方。",
+      "career": "今天可能會承擔新的責任，雖然壓力大但也是成長機會。",
+      "wealth": "適合與伴侶或家人討論家庭財務規劃，達成共識很重要。"
     },
     {
       "sign": "摩羯座",
       "signEn": "Capricorn",
       "emoji": "♑",
-      "overall": "今日運勢平稳上升，适合处理重要事务，保持积极心态会有意想不到的收获。",
-      "love": "感情运势佳，单身者有机会结识新朋友，有伴者感情甜蜜，适合深度沟通。",
-      "career": "工作运势强劲，项目推进顺利，团队协作良好。适合提出新想法。",
-      "wealth": "财运良好，正财稳定，偏财有小惊喜。理性消费，避免冲动购物。",
+      "overall": "For Capricorn, May 26th is a day to focus on your career and long-term goals. You may receive some recognition or praise from a supervisor or colleague, which could boost your confidence. Use this momentum to tackle a challenging project or task that you've been putting off. Be practical and methodical in your approach, and don't be afraid to ask for help if you need it. By staying focused and working hard, you can make some real progress and set yourself up for future success.",
       "luckyNumber": 2,
-      "luckyColor": "藍色"
+      "luckyColor": "藍色",
+      "love": "伴侶之間需要一點新鮮感，一起嘗試沒做過的事能增進感情。",
+      "career": "遇到挑戰時不要退縮，這正是展現你能力的機會。",
+      "wealth": "今天可能有意外開支，提前做好預算就不會手忙腳亂。"
     },
     {
       "sign": "水瓶座",
       "signEn": "Aquarius",
       "emoji": "♒",
-      "overall": "今日充满活力，行动力强，适合开展新计划。注意劳逸结合，避免过度消耗。",
-      "love": "桃花运旺盛，社交场合容易吸引目光。已有伴侣者需注意边界感。",
-      "career": "今日适合学习新技能，提升自我。领导会注意到你的努力和进步。",
-      "wealth": "偏财运佳，可能有意外收入。但不可贪心，见好就收最重要。",
+      "overall": "Today, Aquarius, you might feel a bit restless and eager to try something new. You could be tempted to take on a new project or hobby, and that's a great idea - just make sure you have the time and energy to commit to it. Be careful not to overpromise and overcommit yourself, as this could lead to stress and burnout. Take some time to think about what you really want to prioritize and focus on those things first. By being intentional with your time and energy, you can make the most of this enthusiastic and adventurous vibe.",
       "luckyNumber": 11,
-      "luckyColor": "粉色"
+      "luckyColor": "灰色",
+      "love": "今天適合表達感謝，讓身邊的人感受到你的心意。",
+      "career": "工作中有機會展示領導力，主動站出來帶領大家前進。",
+      "wealth": "財運趨勢向好，但需要耐心等待，不要急於求成。"
     },
     {
       "sign": "雙魚座",
       "signEn": "Pisces",
       "emoji": "♓",
-      "overall": "今日運勢平稳上升，适合处理重要事务，保持积极心态会有意想不到的收获。",
-      "love": "感情运势佳，单身者有机会结识新朋友，有伴者感情甜蜜，适合深度沟通。",
-      "career": "工作运势强劲，项目推进顺利，团队协作良好。适合提出新想法。",
-      "wealth": "财运良好，正财稳定，偏财有小惊喜。理性消费，避免冲动购物。",
+      "overall": "For Pisces, May 26th is a good day to focus on your finances and make a budget for the upcoming month. Take some time to review your expenses and see where you can cut back on unnecessary spending. You may also receive some unexpected news about a financial opportunity, so be sure to stay alert and consider your options carefully. At work, you'll be tackling a challenging project, but your creativity and problem-solving skills will help you find a solution. Overall, it's a day to stay practical and focused on your goals.",
       "luckyNumber": 3,
-      "luckyColor": "綠色"
+      "luckyColor": "綠色",
+      "love": "你的浪漫直覺特質在感情中特別有魅力，自然地做自己就好。",
+      "career": "團隊協作順暢，你的貢獻會被看到，適時主動溝通。",
+      "wealth": "你的浪漫直覺特質在消費決策上幫助你保持理性。"
     }
   ]
 }

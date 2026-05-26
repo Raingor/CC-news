@@ -1,1299 +1,1209 @@
 {
-  "lastUpdated": "2026-05-25T13:59:48.593Z",
-  "totalArticles": 143,
+  "lastUpdated": "2026-05-26T02:50:45.944Z",
+  "totalArticles": 133,
   "sources": [
-    "Yahoo 國際新聞",
-    "BBC World News",
-    "BBC 香港與亞太"
+    "Guardian 國際",
+    "CNN 國際",
+    "BBC 中文"
   ],
   "errors": [],
   "articles": [
     {
-      "title": "AI代理服務普及但消費者卻步？專家點出關鍵原因",
-      "link": "https://tw.stock.yahoo.com/news/ai%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8B%99%E6%99%AE%E5%8F%8A%E4%BD%86%E6%B6%88%E8%B2%BB%E8%80%85%E5%8D%BB%E6%AD%A5-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%87%BA%E9%97%9C%E9%8D%B5%E5%8E%9F%E5%9B%A0-135056478.html",
-      "description": "圖／示意圖商傳媒｜吳承岳／台北報導隨著2026年到來，全球主要人工智慧（AI）企業如OpenAI和Google正加速推動AI代理（AI Agent）的實際應用。這使得越來越多公司將AI代理整合至其服務中，促使消費者的購買行為從傳統的搜尋模式轉向與AI進行對話。 然而，電通（dentsu Japan）首席人工智慧長兼首席人工智慧大師並河進（Susumu Namikawa）卻預期...",
-      "pubDate": "Mon, 25 May 2026 21:50:56 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "金門縣38家業者榮獲114年「好客民宿」認證 縣府加碼發獎勵金助推觀光",
-      "link": "https://tw.news.yahoo.com/%E9%87%91%E9%96%80%E7%B8%A338%E5%AE%B6%E6%A5%AD%E8%80%85%E6%A6%AE%E7%8D%B2114%E5%B9%B4-%E5%A5%BD%E5%AE%A2%E6%B0%91%E5%AE%BF-%E8%AA%8D%E8%AD%89-%E7%B8%A3%E5%BA%9C%E5%8A%A0%E7%A2%BC%E7%99%BC%E7%8D%8E%E5%8B%B5%E9%87%91%E5%8A%A9%E6%8E%A8%E8%A7%80%E5%85%89-134806003.html",
-      "description": "【記者 洪美滿／金門 報導】李文良副縣長於5月25日下午在金門縣府新聞發布室接見金門縣榮獲交通部觀光署「好客民",
-      "pubDate": "Mon, 25 May 2026 21:48:06 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "市值衝台股第九！國巨本益比飆54倍 明起攜手被動元件族群「關禁閉」",
-      "link": "https://tw.news.yahoo.com/%E5%B8%82%E5%80%BC%E8%A1%9D%E5%8F%B0%E8%82%A1%E7%AC%AC%E4%B9%9D-%E5%9C%8B%E5%B7%A8%E6%9C%AC%E7%9B%8A%E6%AF%94%E9%A3%8654%E5%80%8D-%E6%98%8E%E8%B5%B7%E6%94%9C%E6%89%8B%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E6%97%8F%E7%BE%A4-%E9%97%9C%E7%A6%81%E9%96%89-134641661.html",
-      "description": "台股多頭氣勢如虹，被動元件龍頭大廠國巨*（2327）近日成為市場瘋狂追逐焦點，受惠於買盤強勁簇擁，國巨股價寫下驚人漲幅，統計最近六個營業日累積收盤價漲幅已達43.62％，起迄兩個營業日價差更驚飆190元；若拉長至最近三十個營業日，累計漲幅更是高達127.67％。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "高鐵大癱瘓...陳世凱稱不排除遭攻擊 專家：現階段言之過早",
-      "link": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E5%A4%A7%E7%99%B1%E7%98%93-%E9%99%B3%E4%B8%96%E5%87%B1%E7%A8%B1%E4%B8%8D%E6%8E%92%E9%99%A4%E9%81%AD%E6%94%BB%E6%93%8A-%E5%B0%88%E5%AE%B6-%E7%8F%BE%E9%9A%8E%E6%AE%B5%E8%A8%80%E4%B9%8B%E9%81%8E%E6%97%A9-134641531.html",
-      "description": "台灣高鐵今天清晨因苗栗路段發生號誌訊號異常，引發近年來最嚴重的延誤事件，許多人受影響，連交通部長陳世凱和多位立委也卡在高鐵上。陳世凱下午受訪時表示，交通部將全面調查事故原因，不排除遭到攻擊的可能性。鐵道專家表示，若朝「攻擊」方向推論，應以阻斷高鐵系統為目的，但高鐵仍維持部分通行、未完全癱瘓，相關動機與手法都還需進一步釐清。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "柯文哲案合議庭有變數？呂寧莉填調動意願 審判長判過太陽花占行政院",
-      "link": "https://tw.news.yahoo.com/%E6%9F%AF%E6%96%87%E5%93%B2%E6%A1%88%E5%90%88%E8%AD%B0%E5%BA%AD%E6%9C%89%E8%AE%8A%E6%95%B8-%E5%91%82%E5%AF%A7%E8%8E%89%E5%A1%AB%E8%AA%BF%E5%8B%95%E6%84%8F%E9%A1%98-%E5%AF%A9%E5%88%A4%E9%95%B7%E5%88%A4%E9%81%8E%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%8D%A0%E8%A1%8C%E6%94%BF%E9%99%A2-134641744.html",
-      "description": "民眾黨前主席柯文哲京華城容積率收賄、圖利等案一審判刑17年，檢辯雙方均提上訴，台北地方法院今將卷宗送達二審，台灣高等法院今已電腦分案，由法官呂寧莉擔任受命法官。不過，呂寧莉已填今年度有調動意願，因此八月份法官調動之後，柯案受命法官仍有變動的可能。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "美智庫：伊朗似乎自認為在談判中處於強勢地位",
-      "link": "https://tw.news.yahoo.com/%E7%BE%8E%E6%99%BA%E5%BA%AB-%E4%BC%8A%E6%9C%97%E4%BC%BC%E4%B9%8E%E8%87%AA%E8%AA%8D%E7%82%BA%E5%9C%A8%E8%AB%87%E5%88%A4%E4%B8%AD%E8%99%95%E6%96%BC%E5%BC%B7%E5%8B%A2%E5%9C%B0%E4%BD%8D-134641319.html",
-      "description": "英國天空新聞報導，隨著美伊談判持續進行，分析家指出，伊朗似乎自認為處於強勢地位。美國智庫戰爭研究所（ISW）最新分析顯示，伊朗正「試圖重塑區域秩序，使自身受益」。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "曾爭取百國免簽…前外交部長楊進添逝世享壽83歲 外交部表達誠摯哀悼",
-      "link": "https://tw.news.yahoo.com/%E6%9B%BE%E7%88%AD%E5%8F%96%E7%99%BE%E5%9C%8B%E5%85%8D%E7%B0%BD-%E5%89%8D%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%B7%E6%A5%8A%E9%80%B2%E6%B7%BB%E9%80%9D%E4%B8%96%E4%BA%AB%E5%A3%BD83%E6%AD%B2-%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E9%81%94%E8%AA%A0%E6%91%AF%E5%93%80%E6%82%BC-134641227.html",
-      "description": "外交部今天表示，外交部前部長楊進添於今年5月24日逝世，享壽83歲。外交部長林佳龍代表外交部全體同仁向楊前部長家屬表達誠摯哀悼。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "肇因曝光！高鐵「電力模組更換異常」致嚴重延誤 明首班車前公告營運",
-      "link": "https://tw.news.yahoo.com/%E8%82%87%E5%9B%A0%E6%9B%9D%E5%85%89-%E9%AB%98%E9%90%B5-%E9%9B%BB%E5%8A%9B%E6%A8%A1%E7%B5%84%E6%9B%B4%E6%8F%9B%E7%95%B0%E5%B8%B8-%E8%87%B4%E5%9A%B4%E9%87%8D%E5%BB%B6%E8%AA%A4-%E6%98%8E%E9%A6%96%E7%8F%AD%E8%BB%8A%E5%89%8D%E5%85%AC%E5%91%8A%E7%87%9F%E9%81%8B-134641508.html",
-      "description": "台灣高鐵今因號誌訊號異常發生近年來最嚴重延誤，高鐵公司說明，今清晨進行轉轍器控制機箱的電力模組計畫性排程維，更新後出現電流不穩定的狀況，導致現場轉轍器無法定位，只能仰賴人工「一班一班授權通過」，預計將於明凌晨12時5分收班後進行搶修，至於明天營運狀況，將於首班列車營運前公告。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "屏東縣5月第3起溺水…國中同學結伴霧台瀑布戲水 少年救起送醫不治",
-      "link": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E7%B8%A35%E6%9C%88%E7%AC%AC3%E8%B5%B7%E6%BA%BA%E6%B0%B4-%E5%9C%8B%E4%B8%AD%E5%90%8C%E5%AD%B8%E7%B5%90%E4%BC%B4%E9%9C%A7%E5%8F%B0%E7%80%91%E5%B8%83%E6%88%B2%E6%B0%B4-%E5%B0%91%E5%B9%B4%E6%95%91%E8%B5%B7%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-134641858.html",
-      "description": "炎炎夏日，屏東縣5月初短短6天在瑪家鄉兩起溺水事件釀兩死，未料5月25日今下午在霧台鄉霧台瀑布，5名來自高雄的高中生們，其中17歲吳姓少年沉入水中，消防員救起後OHCA送醫。這是屏東縣今年5月發生第3起溺水案件。",
-      "pubDate": "Mon, 25 May 2026 21:46:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "中山大學.日本瑞穗銀行簽MOU 共育亞洲金融人才",
-      "link": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%B8-%E6%97%A5%E6%9C%AC%E7%91%9E%E7%A9%97%E9%8A%80%E8%A1%8C%E7%B0%BDmou-%E5%85%B1%E8%82%B2%E4%BA%9E%E6%B4%B2%E9%87%91%E8%9E%8D%E4%BA%BA%E6%89%8D-134602492.html",
-      "description": "南部中心／鄧山田、陳姵妡 高雄報導國立中山大學國際金融研究學院，跟日本三大金融集團之一的\"瑞穗銀行\"，正式簽署合作備忘錄。這不僅是該學院首度聯手外商銀行，更是第一家建立正式合作關係的日本銀行。雙方未來將透過海外參訪、實務課程與產學合作，聯手培育具備國際視野跟實戰能力的金融人才。",
-      "pubDate": "Mon, 25 May 2026 21:46:02 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "偷電纜又涉毒駕 花蓮警連逮2嫌送辦",
-      "link": "https://tw.news.yahoo.com/%E5%81%B7%E9%9B%BB%E7%BA%9C%E5%8F%88%E6%B6%89%E6%AF%92%E9%A7%95-%E8%8A%B1%E8%93%AE%E8%AD%A6%E9%80%A3%E9%80%AE2%E5%AB%8C%E9%80%81%E8%BE%A6-134446696.html",
-      "description": "CNEWS匯流新聞網記者謝東明／台北報導 花蓮縣新城鄉北三棧地區，5月8日晚間8時許，突然傳出住宅停電事件。新城警分局表示，台電人員查看後發現，北三棧地區竟有電纜線遭竊，而造成附近民宅停電。另外懷恩橋路燈及部分產業道路路燈，也無法照明，已嚴重影響民眾生活及用路安全。組成專案小組展開調查後，鎖定2名男子涉嫌重大。員警先後循線逮獲楊姓、梁姓等2名男子到案。其中楊...",
-      "pubDate": "Mon, 25 May 2026 21:44:46 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "屏東枋寮五岔路口照相館大火 下班尖峰濃煙蔽日車輛慢速通行",
-      "link": "https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%9E%8B%E5%AF%AE%E4%BA%94%E5%B2%94%E8%B7%AF%E5%8F%A3%E7%85%A7%E7%9B%B8%E9%A4%A8%E5%A4%A7%E7%81%AB-%E4%B8%8B%E7%8F%AD%E5%B0%96%E5%B3%B0%E6%BF%83%E7%85%99%E8%94%BD%E6%97%A5%E8%BB%8A%E8%BC%9B%E6%85%A2%E9%80%9F%E9%80%9A%E8%A1%8C-134440209.html",
-      "description": "屏東縣枋寮鄉是南台灣公路交通樞紐，其中水底寮的五岔路口更被視為南灣的交通壅塞熱點，今天下午路旁一處連棟透天店面住宅發生大火，由於天乾物燥，火勢一發不可收拾，消防局在晚間終於控制住火勢。這起火災發生在下午4時左右，行經五岔路口的用路人突見路面濃煙蔽日，這才發現是在五岔路口旁一處3連棟透天店面的照相館，",
-      "pubDate": "Mon, 25 May 2026 21:44:40 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "川普擬擴大亞伯拉罕協議 促中東多國同步加入以解決伊朗問題",
-      "link": "https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%93%AC%E6%93%B4%E5%A4%A7%E4%BA%9E%E4%BC%AF%E6%8B%89%E7%BD%95%E5%8D%94%E8%AD%B0-%E4%BF%83%E4%B8%AD%E6%9D%B1%E5%A4%9A%E5%9C%8B%E5%90%8C%E6%AD%A5%E5%8A%A0%E5%85%A5%E4%BB%A5%E8%A7%A3%E6%B1%BA%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C-132650468.html",
-      "description": "美國總統川普近日表示，為達成與伊朗的協議，卡達、巴基斯坦、埃及、約旦及土耳其等國應集體加入《亞伯拉罕協議》。川普透露已與多國領袖通話，目標是透過擴大與以色列關係正常化，來解決區域衝突。",
-      "pubDate": "Mon, 25 May 2026 21:41:53 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "教宗發布AI通諭籲「解除技術武裝」 警告演算法恐淪新型奴役工具",
-      "link": "https://tw.news.yahoo.com/%E6%95%99%E5%AE%97%E7%99%BC%E5%B8%83ai%E9%80%9A%E8%AB%AD%E7%B1%B2-%E8%A7%A3%E9%99%A4%E6%8A%80%E8%A1%93%E6%AD%A6%E8%A3%9D-%E8%AD%A6%E5%91%8A%E6%BC%94%E7%AE%97%E6%B3%95%E6%81%90%E6%B7%AA%E6%96%B0%E5%9E%8B%E5%A5%B4%E5%BD%B9%E5%B7%A5%E5%85%B7-132650115.html",
-      "description": "教宗 Leo XIV 週一發表首份通諭《Magnifica Humanitas》，針對快速發展的人工智慧（AI）提出嚴正警告。他呼籲應「解除 AI 的武裝」，防止技術淪為地緣政治或商業競爭的工具，並提醒世人警惕隱藏在演算法背後的新型奴役與剝削問題。",
-      "pubDate": "Mon, 25 May 2026 21:41:53 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "以色列指控真主黨毀約！軍方對黎巴嫩10村莊發布撤離令",
-      "link": "https://tw.news.yahoo.com/%E4%BB%A5%E8%89%B2%E5%88%97%E6%8C%87%E6%8E%A7%E7%9C%9F%E4%B8%BB%E9%BB%A8%E6%AF%80%E7%B4%84-%E8%BB%8D%E6%96%B9%E5%B0%8D%E9%BB%8E%E5%B7%B4%E5%AB%A910%E6%9D%91%E8%8E%8A%E7%99%BC%E5%B8%83%E6%92%A4%E9%9B%A2%E4%BB%A4-132651946.html",
-      "description": "以色列軍方週一針對黎巴嫩南部10個村莊發布緊急撤離令，指控真主黨（Hezbollah）違反停火協議，將對其目標發動強力打擊。軍方要求居民立即遠離村莊至少1000公尺，以確保自身安全，顯示當地局勢再度陷入緊張。",
-      "pubDate": "Mon, 25 May 2026 21:41:53 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "敘利亞庫德族拒絕大馬士革指派代表 痛批議會選拔不民主",
-      "link": "https://tw.news.yahoo.com/%E6%95%98%E5%88%A9%E4%BA%9E%E5%BA%AB%E5%BE%B7%E6%97%8F%E6%8B%92%E7%B5%95%E5%A4%A7%E9%A6%AC%E5%A3%AB%E9%9D%A9%E6%8C%87%E6%B4%BE%E4%BB%A3%E8%A1%A8-%E7%97%9B%E6%89%B9%E8%AD%B0%E6%9C%83%E9%81%B8%E6%8B%94%E4%B8%8D%E6%B0%91%E4%B8%BB-134151955.html",
-      "description": "敘利亞東北部庫德族政黨於週一發表聲明，拒絕接受由大馬士革當局主導的議會代表選拔結果。庫德族勢力痛批，這種由上而下的指派方式缺乏民主基礎，完全無視當地民意，無法代表敘利亞人民的真實意志。",
-      "pubDate": "Mon, 25 May 2026 21:41:51 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "pubDate": "Mon, 25 May 2026 13:40:28 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Australia politics live: Alex Antic cites ‘dream team’ of Abbott, Canavan and Taylor as inspiration for bid to lead SA Liberals",
+      "link": "https://www.theguardian.com/australia-news/live/2026/may/26/australia-politics-live-renewables-climate-bhp-files-budget-capital-gains-tax-jim-chalmers-anthony-albanese-question-time-senate-estimates-ntwnfb",
+      "description": "State tilt would seemingly end speculation South Australian senator could defect to One Nation. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘This is very good value for money for Australia’: Bowen defends COP role Chris Bowen , who has also taken on the role of president of negotiations at the Cop climate summit, says that Australia’s involvement is “very good value for money”. Mr T [is] out there saying it’s $200m. He’s lying. Secondly, these things do cost money. It cost money when John Howard chaired Apec. It cost money when Tony Abbott chaired G20. They were good for the country and the Labor party supported them because we’re a patriotic party. So this is an opportunity for Australia to play an outsized role in the climate negotiations. This is a 12-month presidency. Most of the money has not yet been spent to answer your question, Mel. This is very good value for money for Australia. More renewable energy in the grid; Renewable batteries absorbing some of the coal and gas being used at peak times during the night; Reforming the default market offer to ensure “that only the absolutely necessary prices or costs are included.” What we’re seeing is batteries working to what we call flatten the peak. So the biggest pressure on prices is in the night-time when coal and gas are called upon more. When we’re calling on batteries more, which saves the renewables from the middle of the day for the night, that is really putting very significant downward pressure on prices. There have been impacts on gas production but we’re really mainly seeing the impact on oil at the moment. But we’re not complacent. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 02:24:58 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "輝達高層：AI 不取代銀行員 而是重塑業務結構",
-      "link": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E9%AB%98%E5%B1%A4-ai-%E4%B8%8D%E5%8F%96%E4%BB%A3%E9%8A%80%E8%A1%8C%E5%93%A1-%E8%80%8C%E6%98%AF%E9%87%8D%E5%A1%91%E6%A5%AD%E5%8B%99%E7%B5%90%E6%A7%8B-134027447.html",
-      "description": "商傳媒｜吳承岳／台北報導輝達（NVIDIA）銀行策略統籌 Acer Blanco 近日駁斥人工智慧（AI）將導致銀行員失業的論點，強調 AI 的影響與 1960 年代電腦導入銀行業時的情況類似，重點在於工作性質的轉變，而非人力數量的減少。 Acer Blanco 指出，在 1960 年代電腦開始被銀行採用時，社會上也曾出現「人類將不再需要」的聲音。然而，歷史數據顯示，到了 1980 年，美國銀行業的員工數不僅增長了三倍，資產規模更擴大了十八倍。這段期間，運算技術推動了銀行業數十年的快速成長，同時也促使員工體制進行調整。 他解釋，1960...",
-      "pubDate": "Mon, 25 May 2026 21:40:27 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "發票沒中沒關係！威力彩「6億頭獎」開獎 幸運獎號曝",
-      "link": "https://tw.stock.yahoo.com/news/%E7%99%BC%E7%A5%A8%E6%B2%92%E4%B8%AD%E6%B2%92%E9%97%9C%E4%BF%82-%E5%A8%81%E5%8A%9B%E5%BD%A9-6%E5%84%84%E9%A0%AD%E7%8D%8E-%E9%96%8B%E7%8D%8E-%E5%B9%B8%E9%81%8B%E7%8D%8E%E8%99%9F%E6%9B%9D-134000130.html",
-      "description": "[FTNN新聞網]記者邱梓欣／綜合報導此次威力彩頭獎獎金上看6億元！而今（25）日第115000127期威力彩開獎號碼出爐，第一區獎號由小到大依序為09、17、21、24、3...",
-      "pubDate": "Mon, 25 May 2026 21:40:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "伺服器占比拚5成！「這檔」EPS衝3.91元 三大法人卻倒貨逾1.5萬張結帳13.4億元",
-      "link": "https://tw.stock.yahoo.com/news/%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%8D%A0%E6%AF%94%E6%8B%9A5%E6%88%90-%E9%80%99%E6%AA%94-eps%E8%A1%9D3-91%E5%85%83-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%8D%BB%E5%80%92%E8%B2%A8%E9%80%BE1-134000355.html",
-      "description": "[FTNN新聞網]記者黃詩雯／綜合報導台股加權指數今（25）日開高走高，盤中跨越4萬3大關，終場收43,644.4點，創收盤新高，據證交所籌碼動向，三大法人買超647.6...",
-      "pubDate": "Mon, 25 May 2026 21:40:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "王俐人赴SWAG撈金！揭沒買「台積電股票、ETF」原因",
-      "link": "https://tw.news.yahoo.com/%E7%8E%8B%E4%BF%90%E4%BA%BA%E8%B5%B4swag%E6%92%88%E9%87%91-%E6%8F%AD%E6%B2%92%E8%B2%B7-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8-etf-%E5%8E%9F%E5%9B%A0-133913728.html",
-      "description": "娛樂中心／駱瑩倫報導資深女星王俐人近期因債務壓力積極尋求轉型，甚至嘗試改走性感路線投入直播帶貨市場，引發外界關注。她日前登上節目《財經鈔能力》時，也難得在鏡頭前坦率談及自己的財務狀況與人生規劃，首度揭開長年背負債務所帶來的壓力。她透露，過去7年間為了償還高達2000萬元的債務，生活幾乎被工作填滿，長時間不是在餐廳就是在各種工作場域拚命賺錢。她表示，當時所有演藝收入與副業進帳幾乎都無法留下，一進帳就必須優先用於支付利息與還款，幾乎沒有多餘資金進行理財配置或投資規劃。在這段漫長的還債過程中，她形容自己長期處於「被數字追著跑」的狀態...",
-      "pubDate": "Mon, 25 May 2026 21:39:13 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "魚池鄉「幸福巴士」試營運 7/31止免費搭",
-      "link": "https://tw.news.yahoo.com/%E9%AD%9A%E6%B1%A0%E9%84%89-%E5%B9%B8%E7%A6%8F%E5%B7%B4%E5%A3%AB-%E8%A9%A6%E7%87%9F%E9%81%8B-7-31%E6%AD%A2%E5%85%8D%E8%B2%BB%E6%90%AD-133900685.html",
-      "description": "南投縣魚池鄉「幸福巴士」25日開通，並自即日起試營運至7月31日止，鄉親搭乘幸福巴士可享免費優惠。開通儀式在魚池鄉公所舉行，副縣長王瑞代表縣長許淑華主持活動，台中監理所長楊聰賢、魚池鄉長劉啟帆、縣府工務處長張弘岳，縣議員謝明謀、王秋淑、石慶龍、陳淑惠，魚池代表會副主席王若嵐等民意代表出席，宣告魚池鄉正式加入幸福巴士服務行列。王副縣長表示，幸福巴士2.0是南投縣因應山區地理環境與交通特性，特別規劃的需求反應式運輸服務。鄉親只需在前一天預約，隔天巴士便會依照需求定時定點往返指定地點，服務範圍涵蓋就醫、工作、日常採買等各種生活需求...",
-      "pubDate": "Mon, 25 May 2026 21:39:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "奇美新董首秀2／紅海市場力拼高質＋客製化 奇美不當排碳大戶",
-      "link": "https://tw.news.yahoo.com/%E5%A5%87%E7%BE%8E%E6%96%B0%E8%91%A3%E9%A6%96%E7%A7%802-%E7%B4%85%E6%B5%B7%E5%B8%82%E5%A0%B4%E5%8A%9B%E6%8B%BC%E9%AB%98%E8%B3%AA-%E5%AE%A2%E8%A3%BD%E5%8C%96-%E5%A5%87%E7%BE%8E%E4%B8%8D%E7%95%B6%E6%8E%92%E7%A2%B3%E5%A4%A7%E6%88%B6-133900487.html",
-      "description": "奇美創辦人許文龍之子許家彰，在5月5日接任奇美實業董事長，然而目前的全球石化產業正面臨中東戰事、產能過剩等亂局，許家彰今（25）日表示，現在不做產能擴張，專注於「高質」與「高值」，產品應用跨足醫療器材、半導體、網通等高階市場，也有客製化能力，數位轉型也很重要。",
-      "pubDate": "Mon, 25 May 2026 21:39:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "奇美新董首秀1／奇美二代許家彰正式接班 傳承「幸福哲學」",
-      "link": "https://tw.news.yahoo.com/%E5%A5%87%E7%BE%8E%E6%96%B0%E8%91%A3%E9%A6%96%E7%A7%801-%E5%A5%87%E7%BE%8E%E4%BA%8C%E4%BB%A3%E8%A8%B1%E5%AE%B6%E5%BD%B0%E6%AD%A3%E5%BC%8F%E6%8E%A5%E7%8F%AD-%E5%82%B3%E6%89%BF-%E5%B9%B8%E7%A6%8F%E5%93%B2%E5%AD%B8-133900509.html",
-      "description": "「我有一個很好的老師，叫做許文龍！」奇美實業新任董事長許家彰上任半個月，今（25）日首度接受媒體訪問，身為奇美創辦人許文龍之子，他也很會拉小提琴，更要把父親著名的「幸福哲學」傳承下去。",
-      "pubDate": "Mon, 25 May 2026 21:39:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "美伊終戰伊朗贏了？川普背棄「美國優先」引爆共和黨內鬥？嚴震生：共和黨人終於良心發現！",
-      "link": "https://tw.news.yahoo.com/%E7%BE%8E%E4%BC%8A%E7%B5%82%E6%88%B0%E4%BC%8A%E6%9C%97%E8%B4%8F%E4%BA%86-%E5%B7%9D%E6%99%AE%E8%83%8C%E6%A3%84-%E7%BE%8E%E5%9C%8B%E5%84%AA%E5%85%88-%E5%BC%95%E7%88%86%E5%85%B1%E5%92%8C%E9%BB%A8%E5%85%A7%E9%AC%A5-%E5%9A%B4%E9%9C%87%E7%94%9F-133536907.html",
-      "description": "美國總統川普近日聲稱與伊朗的協議已經完成95%，但美國媒體Axios揭露協議草案主要聚焦於荷姆茲海峽的重啟與航行自由，並包括華府對德黑蘭的重大讓步。此消息一出引發美國共和黨鷹派強烈批評，川普的親密盟友、聯邦參議員葛蘭姆（Lindsey Graham）質疑這項協議將成為以色列的噩夢，美國前國務卿蓬佩奧（Mike Pompeo）更是直言這項協議根本不符合所謂的「美國優先」。對此，白宮通訊主任張振熙則是回嗆「閉上你的笨嘴」",
-      "pubDate": "Mon, 25 May 2026 21:35:36 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "股民注意！10檔個股「抓去關」 最長處置到6/8",
-      "link": "https://tw.news.yahoo.com/%E8%82%A1%E6%B0%91%E6%B3%A8%E6%84%8F-10%E6%AA%94%E5%80%8B%E8%82%A1-%E6%8A%93%E5%8E%BB%E9%97%9C-%E6%9C%80%E9%95%B7%E8%99%95%E7%BD%AE%E5%88%B06-8-133400932.html",
-      "description": "證交所、櫃買中心今（25）日公布最新處置有價證券名單，共有10檔個股遭列入處置措施，包括國巨*（2327）、隴華（2424）、大毅（2478）、禾伸堂（3026）、大量（3167）、國精化（4722）、事欣科（4916）、森崴能源（6805）、尖點（8021）及昇達科（3491）等。其中，除森崴能源自6月3日起列入處置外，其餘個股均自明（26）日起列入處置，期間至6月8日止。 10檔處置股撮合頻率一次看 此次10檔處置股中，國巨*、大毅、國精化、事欣科及昇達科採每5分鐘撮合一次；隴華為每10分鐘撮合一次；禾伸堂、大量及尖點為每20分鐘撮合一次；森崴能源則為每60分鐘撮合一次。 禾伸堂二度延長 森崴能源續列處置...",
-      "pubDate": "Mon, 25 May 2026 21:34:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "高雄老師休假「返校墜樓」身亡 學生目睹嚇壞",
-      "link": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%80%81%E5%B8%AB%E4%BC%91%E5%81%87-%E8%BF%94%E6%A0%A1%E5%A2%9C%E6%A8%93-%E8%BA%AB%E4%BA%A1-%E5%AD%B8%E7%94%9F%E7%9B%AE%E7%9D%B9%E5%9A%87%E5%A3%9E-133200317.html",
-      "description": "高雄市某國小今（25日）發生老師不明原因墜樓案件，由於正值上課時間，許多學生目睹驚人這一幕嚇壞。警消獲報後緊急到場，將老師送醫搶救，最後還是宣告不治，詳細事發原因還有待進一步調查釐清。 警方初步調查指出，該名老師為學校自然老師，目前請長假當中，今天不明原因回到學校，卻在校內發生墜樓。 輕生不能解決問題！東森新聞關心您 生命誠可貴，輕生不能解決問題 退一步想，可為生命找到出路！ 珍愛生命，請撥打1925自殺防治安心專線 輕生防治諮詢安心專線：1925(依舊愛我) 張老師專線：1980 【本文由東森新聞提供，未經授權，請勿轉載！】",
-      "pubDate": "Mon, 25 May 2026 21:32:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "年初才出書！百國免簽推手前外長楊進添逝世",
-      "link": "https://tw.news.yahoo.com/%E5%B9%B4%E5%88%9D%E6%89%8D%E5%87%BA%E6%9B%B8-%E7%99%BE%E5%9C%8B%E5%85%8D%E7%B0%BD%E6%8E%A8%E6%89%8B%E5%89%8D%E5%A4%96%E9%95%B7%E6%A5%8A%E9%80%B2%E6%B7%BB%E9%80%9D%E4%B8%96-133027543.html",
-      "description": "[NOWNEWS今日新聞]中華民國資深外交官、前外交部長及總統府秘書長楊進添於昨（24）日逝世，享壽83歲。外交部長林佳龍今（25）日晚間代表全體同仁，向家屬致哀。外交部特別感念楊進添過去對國家的付出...",
-      "pubDate": "Mon, 25 May 2026 21:30:27 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "高爾夫》歷經二十年巡迴世界各地，韓德終於打回「美巡賽」！",
-      "link": "https://tw.sports.yahoo.com/news/%E9%AB%98%E7%88%BE%E5%A4%AB-%E6%AD%B7%E7%B6%93%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%B7%A1%E8%BF%B4%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0-%E9%9F%93%E5%BE%B7%E7%B5%82%E6%96%BC%E6%89%93%E5%9B%9E-%E7%BE%8E%E5%B7%A1%E8%B3%BD-133018456.html",
-      "description": "【羅開新聞中心Minsey Weng綜合報導】繼紐西蘭選手Steven Alker（史蒂芬‧艾爾克）之後，冠巡賽又殺出一匹來自澳大拉西亞的黑馬，這個傢伙就是澳洲重砲手Scott",
-      "pubDate": "Mon, 25 May 2026 21:30:18 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "「德山GD」誕生 住持淡定跳《Good Boy》 全網直接淪陷",
-      "link": "https://tw.news.yahoo.com/%E5%BE%B7%E5%B1%B1gd-%E8%AA%95%E7%94%9F-%E4%BD%8F%E6%8C%81%E6%B7%A1%E5%AE%9A%E8%B7%B3-good-boy-133000225.html",
-      "description": "南韓帝王級男團BIGBANG神級成員「GD， G-Dragon」權志龍影響力太大，竟然連寺廟裡的僧侶也大跳GD和太陽的經典歌曲《Good Boy》，全程表情淡定、舞步俐落，令人嘆為觀止。網友紛紛打趣：不知道為什麼，一看就看了兩小時。南韓首爾的曹溪寺日前在擁有逾1200年歷史的韓國佛教盛會「燃燈節」上",
-      "pubDate": "Mon, 25 May 2026 21:30:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "很多人誤解！3異常「非老了而是輕度失智」 醫籲考慮輔助宣告",
-      "link": "https://tw.news.yahoo.com/%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AA%A4%E8%A7%A3-3%E7%95%B0%E5%B8%B8-%E9%9D%9E%E8%80%81%E4%BA%86%E8%80%8C%E6%98%AF%E8%BC%95%E5%BA%A6%E5%A4%B1%E6%99%BA-%E9%86%AB%E7%B1%B2%E8%80%83%E6%85%AE%E8%BC%94%E5%8A%A9%E5%AE%A3%E5%91%8A-133000486.html",
-      "description": "失智如何判定？不少家中有長輩的人疑惑，精神科醫師沈政男指出，吃便當、洗澡等日常打理尚可，但若外出買便當出問題如忘記付錢、走不回家，或吃藥吃錯、坐大眾運輸出狀況，建議帶其做專業測驗，判斷是否為輕度失智，勿將此認為「老了所以沒辦法買便當」。而若親人有失智症狀，可考慮申請輔助宣告，找人輔助其做投資、上法院等重大事項。",
-      "pubDate": "Mon, 25 May 2026 21:30:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "全民炒股！「擦鞋童理論」大崩盤還適用？ 網揭5大關鍵：這次不一樣了",
-      "link": "https://tw.news.yahoo.com/%E5%85%A8%E6%B0%91%E7%82%92%E8%82%A1-%E6%93%A6%E9%9E%8B%E7%AB%A5%E7%90%86%E8%AB%96-%E5%A4%A7%E5%B4%A9%E7%9B%A4%E9%82%84%E9%81%A9%E7%94%A8-%E7%B6%B2%E6%8F%AD5%E5%A4%A7%E9%97%9C%E9%8D%B5-%E9%80%99%E6%AC%A1%E4%B8%8D-132900130.html",
-      "description": "台股近年多頭氣勢勢不可擋，全民炒股儼然成為新國民運動。25日有網友在 PTT 股板（Stock）發文表示，大約一年前就看到大街小巷的婆婆媽媽都在討論股票、證券開戶熱到不行，本以為經典的「擦鞋童理論」要發威、股市即將過熱大崩盤，沒想到一年過去台股非但沒跌還繼續狂噴，讓原 PO 傻眼直呼：「擦鞋童理論是不是不適用了？」",
-      "pubDate": "Mon, 25 May 2026 21:29:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "0050再度破100元！達人嚇「何時再分割？」籲做1操作",
-      "link": "https://tw.stock.yahoo.com/news/0050%E5%86%8D%E5%BA%A6%E7%A0%B4100%E5%85%83-%E9%81%94%E4%BA%BA%E5%9A%87-%E4%BD%95%E6%99%82%E5%86%8D%E5%88%86%E5%89%B2-%E7%B1%B2%E5%81%9A1%E6%93%8D%E4%BD%9C-132851198.html",
-      "description": "財經中心／周孟漢報導台股今（25日）多頭氣勢強到破表！加權指數開高走高，終場狂飆 1376.43 點，以 43644.4 點改寫收盤歷史新高，創下台股史上第 5 大收盤漲點，成交量更爆出 13013.25 億元，其中深受國人喜愛的 0050（元大台灣50）股價更是突破 100 元，已經逐漸逼近去（2025）年分割時的價格，讓投資達人清流君驚訝，呼籲投資人做「1操作」就對了，但也好奇「什麼時候還要再分割？」文章曝光後引發討論。",
-      "pubDate": "Mon, 25 May 2026 21:28:51 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "周美青早下令！王光慈爆醫囑：馬不宜露面",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E7%BE%8E%E9%9D%92%E6%97%A9%E4%B8%8B%E4%BB%A4-%E7%8E%8B%E5%85%89%E6%85%88%E7%88%86%E9%86%AB%E5%9B%91-%E9%A6%AC%E4%B8%8D%E5%AE%9C%E9%9C%B2%E9%9D%A2-092707705.html",
-      "description": "[NOWNEWS今日新聞]馬英九基金會爭議持續擴大，前國安會秘書長金溥聰今（25）日率律師、會計師召開記者會，指控前執行長蕭旭岑與王光慈涉及收受對岸不明捐款、未依規定入帳，以及現金發放年終獎金等財務紀...",
-      "pubDate": "Mon, 25 May 2026 21:28:49 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "蕭旭岑捧一疊鈔票！他嚇喊：金溥聰寶刀未老",
-      "link": "https://tw.news.yahoo.com/%E8%95%AD%E6%97%AD%E5%B2%91%E6%8D%A7-%E7%96%8A%E9%88%94%E7%A5%A8-%E4%BB%96%E5%9A%87%E5%96%8A-%E9%87%91%E6%BA%A5%E8%81%B0%E5%AF%B6%E5%88%80%E6%9C%AA%E8%80%81-081219700.html",
-      "description": "[NOWNEWS今日新聞]馬英九基金會今（25）日召開記者會，前國安會秘書長、馬英九重量級親信金溥聰公開了震撼一幕，畫面中前基金會執行長蕭旭岑「手捧一疊現金」，怒控其曾收受台商款項，卻沒有相關入帳紀錄...",
-      "pubDate": "Mon, 25 May 2026 21:27:46 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "老戰友力挺馬英九！王世堅：是非與失智無關",
-      "link": "https://tw.news.yahoo.com/%E8%80%81%E6%88%B0%E5%8F%8B%E5%8A%9B%E6%8C%BA%E9%A6%AC%E8%8B%B1%E4%B9%9D-%E7%8E%8B%E4%B8%96%E5%A0%85-%E6%98%AF%E9%9D%9E%E8%88%87%E5%A4%B1%E6%99%BA%E7%84%A1%E9%97%9C-074850375.html",
-      "description": "[NOWNEWS今日新聞]前總統馬英九日前痛批基金會前執行長蕭旭岑是「貪污犯」，今（25）日更召開記者會，公開蕭手捧「一疊現金」的畫面，使整起事件持續升溫。對此，民進黨立委王世堅表示，雖然與馬英九分屬...",
-      "pubDate": "Mon, 25 May 2026 21:27:22 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "備受爭議的「增強運動會」和不被承認的「世界記錄」",
-      "link": "https://tw.news.yahoo.com/%E5%82%99%E5%8F%97%E7%88%AD%E8%AD%B0%E7%9A%84-%E5%A2%9E%E5%BC%B7%E9%81%8B%E5%8B%95%E6%9C%83-%E5%92%8C%E4%B8%8D%E8%A2%AB%E6%89%BF%E8%AA%8D%E7%9A%84-%E4%B8%96%E7%95%8C%E8%A8%98%E9%8C%84-132700825.html",
-      "description": "在拉斯維加斯舉行的所謂「增強運動會」（Enhanced Games）上，一名游泳選手服用興奮劑後創下了一項新的「世界記錄」，引發巨大爭議。",
-      "pubDate": "Mon, 25 May 2026 21:27:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "獨家／男大生拉「小風箏」橫渡 滑14公里抵達小琉球",
-      "link": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E7%94%B7%E5%A4%A7%E7%94%9F%E6%8B%89-%E5%B0%8F%E9%A2%A8%E7%AE%8F-%E6%A9%AB%E6%B8%A1-%E6%BB%9114%E5%85%AC%E9%87%8C%E6%8A%B5%E9%81%94%E5%B0%8F%E7%90%89%E7%90%83-132700251.html",
-      "description": "台南大學體育系大三學生「九為」，日前挑戰用新興的風力水上運動「小風箏」，從東港大鵬灣橫渡小琉球，全程只靠風力前進，他滑行38分鐘順利抵達小琉球，回程順風滑更快，只花了28分鐘，在海上最高時速達50公里，這新奇的挑戰拍成影片，短短一天就吸引57萬人次觀看，不過九為也提醒，必須具備專業能力，並做好安全措施才能下水。 台南大學體育系學生九為：「今天我要用Parawing小風箏，橫渡小琉球，你覺得我能做到嗎？」 一手拉著小風箏，一手拿運動攝影機，腳踩浪板，準備挑戰橫渡大海，從大鵬灣一路到小琉球。 台南大學體育系學生九為：「風好像很小...",
-      "pubDate": "Mon, 25 May 2026 21:27:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "彰化最新民調炸鍋！藍白不合直送「她」上位",
-      "link": "https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E7%82%B8%E9%8D%8B-%E8%97%8D%E7%99%BD%E4%B8%8D%E5%90%88%E7%9B%B4%E9%80%81-%E5%A5%B9-%E4%B8%8A%E4%BD%8D-071139731.html",
-      "description": "[NOWNEWS今日新聞]年底彰化縣長選戰升溫，國民黨與民眾黨在提名策略上出現明顯分歧，也讓藍白整合話題再度浮上檯面。根據《CNEWS匯流新聞網》最新民調顯示，目前民進黨陳素月在三方競逐中暫居領先，若...",
-      "pubDate": "Mon, 25 May 2026 21:26:51 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "馬英九大姊恐敗訴？律師揭「這原因」最關鍵",
-      "link": "https://tw.news.yahoo.com/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E5%A4%A7%E5%A7%8A%E6%81%90%E6%95%97%E8%A8%B4-%E5%BE%8B%E5%B8%AB%E6%8F%AD-%E9%80%99%E5%8E%9F%E5%9B%A0-%E6%9C%80%E9%97%9C%E9%8D%B5-061241509.html",
-      "description": "[NOWNEWS今日新聞]前總統馬英九近期捲入失智風波，妻子周美青、大姊馬以南罕見發表聯合聲明，表示後續將由馬以南擔任主要執行者，協助處理馬英九相關事務；不過，馬英九隔日隨即公開反擊，強調事前並未同意...",
-      "pubDate": "Mon, 25 May 2026 21:26:23 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "蕭旭岑捧錢照震撼全台！律師：柯文哲翻版",
-      "link": "https://tw.news.yahoo.com/%E8%95%AD%E6%97%AD%E5%B2%91%E6%8D%A7%E9%8C%A2%E7%85%A7%E9%9C%87%E6%92%BC%E5%85%A8%E5%8F%B0-%E5%BE%8B%E5%B8%AB-%E6%9F%AF%E6%96%87%E5%93%B2%E7%BF%BB%E7%89%88-055113824.html",
-      "description": "[NOWNEWS今日新聞]馬英九基金會財政紀律風暴持續擴大，今（25）日大動作召開記者會，前國安會秘書長金溥聰更當場出示照片，指控前執行長蕭旭岑曾收受台商款項，卻沒有相關入帳紀錄，引爆外界高度關注。對...",
-      "pubDate": "Mon, 25 May 2026 21:25:58 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "８月北流開唱 羅大佑預約黃韻玲 共演望青春風",
-      "link": "https://tw.news.yahoo.com/%E6%9C%88%E5%8C%97%E6%B5%81%E9%96%8B%E5%94%B1-%E7%BE%85%E5%A4%A7%E4%BD%91%E9%A0%90%E7%B4%84%E9%BB%83%E9%9F%BB%E7%8E%B2-%E5%85%B1%E6%BC%94%E6%9C%9B%E9%9D%92%E6%98%A5%E9%A2%A8-132556749.html",
-      "description": "記者戴淑芳∕台北報導 集結半世紀音樂功力，羅大佑攜春龍交響樂團首度插旗北流開唱，跨界演繹時代經典撫慰人心展望「所以明天會更好」。 歷經3年巡演、走訪全球27座城市後，羅大佑將帶著春龍交響樂團唱回台北，宣布將於8月15、16日在台北流行音樂中心舉辦《所以明天會更好》羅大佑春龍交響宴。 提及會以40年前的創作〈明天會更好〉當成此次演出主軸的想法，其實來自於羅大佑有感於近期世界因戰爭、通膨及油價而動盪不安的局勢；從出道以來總是以關懷視角觀察社會現狀與時代脈動做為創作靈感的他感性表示：「2026年世界局勢劇烈動盪導致人心惶惶，此時更需要能挽回人心的旋律。」...",
-      "pubDate": "Mon, 25 May 2026 21:25:56 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "馬英九私下被叫這名字！老友：幫他不丟人",
-      "link": "https://tw.news.yahoo.com/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%A7%81%E4%B8%8B%E8%A2%AB%E5%8F%AB%E9%80%99%E5%90%8D%E5%AD%97-%E8%80%81%E5%8F%8B-%E5%B9%AB%E4%BB%96%E4%B8%8D%E4%B8%9F%E4%BA%BA-051808726.html",
-      "description": "[NOWNEWS今日新聞]前總統馬英九日前公開指控，10餘年心腹、前基金會執行長蕭旭岑涉財政紀律問題，沒想到卻被對方反咬「失智」；隨著馬家人向法院聲請輔助宣告，間接證實了馬英九身體有狀況。在風波延燒之...",
-      "pubDate": "Mon, 25 May 2026 21:25:28 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "挺國防遊行有1萬人？謝寒冰：我發雞排現場人還多一點",
-      "link": "https://tw.news.yahoo.com/%E6%8C%BA%E5%9C%8B%E9%98%B2%E9%81%8A%E8%A1%8C%E6%9C%891%E8%90%AC%E4%BA%BA-%E8%AC%9D%E5%AF%92%E5%86%B0-%E6%88%91%E7%99%BC%E9%9B%9E%E6%8E%92%E7%8F%BE%E5%A0%B4%E4%BA%BA%E9%82%84%E5%A4%9A-%E9%BB%9E-132456626.html",
-      "description": "為抗議在野陣營通過7800億國防特別預算，民團23日下午發起「真和平，要國防」遊行，要求對美軍購補足至1.25兆元，主辦單位喊出參與人數1萬人，但時常評論台灣時事的美籍國際政治觀察家方恩格，翻出了外媒「參與人數數百人」的報導。對此，資深媒體人謝寒冰直言，當天遊行的人數，看起來只比自己發雞排時的排隊人數多不到哪裡，「我覺得我們現場人好像還比較多一點」。",
-      "pubDate": "Mon, 25 May 2026 21:24:56 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "蕭旭岑樂捧一疊現金！她酸爆：鄭麗文還挺嗎",
-      "link": "https://tw.news.yahoo.com/%E8%95%AD%E6%97%AD%E5%B2%91%E6%A8%82%E6%8D%A7-%E7%96%8A%E7%8F%BE%E9%87%91-%E5%A5%B9%E9%85%B8%E7%88%86-%E9%84%AD%E9%BA%97%E6%96%87%E9%82%84%E6%8C%BA%E5%97%8E-040651723.html",
-      "description": "[NOWNEWS今日新聞]前總統馬英九日前指控，基金會前執行長蕭旭岑、王光慈違反財政紀律；蕭旭岑則反擊稱，馬英九疑似有「失智」情況，引爆外界關注其健康狀況。然而，馬英九基金會今（25）日召開記者會，先...",
-      "pubDate": "Mon, 25 May 2026 21:24:48 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "斑馬攻守全能 馬刺2:2扳平雷霆",
-      "link": "https://tw.news.yahoo.com/%E6%96%91%E9%A6%AC%E6%94%BB%E5%AE%88%E5%85%A8%E8%83%BD-%E9%A6%AC%E5%88%BA2-2%E6%89%B3%E5%B9%B3%E9%9B%B7%E9%9C%86-132426115.html",
-      "description": "本報綜合外電報導 NBA聖安東尼奧馬刺昨天在溫班亞馬領軍下，以103比82大破奧克拉荷馬雷霆，在西區冠軍賽追成2比2平手。溫班亞馬獨拿33分，同時還交出8籃板、5助攻、3阻攻的全能表現。 綜合法新社與美聯社報導，本季從未嘗過3連敗的馬刺昨天將士用命，主將溫班亞馬在31分鐘的上場時間裡22投11中、三分球7投3中。此外，福克斯也為馬刺貢獻12分、10籃板及5助攻，卡索和瓦瑟爾各有13分入帳。 溫班亞馬在上半場結束前投進生涯最遠的超大3分球，讓馬刺以50比38的優勢進更衣室，他上半場就已攻下22分。 溫班亞馬在第1節貢獻的11分中...",
-      "pubDate": "Mon, 25 May 2026 21:24:26 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "東元完成併購馬來西亞Dynaciate！搶攻東南亞AIDC商機，目標明年營收倍數成長",
-      "link": "https://tw.news.yahoo.com/%E6%9D%B1%E5%85%83%E5%AE%8C%E6%88%90%E4%BD%B5%E8%B3%BC%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9Edynaciate-%E6%90%B6%E6%94%BB%E6%9D%B1%E5%8D%97%E4%BA%9Eaidc%E5%95%86%E6%A9%9F-%E7%9B%AE%E6%A8%99%E6%98%8E%E5%B9%B4%E7%87%9F%E6%94%B6%E5%80%8D%E6%95%B8%E6%88%90%E9%95%B7-132411827.html",
-      "description": "東元電機（1504）加速搶攻AI資料中心基礎建設商機。東元今（25）日宣布，已與馬來西亞工程公司Dynaciate Engineering Sdn. Bhd.完成併購協議簽署，預計投資約2億馬幣、約新台幣16億元，並於8月底前完成交割。隨著全球雲端服務供應商（CSP）加快布局AI資料中心，東元也藉由這項併購補齊東南亞工程與模組化資料中心能力，目標帶動AIDC......",
-      "pubDate": "Mon, 25 May 2026 21:24:11 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "蕭旭岑拿錢為何還拍照？她：太不了解共產黨",
-      "link": "https://tw.news.yahoo.com/%E8%95%AD%E6%97%AD%E5%B2%91%E6%8B%BF%E9%8C%A2%E7%82%BA%E4%BD%95%E9%82%84%E6%8B%8D%E7%85%A7-%E5%A5%B9-%E5%A4%AA%E4%B8%8D%E4%BA%86%E8%A7%A3%E5%85%B1%E7%94%A2%E9%BB%A8-083648043.html",
-      "description": "[NOWNEWS今日新聞]馬英九基金會今（25）日召開記者會，前國安會秘書長金溥聰怒控，前執行長蕭旭岑宣稱自己沒接觸台商捐款、沒碰錢，但從王光慈電腦硬碟取得的照片，卻發現蕭旭岑與中國全國台聯常務副會長...",
-      "pubDate": "Mon, 25 May 2026 21:24:02 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "精準布局AI權值龍頭 兆豐00996A主動ETF爆量續刷掛牌新高價",
-      "link": "https://tw.news.yahoo.com/%E7%B2%BE%E6%BA%96%E5%B8%83%E5%B1%80ai%E6%AC%8A%E5%80%BC%E9%BE%8D%E9%A0%AD-%E5%85%86%E8%B1%9000996a%E4%B8%BB%E5%8B%95etf%E7%88%86%E9%87%8F%E7%BA%8C%E5%88%B7%E6%8E%9B%E7%89%8C%E6%96%B0%E9%AB%98%E5%83%B9-132356005.html",
-      "description": "市場多頭氣勢如虹，兆豐投信3月底掛牌、首檔主動式ETF「00996A」，因持股精準囊括台積電、臻鼎-KY、聯發科、台光電、國巨等AI權值龍頭，持續展現「價量齊揚」走勢。台股今（25）日收盤漲至43,644.40點，兆豐00996A持續刷新新高價，達15.26元、成交量更突破1.6萬張。",
-      "pubDate": "Mon, 25 May 2026 21:23:56 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "名聲恐輸陳水扁？媒體人嘆：那絕不是馬英九",
-      "link": "https://tw.news.yahoo.com/%E5%90%8D%E8%81%B2%E6%81%90%E8%BC%B8%E9%99%B3%E6%B0%B4%E6%89%81-%E5%AA%92%E9%AB%94%E4%BA%BA%E5%98%86-%E9%82%A3%E7%B5%95%E4%B8%8D%E6%98%AF%E9%A6%AC%E8%8B%B1%E4%B9%9D-033100979.html",
-      "description": "[NOWNEWS今日新聞]馬英九基金會財政紀律風波越演越烈，前總統馬英九委託基金會今（25）日上午召開記者會還原真相，當中也揭露了3人調查小組成員薛香川、李德維，曾陪同蕭旭岑、王光慈赴對岸和國台辦主任...",
-      "pubDate": "Mon, 25 May 2026 21:23:20 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "黃仁勳與家人聚餐！親送粉絲點心「婉拒簽名」 高EQ回應1句",
-      "link": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%88%87%E5%AE%B6%E4%BA%BA%E8%81%9A%E9%A4%90-%E8%A6%AA%E9%80%81%E7%B2%89%E7%B5%B2%E9%BB%9E%E5%BF%83-%E5%A9%89%E6%8B%92%E7%B0%BD%E5%90%8D-%E9%AB%98eq%E5%9B%9E%E6%87%891%E5%8F%A5-132300421.html",
-      "description": "輝達（NVIDIA）執行長黃仁勳旋風抵台，今（25）日晚間在台北市知名私廚餐廳「春韭」與家人共進晚餐，席間2度走出餐廳，親自端點心分送給現場守候的媒體與粉絲，相當親民。",
-      "pubDate": "Mon, 25 May 2026 21:23:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "SPYAIR主唱自爆來台沒機會吃美食 點名最想吃芒果冰",
-      "link": "https://tw.news.yahoo.com/spyair%E4%B8%BB%E5%94%B1%E8%87%AA%E7%88%86%E4%BE%86%E5%8F%B0%E6%B2%92%E6%A9%9F%E6%9C%83%E5%90%83%E7%BE%8E%E9%A3%9F-%E9%BB%9E%E5%90%8D%E6%9C%80%E6%83%B3%E5%90%83%E8%8A%92%E6%9E%9C%E5%86%B0-132214556.html",
-      "description": "日本搖滾樂團 SPYAIR 將於6月27、28日兩天在Legacy TERA舉行「 SPYAIR LIVE 2026 in TAIPEI 」演唱會。去年11月才到台中參加音樂祭，睽違一年又將重返台北開唱，貝斯手MOMIKEN笑說自己很喜歡台灣料理，小籠包、牛肉麵都是固定必吃清單，最近更迷上在台灣買茶葉，「會去不同茶店走走看看。」至於主唱YOSUKE則坦言，過去每次來台身體狀況也都不是太好，幾乎都把注意力放在演出上，因此幾乎沒機會散步或吃美食，這次則特別想吃芒果冰等台灣甜點。",
-      "pubDate": "Mon, 25 May 2026 21:22:14 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "中職明星對抗賽 票選開跑",
-      "link": "https://tw.news.yahoo.com/%E4%B8%AD%E8%81%B7%E6%98%8E%E6%98%9F%E5%B0%8D%E6%8A%97%E8%B3%BD-%E7%A5%A8%E9%81%B8%E9%96%8B%E8%B7%91-132212757.html",
-      "description": "記者陳建興∕台北報導 2026年中華職棒明星對抗賽將於7月18日、19日在台北大巨蛋盛大舉行，今年分票選出的TEAM STAR和亞冠賽為主體的TEAM TAIWAN，25日舉行宣告記者會；會長蔡其昌表示，亞冠賽總教練有人選，是差不多與曾豪駒同期、聯盟計劃培養的教練。 今年中華職棒明星對抗賽自5月26日開始通訊投票，至6月15日截止，而職棒雜誌6月號截止時間則以6月15日前郵戳為憑。網路1倍，通訊加權10倍、雜誌6月號加權20倍。除了正賽，全壘打大賽以去年、今年全壘打榜前10名者，共20名選手進行票選，前8名入選全壘打大賽...",
-      "pubDate": "Mon, 25 May 2026 21:22:12 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "毒駕大執法來了！法務部啟動修法提高刑度與假釋門檻 研議「非車主也沒收」車輛",
-      "link": "https://tw.news.yahoo.com/%E6%AF%92%E9%A7%95%E5%A4%A7%E5%9F%B7%E6%B3%95%E4%BE%86%E4%BA%86-%E6%B3%95%E5%8B%99%E9%83%A8%E5%95%9F%E5%8B%95%E4%BF%AE%E6%B3%95%E6%8F%90%E9%AB%98%E5%88%91%E5%BA%A6%E8%88%87%E5%81%87%E9%87%8B%E9%96%80%E6%AA%BB-%E7%A0%94%E8%AD%B0-%E9%9D%9E%E8%BB%8A%E4%B8%BB%E4%B9%9F%E6%B2%92%E6%94%B6-%E8%BB%8A%E8%BC%9B-132200967.html",
-      "description": "為了徹底根除毒駕對社會安全造成的嚴重威脅，法務部今天（25日）正式宣布啟動重磅修法與執法作業。除了從源頭推動毒品戒癮治療外，修法方向將全面提高單純毒駕、毒駕致死及致重傷",
-      "pubDate": "Mon, 25 May 2026 21:22:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "英國倫敦飆33.5度高溫！打破百年紀錄成史上最熱5月",
-      "link": "https://tw.news.yahoo.com/%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E9%A3%8633-5%E5%BA%A6%E9%AB%98%E6%BA%AB-%E6%89%93%E7%A0%B4%E7%99%BE%E5%B9%B4%E7%B4%80%E9%8C%84%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%86%B15%E6%9C%88-124145071.html",
-      "description": "英國氣象局（Met Office）週一宣布，倫敦近郊觀測到攝氏33.5度的高溫，正式打破英國史上5月份的最熱紀錄。這波異常熱浪已持續數日，氣溫更超越了高懸超過一世紀的歷史高點，引發各界對極端氣候的關注。",
-      "pubDate": "Mon, 25 May 2026 21:21:51 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "國銀新南向授信前4月大增2301億 達標率衝287%",
-      "link": "https://tw.news.yahoo.com/%E5%9C%8B%E9%8A%80%E6%96%B0%E5%8D%97%E5%90%91%E6%8E%88%E4%BF%A1%E5%89%8D4%E6%9C%88%E5%A4%A7%E5%A2%9E2301%E5%84%84-%E9%81%94%E6%A8%99%E7%8E%87%E8%A1%9D287-132106316.html",
-      "description": "（中央社記者蘇思云台北25日電）金管會統計顯示，本國銀行截至今年4月底對新南向國家授信餘額為新台幣2兆2295億元，月增477億元，累計今年前4月授信增額為2301億元，相較全年目標值800億元，達標率為287%，持續超標。",
-      "pubDate": "Mon, 25 May 2026 21:21:06 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "獨家／公車、貨車「馬路中」互槓！三字經狂飆嚇壞乘客",
-      "link": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%85%AC%E8%BB%8A-%E8%B2%A8%E8%BB%8A-%E9%A6%AC%E8%B7%AF%E4%B8%AD-%E4%BA%92%E6%A7%93-132100119.html",
-      "description": "有乘客指控，日前搭乘中興巴士605公車，要從台北車站到汐止，沒想到路途中，駕駛跟另一台嘉里大榮物流的司機，疑似因為逼車問題，爆發口角衝突！雙方吵很兇甚至罵出三字經，嚇壞車上乘客，還有人指出，當時兩車距離非常近，公車駕駛甚至一度試圖衝撞貨運。 公車司機與貨運司機當街爆發口角，雙方隔空互相叫囂。公車司機不滿對方擋路，怒喊「你不會過喔」，貨運司機也不甘示弱回嗆，雙方情緒激動，甚至互飆髒話，現場火藥味濃厚。 越吵越大聲，三字經當街狂飆，這台是中興巴士的605公車，對方則是嘉里大榮物流，22號上午遭拍下雙方爆發口角，公車上的乘客嚇壞了。 車上乘客：「...",
-      "pubDate": "Mon, 25 May 2026 21:21:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "AI晶片Chiplet商機升溫！神盾小金雞乾瞻27日登錄興櫃，UCIe矽智財搶攻AI高速互連市場",
-      "link": "https://tw.news.yahoo.com/ai%E6%99%B6%E7%89%87chiplet%E5%95%86%E6%A9%9F%E5%8D%87%E6%BA%AB-%E7%A5%9E%E7%9B%BE%E5%B0%8F%E9%87%91%E9%9B%9E%E4%B9%BE%E7%9E%BB27%E6%97%A5%E7%99%BB%E9%8C%84%E8%88%88%E6%AB%83-ucie%E7%9F%BD%E6%99%BA%E8%B2%A1%E6%90%B6%E6%94%BBai%E9%AB%98%E9%80%9F%E4%BA%92%E9%80%A3%E5%B8%82%E5%A0%B4-132055659.html",
-      "description": "神盾（6462）集團旗下矽智財（IP）廠乾瞻科技（7898）將於5月27日登錄興櫃交易，認購價格每股500元。隨著AI晶片算力需求快速升高，單一晶片架構愈來愈難滿足高效能運算需求，Chiplet多晶粒架構與UCIe高速互連技術成為半導體設計新戰場。乾瞻今（25）日舉辦興櫃前法人說明會，Arm台灣總裁黃曉剛、達發（6526）董事長謝清江親自站台，也讓這家神盾集......",
-      "pubDate": "Mon, 25 May 2026 21:20:55 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "員警緝毒被撞 基市啟動警車更新",
-      "link": "https://tw.news.yahoo.com/%E5%93%A1%E8%AD%A6%E7%B7%9D%E6%AF%92%E8%A2%AB%E6%92%9E-%E5%9F%BA%E5%B8%82%E5%95%9F%E5%8B%95%E8%AD%A6%E8%BB%8A%E6%9B%B4%E6%96%B0-132008757.html",
-      "description": "記者張上耕∕基隆報導 基隆警四分局大武崙所員警於查緝毒品案時，遭犯嫌開車衝撞送醫，副市長邱佩琳二十五日下午到派出所慰問有功員警。 本月二十三日由大武崙派出所員警，持搜索票進行查緝民宅分裝毒品，當場逮捕三名犯嫌。查緝過程中，蔡姓男子激烈反抗，開車衝撞警車，員警以辣椒水制伏過程中，受波及送醫。 副市長邱佩琳二十五日下午代表市長謝國樑慰問關心，同時了解目前員警裝備需求。她指出，在有限的財政下，期待可以編列預算更新警車，同時鼓勵企業捐贈。對於毒品或是毒駕，強調絕對零容忍，她感謝英勇員警挺身而出，在平時穩定受訓及裝備齊全的情況下...",
-      "pubDate": "Mon, 25 May 2026 21:20:08 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "盼尊重家屬！鍾東錦喊：周美青、馬以南才是最愛馬英九的人",
-      "link": "https://tw.news.yahoo.com/%E7%9B%BC%E5%B0%8A%E9%87%8D%E5%AE%B6%E5%B1%AC-%E9%8D%BE%E6%9D%B1%E9%8C%A6%E5%96%8A-%E5%91%A8%E7%BE%8E%E9%9D%92-%E9%A6%AC%E4%BB%A5%E5%8D%97%E6%89%8D%E6%98%AF%E6%9C%80%E6%84%9B%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%9A%84%E4%BA%BA-132003695.html",
-      "description": "馬英九基金會風波持續延燒，國安會前秘書長金溥聰與遭指控的蕭旭岑、王光慈隔空互槓，引發討論。苗栗縣長鍾東錦認為，應該要尊重家屬，「姊姊一定保護弟弟，老婆一定護著老公」，相信她們才是真正最愛馬總統的人。",
-      "pubDate": "Mon, 25 May 2026 21:20:03 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "小食蟻獸「黑妞」回家了！ 北市動物園公布初步檢查結果",
-      "link": "https://tw.news.yahoo.com/%E5%B0%8F%E9%A3%9F%E8%9F%BB%E7%8D%B8-%E9%BB%91%E5%A6%9E-%E5%9B%9E%E5%AE%B6%E4%BA%86-%E5%8C%97%E5%B8%82%E5%8B%95%E7%89%A9%E5%9C%92%E5%85%AC%E5%B8%83%E5%88%9D%E6%AD%A5%E6%AA%A2%E6%9F%A5%E7%B5%90%E6%9E%9C-132000320.html",
-      "description": "台北市立動物園小食蟻獸「黑妞」日前驚傳逃脫，引起許多人關注。所幸經過多日尋找，今（25）日傳來好消息，園方晚間宣布「小食蟻獸『黑妞』回家了」，並透露目前初步檢查的結果，健康有活力並無大礙。",
-      "pubDate": "Mon, 25 May 2026 21:20:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "「我聽見你」基隆取景 議長接見大江崇允團隊",
-      "link": "https://tw.news.yahoo.com/%E6%88%91%E8%81%BD%E8%A6%8B%E4%BD%A0-%E5%9F%BA%E9%9A%86%E5%8F%96%E6%99%AF-%E8%AD%B0%E9%95%B7%E6%8E%A5%E8%A6%8B%E5%A4%A7%E6%B1%9F%E5%B4%87%E5%85%81%E5%9C%98%E9%9A%8A-131907461.html",
-      "description": "記者楊耀華∕基隆報導 台灣、日本、韓國三方共同製作電影「我聽見你」劇組近日來到基隆拍攝，議長童子瑋二十五日接見導演大江崇允與製作團隊；童子瑋表示，「我聽見你」選擇基隆作為重要場景，不只是一部電影來到基隆取景，更代表基隆有機會進入跨國影視製作鏈，讓更多不同市場的觀眾看見這座城市，也能透過導演精心安排的聲音表現「聽見基隆」。 童子瑋表示，「我聽見你」從導演、製作團隊到演員陣容，都橫跨台灣、日本、韓國，對基隆來說，是一次很重要的國際影視合作機會，尤其大江崇允導演是「在車上」的共同編劇之一，也曾獲奧斯卡最佳國際影片、坎城影展最佳劇本獎殊榮...",
-      "pubDate": "Mon, 25 May 2026 21:19:07 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "\"温欣說明會\"強強聯手 何欣純與温世政合體談願景",
-      "link": "https://tw.news.yahoo.com/%E6%B8%A9%E6%AC%A3%E8%AA%AA%E6%98%8E%E6%9C%83-%E5%BC%B7%E5%BC%B7%E8%81%AF%E6%89%8B-%E4%BD%95%E6%AC%A3%E7%B4%94%E8%88%87%E6%B8%A9%E4%B8%96%E6%94%BF%E5%90%88%E9%AB%94%E8%AB%87%E9%A1%98%E6%99%AF-130702450.html",
-      "description": "中部中心／黃毓倫、林韋志 台中報導民進黨台中市長何欣純，不只假日勤跑基層，週一晚上繼續馬不停蹄，在台中大里舉辦政策座談會。除了地方議員相挺，營造團結氣勢，特別邀請南投縣長參選人温世政，兩人合體，提出台中南投共榮願景，首要打通中投交通動脈，希望能翻轉中台灣！",
-      "pubDate": "Mon, 25 May 2026 21:19:02 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "海地駐台大使訪台南 黃偉哲盼拓展農業合作",
-      "link": "https://tw.news.yahoo.com/%E6%B5%B7%E5%9C%B0%E9%A7%90%E5%8F%B0%E5%A4%A7%E4%BD%BF%E8%A8%AA%E5%8F%B0%E5%8D%97-%E9%BB%83%E5%81%89%E5%93%B2%E7%9B%BC%E6%8B%93%E5%B1%95%E8%BE%B2%E6%A5%AD%E5%90%88%E4%BD%9C-131900531.html",
-      "description": "[NOWNEWS今日新聞]海地共和國駐台大使潘恩(H.E.AmbassadorRoudyStanleyPenn)於今(25)日率領使館一行3人拜會台南市市長黃偉哲，潘恩大使雖曾多次造訪台南，惟此次為雙...",
-      "pubDate": "Mon, 25 May 2026 21:19:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "「毒駕零容忍修法在台北」 魏平政：但治安防護網要在彰化落實",
-      "link": "https://tw.news.yahoo.com/%E6%AF%92%E9%A7%95%E9%9B%B6%E5%AE%B9%E5%BF%8D%E4%BF%AE%E6%B3%95%E5%9C%A8%E5%8F%B0%E5%8C%97-%E9%AD%8F%E5%B9%B3%E6%94%BF-%E4%BD%86%E6%B2%BB%E5%AE%89%E9%98%B2%E8%AD%B7%E7%B6%B2%E8%A6%81%E5%9C%A8%E5%BD%B0%E5%8C%96%E8%90%BD%E5%AF%A6-131900075.html",
-      "description": "日前彰化市彰南路接連發生毒駕悲劇，造成2死6傷，民眾心里除了沉痛，更必須給這幾天日夜執法、守護街頭的基層警察最大的支持。針對民進黨籍立委陳素月在立法院主張「修法加重毒駕刑罰」，國民黨籍彰化縣長參選人魏平政表示「身為法律人，我百分之百支持嚴懲。但我必須誠實地說：光靠『加重刑罰』，是擋不住毒駕的。」，魏平政指出，根據我多年的律師實務經驗，吸毒者握住方向盤的當下早已神智不清，他們根本不會去思考刑期有多重。中央修法、建立跨部會平台當然要做，但公文往返曠日廢時，彰化的鄉親等不及，第一線執勤的警察也等不及。魏平政說，法律在台北修訂...",
-      "pubDate": "Mon, 25 May 2026 21:19:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "小港查獲非法魚槍 海巡依法查處送辦",
-      "link": "https://tw.news.yahoo.com/%E5%B0%8F%E6%B8%AF%E6%9F%A5%E7%8D%B2%E9%9D%9E%E6%B3%95%E9%AD%9A%E6%A7%8D-%E6%B5%B7%E5%B7%A1%E4%BE%9D%E6%B3%95%E6%9F%A5%E8%99%95%E9%80%81%E8%BE%A6-131845004.html",
-      "description": "【互傳媒／記者 陳志強／台東 報導】第一三岸巡隊小港安檢所執勤人員於昨(24)日16時30分巡查港區時，發現岸際有一名民眾攜帶魚槍疑似從事漁獵行為，遂主動上前盤查。經查該民眾具原住民身分，惟未依規定持有槍證，依違反《原住民漁民自製獵槍魚槍許可及管理辦法》將該員民眾帶回偵訊。 第一三岸巡隊表示，原住民及漁民持有自製獵槍、魚槍應依規定向警察機關申請許可，經核准後始得持有及使用。經查本案當事人槍身未見槍枝識別碼，且未能提出合法證明文件，涉嫌違反相關規定；另查獲地點非屬保育區範圍，現場亦未發現以魚槍獵捕魚獲情事，全案完成蒐證及物證查扣後...",
-      "pubDate": "Mon, 25 May 2026 21:18:45 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "世界盃倒數爆傷兵潮！巴西.日本.荷蘭接連折損主力 梅西疑傷退引關注",
-      "link": "https://tw.news.yahoo.com/%E4%B8%96%E7%95%8C%E7%9B%83%E5%80%92%E6%95%B8%E7%88%86%E5%82%B7%E5%85%B5%E6%BD%AE-%E5%B7%B4%E8%A5%BF-%E6%97%A5%E6%9C%AC-%E8%8D%B7%E8%98%AD%E6%8E%A5%E9%80%A3%E6%8A%98%E6%90%8D%E4%B8%BB%E5%8A%9B-%E6%A2%85%E8%A5%BF%E7%96%91%E5%82%B7%E9%80%80%E5%BC%95%E9%97%9C%E6%B3%A8-131836067.html",
-      "description": "2026年世界盃足球賽將於下月登場，但多位原本被看好在賽場上大放異彩的球星，卻接連爆出傷情。阿根廷球王梅西（Lionel Messi）日前在比賽中提前退場，疑似出現大腿後側肌群不適，引發外界關注。球評",
-      "pubDate": "Mon, 25 May 2026 21:18:36 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "世足》西班牙26人名單出爐！18歲新星亞馬爾領銜 皇馬0人入選",
-      "link": "https://tw.sports.yahoo.com/news/%E4%B8%96%E8%B6%B3-%E8%A5%BF%E7%8F%AD%E7%89%9926%E4%BA%BA%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-18%E6%AD%B2%E6%96%B0%E6%98%9F%E4%BA%9E%E9%A6%AC%E7%88%BE%E9%A0%98%E9%8A%9C-%E7%9A%87%E9%A6%AC0%E4%BA%BA%E5%85%A5%E9%81%B8-131815693.html",
-      "description": "2026美墨加世界盃下月點燃戰火，西班牙隊今公布26人名單，由巴塞隆納18歲新星亞馬爾（Lamine Yamal）領銜，西甲皇家馬德里完全沒有球員入選。「無敵艦隊」上屆世界盃止步16強，但隨後勇奪2024年歐洲國家盃冠軍，也被視為本屆冠軍熱門，本屆在H組與維德角、沙烏地阿拉伯與烏拉圭同組。",
-      "pubDate": "Mon, 25 May 2026 21:18:15 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "煮菜洗澡免煩惱！行政院：6月瓦斯「價格凍漲」 成本由政府吸收",
-      "link": "https://tw.news.yahoo.com/%E7%85%AE%E8%8F%9C%E6%B4%97%E6%BE%A1%E5%85%8D%E7%85%A9%E6%83%B1-%E8%A1%8C%E6%94%BF%E9%99%A2-6%E6%9C%88%E7%93%A6%E6%96%AF-%E5%83%B9%E6%A0%BC%E5%87%8D%E6%BC%B2-%E6%88%90%E6%9C%AC%E7%94%B1%E6%94%BF%E5%BA%9C%E5%90%B8%E6%94%B6-131811343.html",
-      "description": "即時中心／徐子為報導行政院長卓榮泰今（25）日主持「因應中東衝突民生安定專案會議」，會中宣布6月份液化石油氣（LPG）桶裝瓦斯價格不予變動，由政府繼續吸收漲價成本，並請各部會持續關注市場狀況，全力穩定消費者物價指數（CPI），確保市場秩序與民生安定。",
-      "pubDate": "Mon, 25 May 2026 21:18:11 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "國安路建案明年完工 市府擬闢人行道",
-      "link": "https://tw.news.yahoo.com/%E5%9C%8B%E5%AE%89%E8%B7%AF%E5%BB%BA%E6%A1%88%E6%98%8E%E5%B9%B4%E5%AE%8C%E5%B7%A5-%E5%B8%82%E5%BA%9C%E6%93%AC%E9%97%A2%E4%BA%BA%E8%A1%8C%E9%81%93-131803482.html",
-      "description": "記者王慕慈∕基隆報導 基隆市國安路為串聯暖暖、安樂及仁愛區重要區域交通路廊，但因路窄未設人行道，但隨基隆捷運崛起的大型建案將在明年中完工，通行需求量將更高，市府將闢單側人行道；市議員張之豪擔心路幅不夠，八德、麥金路高速公路入口車流大，建議採尚仁國小通學步道為替代道路，解決難題。 國安路現有通行率已相當高，三十巷口大型社區將在一一六年中完工，通行需求加大，市府工務處長簡翊哲指出，現況路寬十點四公尺，配置雙向車道，寬度各四公尺，靠河段有０點七公尺路肩，三十巷莒光新城路肩最窄一點七公尺，為因應未來交通量...",
-      "pubDate": "Mon, 25 May 2026 21:18:03 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "前任被封鎖轉帳5200元求復合 她崩潰喊好累 釣出大票過來人",
-      "link": "https://tw.news.yahoo.com/%E5%89%8D%E4%BB%BB%E8%A2%AB%E5%B0%81%E9%8E%96%E8%BD%89%E5%B8%B35200%E5%85%83%E6%B1%82%E5%BE%A9%E5%90%88-%E5%A5%B9%E5%B4%A9%E6%BD%B0%E5%96%8A%E5%A5%BD%E7%B4%AF-%E9%87%A3%E5%87%BA%E5%A4%A7%E7%A5%A8%E9%81%8E%E4%BE%86%E4%BA%BA-131744875.html",
-      "description": "求復合還有這招？日前有一名女網友抱怨，想要脫離一段不健康的關係，已經把前任的聯絡方式都封鎖了，沒想到有一天前任竟然跨行轉帳到她的戶頭5200元，並備註「我有話想說」，讓她直呼「好累喔」，貼文引發網友熱烈討論，有人建議她繼續收費才能讓對方開啟對話機會，有人則分享類似經歷。",
-      "pubDate": "Mon, 25 May 2026 21:17:44 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "台南全民科學日新興國中登場 學生闖關體驗生活科學",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E5%85%A8%E6%B0%91%E7%A7%91%E5%AD%B8%E6%97%A5%E6%96%B0%E8%88%88%E5%9C%8B%E4%B8%AD%E7%99%BB%E5%A0%B4-%E5%AD%B8%E7%94%9F%E9%97%96%E9%97%9C%E9%AB%94%E9%A9%97%E7%94%9F%E6%B4%BB%E7%A7%91%E5%AD%B8-131730776.html",
-      "description": "記者陳治交／台南報導 台南市政府教育局與成功大學理學院科學教育中心攜手推動的「二０二六全民科學日」二十五日在新興國中登場，學生在闖關、推理與動手操作中，從遊戲情境走進科學探究，透過觀察、驗證與合作，發現科學不只是課本知識，更是理解生活、解決問題的方法。 市長黃偉哲表示，科學教育是讓孩子從生活中發現問題、動手驗證想法，培養面對未來的判斷力與創造力。台南從科普、機器人教育到AI學習，持續為學生打造探索科技與實作學習的舞台，從國中小階段就能親近科學、理解科技、勇於嘗試。 教育局長鄭新輝指出，「...",
-      "pubDate": "Mon, 25 May 2026 21:17:30 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "崑山科大攜東山區公所推淨零綠生活",
-      "link": "https://tw.news.yahoo.com/%E5%B4%91%E5%B1%B1%E7%A7%91%E5%A4%A7%E6%94%9C%E6%9D%B1%E5%B1%B1%E5%8D%80%E5%85%AC%E6%89%80%E6%8E%A8%E6%B7%A8%E9%9B%B6%E7%B6%A0%E7%94%9F%E6%B4%BB-131725900.html",
-      "description": "崑山科大深耕型USR計畫「以技術為體、生活為用的循環經濟路徑－建構社區的永續韌性」團隊與臺南市東山區公所辦理合作交流會議，計畫主持人學務長暨企管系楊泰和教授與東山區長張政郎共同簽署合作備忘錄，雙方將就淨零綠生活、環境教育體驗、低碳行動及地方人才培力等面向展開合作，推動建立永續發展環境。此次會議聚焦東山區在地環境條件與社區發展需求，針對環境教育場域、低碳生活推動及社區參與機制等內容進行交流，並盤點未來可結合的地方資源與執行方向。楊泰和教授表示...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "極度瀕危革龜 海生館成功野放",
-      "link": "https://tw.news.yahoo.com/%E6%A5%B5%E5%BA%A6%E7%80%95%E5%8D%B1%E9%9D%A9%E9%BE%9C-%E6%B5%B7%E7%94%9F%E9%A4%A8%E6%88%90%E5%8A%9F%E9%87%8E%E6%94%BE-131725445.html",
-      "description": "革龜被國際列為「極度瀕危」等級，國立海洋生物博物館日前聯手海洋保育署，順利野放一隻體長近一點五公尺、重達百公斤的稀有「革龜」！這是海生館首宗革龜活體救援並成功重返大海的珍貴案例。這次革龜在東石外傘頂洲附近海域被發現。獸醫師指出，革龜跟一般硬殼龜不同，牠為了適應深潛，全身是革質化的軟殼，非常依賴海水的浮力，一旦離開水面，牠幾百公斤的體重會直接壓迫到內臟跟心肺，導致呼吸非常吃力。因此，獸醫師團隊在確認牠反射靈敏、體力足以潛水後，決定跟時間賽跑，當天就完成野放。根據國際最新數據，西太平洋革龜已經是「極度瀕危」等級。海生館表示...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "雲林挺稻農 公糧運費補助至1.2元",
-      "link": "https://tw.news.yahoo.com/%E9%9B%B2%E6%9E%97%E6%8C%BA%E7%A8%BB%E8%BE%B2-%E5%85%AC%E7%B3%A7%E9%81%8B%E8%B2%BB%E8%A3%9C%E5%8A%A9%E8%87%B31-2%E5%85%83-131725368.html",
-      "description": "為減輕農民負擔、穩定糧食生產，雲林縣政府一一六年提高公糧運費補助至一．二元，二十五日上午於縣府親民大廳，縣長張麗善、議長黃凱、縣農會總幹事陳志揚、縣米穀公會理事長林俊谷、縣青農聯誼會總會長陳炳洲及多位議員、鄉鎮市農會總幹事等一同宣布，一一六年公糧運費補助一．二元，展現照顧農民、支持農業發展的決心。縣長張麗善表示，雲林縣為全國重要糧倉，稻作面積長年名列全台前段班，是國內重要稻米生產重鎮之一，肩負守護國家糧食安全的重要責任。近年受到國際原物料價格波動、油價上漲及人工成本增加等因素影響，肥料、農藥、燃油、農機與工資等生產成本持續攀升...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "綠營徵召梁育慈挑戰周佳琪",
-      "link": "https://tw.news.yahoo.com/%E7%B6%A0%E7%87%9F%E5%BE%B5%E5%8F%AC%E6%A2%81%E8%82%B2%E6%85%88%E6%8C%91%E6%88%B0%E5%91%A8%E4%BD%B3%E7%90%AA-131725548.html",
-      "description": "綠營下屆屏東市長角逐人選底定，由縣議員梁育慈挑戰藍軍現任的周佳琪，形成「兩名女將」爭奪戰！民進黨屏東縣黨部昨（廿五）日召開臨時執委會，通過徵召梁育慈參選下屆屏東市長，同時召集近百名鄉鎮長及民代參選人，共同到場造勢。民進黨屏東縣黨部主委羅平道表示，徵詢過程中，各界一致推薦梁育慈是最強人選，加上賴清德總統鼓勵年輕世代勇於承擔，黨部執委會一致通過徵召案。梁育慈指出，屏東市正站在重大轉型的時刻，中央與縣府持續投入建設，市公所不能只是被動承接成果，更應主動出擊，打通深入巷弄的城市「微血管」，讓屏市成為帶領屏縣向前的領頭羊。梁育慈說...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "嘉檢查察妨害選舉執行小組 揭牌",
-      "link": "https://tw.news.yahoo.com/%E5%98%89%E6%AA%A2%E6%9F%A5%E5%AF%9F%E5%A6%A8%E5%AE%B3%E9%81%B8%E8%88%89%E5%9F%B7%E8%A1%8C%E5%B0%8F%E7%B5%84-%E6%8F%AD%E7%89%8C-131725418.html",
-      "description": "嘉義地檢署為因應今年地方公職人員選舉查察，「查察妨害選舉執行小組」編組完成，並於昨（廿五）日上午在該署迴廊，由檢察長蔡宗熙邀集嘉義市警察局陳明志局長、嘉義縣警察局許益祥副局長、縣調查站陳耀輝主任、市調查站余國呈主任、市府政風處劉孟政處長、縣政府政風處侯建廷副處長、移民署嘉義縣專勤隊羅金定隊長、嘉義市專勤隊涂順福隊長及嘉義憲兵隊廖雲德少校副組長等檢察、警察、調查、政風、移民及憲兵等機關首長、代表共同揭牌成立，隨即進行檢警調等首長會議，就選舉查察工作交換意見。蔡檢察長表示，檢、警、調、廉、移、憲等機關...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "南市安定區安吉路3段施工 車輛請改道",
-      "link": "https://tw.news.yahoo.com/%E5%8D%97%E5%B8%82%E5%AE%89%E5%AE%9A%E5%8D%80%E5%AE%89%E5%90%89%E8%B7%AF3%E6%AE%B5%E6%96%BD%E5%B7%A5-%E8%BB%8A%E8%BC%9B%E8%AB%8B%E6%94%B9%E9%81%93-131725593.html",
-      "description": "為改善安定區新吉里聚落淹水問題，臺南市長黃偉哲向中央爭取一點七三億元辦理「安定區新吉聚落截流箱涵新建治理工程」，於安吉路三段至台十九路口（西向東國八側車道）設置約九百四十五點六公尺長的排水箱涵，去年底開工、預定一一六年十二月底前完工；施工期間安吉路三段國道八號南側西向東側車道縮減，開挖期間將封閉車道，籲請用路人配合改道指引標誌提前改道，依照交通維持設施通行。水利局長邱忠川表示，為避免道路施工導致安吉路交通壅塞，工程採分段分區施工，目前正施作第一單元排水箱涵一百公尺，工期預計至七月卅一日；為避免施工期間發生交通意外...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "臺南攜大專推動工安體感教育",
-      "link": "https://tw.news.yahoo.com/%E8%87%BA%E5%8D%97%E6%94%9C%E5%A4%A7%E5%B0%88%E6%8E%A8%E5%8B%95%E5%B7%A5%E5%AE%89%E9%AB%94%E6%84%9F%E6%95%99%E8%82%B2-131725213.html",
-      "description": "為提升青年學子對職業安全衛生的認識，並強化進入職場前危害辨識與安全防災觀念，臺南市政府勞工局昨（二十五）日於南部科學園區路竹XRCenter職業安全防災模擬訓練中心辦理「職安文化向下扎根－校園工安體感活動」，邀南市大專院校學生參與，透過沉浸式XR科技體驗及互動式模擬訓練，讓學生感受職場潛在危害情境，建立正確職場安全觀念，提升自我防護能力。勞工局長王鑫基表示，青年學子投入職場後可能接觸營造、製造、物流及設備維護等高風險工作環境...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "虎科大攜產官學 決戰多軸加工實戰力",
-      "link": "https://tw.news.yahoo.com/%E8%99%8E%E7%A7%91%E5%A4%A7%E6%94%9C%E7%94%A2%E5%AE%98%E5%AD%B8-%E6%B1%BA%E6%88%B0%E5%A4%9A%E8%BB%B8%E5%8A%A0%E5%B7%A5%E5%AF%A6%E6%88%B0%E5%8A%9B-131725735.html",
-      "description": "面對全球供應鏈重組與高階製造技術升級的迫切需求，國立虎尾科技大學攜手台中精機廠股份有限公司、勞動部勞動力發展署中彰投分署，於五月二十四日舉辦「一一五年台中精機盃CNC多軸機技能競賽」決賽暨頒獎典禮。此屆賽事總獎金逾九十萬元，吸引全國二十所高職與大專校院、共六十六位頂尖好手同台競技，展現台灣從傳統加工邁向「虛實整合與智慧製造」的強大育才量能。跳脫傳統操作，培育「系統整合」的即戰力工程師，此次競賽分為「車銑複合組」與「五軸機組」兩大類別，賽制設計全面對接當前產業最核心的技術痛點...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "展現夜市奇幻魅力 南市吉祥物雙鴨萌出動",
-      "link": "https://tw.news.yahoo.com/%E5%B1%95%E7%8F%BE%E5%A4%9C%E5%B8%82%E5%A5%87%E5%B9%BB%E9%AD%85%E5%8A%9B-%E5%8D%97%E5%B8%82%E5%90%89%E7%A5%A5%E7%89%A9%E9%9B%99%E9%B4%A8%E8%90%8C%E5%87%BA%E5%8B%95-131725428.html",
-      "description": "臺南市政府人氣吉祥物「夜奇鴨」與「菜奇鴨」去年走訪各大夜市引發熱潮，今年再度萌出動，六月起至十一月期間推出六場行銷活動，昨廿五日並首度公開「鴨鴨網紅宣傳影片」，市長黃偉哲帶領兩隻超人氣吉祥物為系列活動揭開序幕；經濟發展局長張婷媛、市場處代理處長林士群、立委陳亭妃及多位議員均出席力挺。新宣傳影片運用虛實整合技術將夜奇鴨與菜奇鴨的呆萌模樣融入臺南實景，兩隻吉祥物穿梭於各大夜市與經典城市地景，帶領觀眾展開夜市冒險，展現臺南夜生活「好吃、好玩、好逛」多元樣貌。影片結尾定格安平運河夜景，呼應運河通航一百年輝煌歷史。黃偉哲市長表示...",
-      "pubDate": "Mon, 25 May 2026 21:17:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "伊朗宣布對荷莫茲海峽船隻收費 聲稱是航行服務費",
-      "link": "https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%B0%8D%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E8%88%B9%E9%9A%BB%E6%94%B6%E8%B2%BB-%E8%81%B2%E7%A8%B1%E6%98%AF%E8%88%AA%E8%A1%8C%E6%9C%8D%E5%8B%99%E8%B2%BB-131703364.html",
-      "description": "（中央社德黑蘭25日綜合外電報導）伊朗外交部今天表示，德黑蘭當局正對途經戰略水道荷莫茲海峽（Strait of Hormuz）的船隻徵收「航行服務」費，而非通行費。",
-      "pubDate": "Mon, 25 May 2026 21:17:03 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "台中年輕夫妻雙亡「獨留4月大女嬰」 家屬控「詐團用蠅頭小利害了他」",
-      "link": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%B9%B4%E8%BC%95%E5%A4%AB%E5%A6%BB%E9%9B%99%E4%BA%A1-%E7%8D%A8%E7%95%994%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0-%E5%AE%B6%E5%B1%AC%E6%8E%A7-%E8%A9%90%E5%9C%98%E7%94%A8%E8%A0%85%E9%A0%AD%E5%B0%8F%E5%88%A9%E5%AE%B3%E4%BA%86%E4%BB%96-131654417.html",
-      "description": "震驚全國的台中年輕夫妻命案，更讓人不捨的是，夫妻陳屍房內，獨留4個月大女嬰，所幸女嬰命大搶救回來。今天（5／25）自稱男性死者的哥哥今天上網發文怒控，弟弟夫妻被詐騙集團逼死，嘆弟弟就是濫好人，不懂社會的善惡。該網友也強調，他承諾會承擔女嬰的未來一切，不需送養。",
-      "pubDate": "Mon, 25 May 2026 21:16:54 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "家庭主婦月領5千源自國民年金 主計長：給付約增23.5％",
-      "link": "https://tw.news.yahoo.com/%E5%AE%B6%E5%BA%AD%E4%B8%BB%E5%A9%A6%E6%9C%88%E9%A0%985%E5%8D%83%E6%BA%90%E8%87%AA%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91-%E4%B8%BB%E8%A8%88%E9%95%B7-%E7%B5%A6%E4%BB%98%E7%B4%84%E5%A2%9E23-5-131651916.html",
-      "description": "賴清德總統24日拋出「規畫家庭主婦每月領5000元」，不過後續總統府澄清是「提高國民年金給付至每人每月5000元」，引起外界熱議；主計長陳淑姿25日說明，這是根據六大社福從7月1日調漲後，國民年金也會隨之調整，增幅約23.5％，因此今年下半年預算為84.9億元，116年度為全年度預算。",
-      "pubDate": "Mon, 25 May 2026 21:16:51 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "巴基斯坦火車遭自殺炸彈襲擊 死亡人數攀升逾30人",
-      "link": "https://tw.news.yahoo.com/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%81%AB%E8%BB%8A%E9%81%AD%E8%87%AA%E6%AE%BA%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8%E6%94%80%E5%8D%87%E9%80%BE30%E4%BA%BA-124145086.html",
-      "description": "巴基斯坦西南部俾路支省週日發生火車自殺炸彈攻擊，官員週一證實死亡人數已攀升至超過30人。這起針對安全人員及其家屬的恐怖襲擊，由分離主義組織「俾路支解放軍」（BLA）宣稱負責，現場殘骸滿目瘡痍。",
-      "pubDate": "Mon, 25 May 2026 21:16:50 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "英國倫敦近郊飆破33.5度！刷新5月史上最高溫紀錄",
-      "link": "https://tw.news.yahoo.com/%E8%8B%B1%E5%9C%8B%E5%80%AB%E6%95%A6%E8%BF%91%E9%83%8A%E9%A3%86%E7%A0%B433-5%E5%BA%A6-%E5%88%B7%E6%96%B05%E6%9C%88%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E6%BA%AB%E7%B4%80%E9%8C%84-124145891.html",
-      "description": "英國氣象局（Met Office）最新數據顯示，倫敦近郊近日測得攝氏33.5度的高溫，正式打破英國史上5月份的最高氣溫紀錄。隨著熱浪襲擊歐洲，這場異常的早發性酷暑也引發外界對氣候變遷的關注。",
-      "pubDate": "Mon, 25 May 2026 21:16:50 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "黑妞找到了! 環園道上逛大街",
-      "link": "https://tw.news.yahoo.com/%E9%BB%91%E5%A6%9E%E6%89%BE%E5%88%B0%E4%BA%86-%E7%92%B0%E5%9C%92%E9%81%93%E4%B8%8A%E9%80%9B%E5%A4%A7%E8%A1%97-131541473.html",
-      "description": "本報綜合報導 台北市立動物園高齡小食蟻獸「黑妞」失蹤第七天，昨晚終於回家了！動物園二十五日晚說，工作人員意外發現「黑妞」悠哉蹓躂環園道路上，已追蹤帶回，初步確認無外傷、活力佳。 台北市立動物園二十日罕見發布協尋動物資訊，對象是近十一歲又十個月大的雌性小食蟻獸「黑妞」，監視影像顯示牠十八日傍晚進入戶外活動場，十九日、二十日發動六十五人次未尋獲，盼遊客發現通報。 昨天是「黑妞」失蹤第七天的晚上，動物園發布資訊說「找到了」。 動物園說明，昨天動物園正要舉辦「第六屆物種分類專家群聯合會議6th Joint TAG Meeting」...",
-      "pubDate": "Mon, 25 May 2026 21:15:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "國巨被關禁閉 明起每5分鐘撮合",
-      "link": "https://tw.news.yahoo.com/%E5%9C%8B%E5%B7%A8%E8%A2%AB%E9%97%9C%E7%A6%81%E9%96%89-%E6%98%8E%E8%B5%B7%E6%AF%8F5%E5%88%86%E9%90%98%E6%92%AE%E5%90%88-131525452.html",
-      "description": "[NOWNEWS今日新聞]被動元件龍頭廠國巨股價連日急漲，正式被證交所列入處置交易，自5月26日至6月8日共10個營業日，改採人工管制撮合，每5分鐘撮合一次。國巨連續3個交易日漲停，25日終場收在69...",
-      "pubDate": "Mon, 25 May 2026 21:15:25 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "首座知識型養生村 亞洲健康智慧園區推悅讀循環行動",
-      "link": "https://tw.news.yahoo.com/%E9%A6%96%E5%BA%A7%E7%9F%A5%E8%AD%98%E5%9E%8B%E9%A4%8A%E7%94%9F%E6%9D%91-%E4%BA%9E%E6%B4%B2%E5%81%A5%E5%BA%B7%E6%99%BA%E6%85%A7%E5%9C%92%E5%8D%80%E6%8E%A8%E6%82%85%E8%AE%80%E5%BE%AA%E7%92%B0%E8%A1%8C%E5%8B%95-131515718.html",
-      "description": "CNEWS匯流新聞網記者謝東明、李衣綸／台北報導 在高齡化與健康意識同步升溫的時代，住宅不僅是居住空間，更可成為承載文化、交流與陪伴的生活場域。台灣房屋集團於亞洲健康智慧園區，推動台灣第一座養生村的「悅讀循環」行動，特向《天下文化》選購近3000本不同的新書，在園區415個房間全面設置「悅讀循環書籃」，每房每月提供7本書籍，涵蓋趨勢思考、健康生活、人文閱讀與...",
-      "pubDate": "Mon, 25 May 2026 21:15:15 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "模範環保專責人員報名 倒數",
-      "link": "https://tw.news.yahoo.com/%E6%A8%A1%E7%AF%84%E7%92%B0%E4%BF%9D%E5%B0%88%E8%B2%AC%E4%BA%BA%E5%93%A1%E5%A0%B1%E5%90%8D-%E5%80%92%E6%95%B8-131505183.html",
-      "description": "環境部辦理「一一五年度模範環境保護專責及技術人員」遴選報名將於六月二日截止，環境部國家環境研究院院長張順欽鼓勵全國逾二萬名環境保護專責及技術人員，把握報名期限踴躍參選。為回應不同產業在資源與條件上的差異，今年首度採行「科技業組」及「非科技業組」分組評選，讓不同產業人員能在公平的基礎上競爭。遴選報名相關資訊，請至國環院「公告訊息－最新消息－一一五年模範環境保護專責及技術人員遴選」項下查詢（https://gov.tw/MhE）。張順欽表示，模範環境保護專責及技術人員遴選從九十七年開辦迄今，報名參選者非科技業占三六八人，占總報名人數近六成...",
-      "pubDate": "Mon, 25 May 2026 21:15:05 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "《社論》毒駕不是意外，是移動中的未爆彈",
-      "link": "https://tw.news.yahoo.com/%E7%A4%BE%E8%AB%96-%E6%AF%92%E9%A7%95%E4%B8%8D%E6%98%AF%E6%84%8F%E5%A4%96-%E6%98%AF%E7%A7%BB%E5%8B%95%E4%B8%AD%E7%9A%84%E6%9C%AA%E7%88%86%E5%BD%88-131505977.html",
-      "description": "近來國內接連發生多起毒駕重大死傷案件，令人怵目驚心。原本只是短短幾秒的失控，卻往往換來一條人命、一個家庭，甚至數個人生從此崩裂。而更令人不安的是，這類案件如今已不再只是傳統毒品問題，而是與「依托咪酯電子煙毒」、「喪屍煙彈」快速擴散高度相關，形成新型態公共安全危機。過去，許多人對電子煙仍停留在「只是替代香菸」的模糊印象，但如今黑市早已變質。毒品混入煙油後，吸食門檻大幅降低，外觀又難辨識，不少年輕人甚至誤以為只是「助興」或「提神」。然而依托咪酯對人體神經系統的破壞極快，一旦在駕駛過程中吸食，極可能瞬間出現肌躍症、抽搐...",
-      "pubDate": "Mon, 25 May 2026 21:15:05 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "澎湖花火節 最具沉浸式動漫盛宴",
-      "link": "https://tw.news.yahoo.com/%E6%BE%8E%E6%B9%96%E8%8A%B1%E7%81%AB%E7%AF%80-%E6%9C%80%E5%85%B7%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8B%95%E6%BC%AB%E7%9B%9B%E5%AE%B4-131505249.html",
-      "description": "澎湖縣政府主辦二○二六年澎湖國際海上花火節，於昨（廿五）晚澎湖夜空迎來今夏最具沉浸感的動漫盛宴！《七龍珠Z》經典劇場版、七百台主題無人機燈光秀與熱血主題煙火音樂，於昨晚接力登場。從經典劇情、角色畫面到熟悉音樂，全方位打造宛如走進《七龍珠Z》世界的沉浸式夏夜體驗，參加遊客一起在海風與星空陪伴下，體驗最熱血的青春回憶。今年花火節除打造煙火與無人機展演外，也持續結合《七龍珠Z》IP合作，延伸規劃星光電影院、FRP大型角色裝置藝術、主題打卡村、角色集章及周邊互動活動...",
-      "pubDate": "Mon, 25 May 2026 21:15:05 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "參展新一代設計展 智慧局臺灣專利超級站獲好評",
-      "link": "https://tw.news.yahoo.com/%E5%8F%83%E5%B1%95%E6%96%B0-%E4%BB%A3%E8%A8%AD%E8%A8%88%E5%B1%95-%E6%99%BA%E6%85%A7%E5%B1%80%E8%87%BA%E7%81%A3%E5%B0%88%E5%88%A9%E8%B6%85%E7%B4%9A%E7%AB%99%E7%8D%B2%E5%A5%BD%E8%A9%95-131505596.html",
-      "description": "經濟部智慧財產局參加廿二日至廿五日於南港展覽館舉辦的全台最大設計盛會︱「二○二六年第四十五屆新一代設計展」，於昨（廿五）日圓滿閉幕。智慧局於本屆展會設立「臺灣專利超級站」（TaiwanPatentGO），透過專利諮詢服務與專題講座，協助學生及青年創作者了解智慧財產保護機制，提升設計成果競爭力，廣獲各界好評。智慧局說明，本屆新一代設計展主題為「變動邊界」，展現設計領域在多元跨域發展下的創新能量，智慧局藉由設置專利服務據點，協助設計新秀在創作過程中掌握專利保護的重要觀念，進一步將創意成果轉化為具價值的智慧資產。智慧局補充...",
-      "pubDate": "Mon, 25 May 2026 21:15:05 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "明星國小…自然老師墜樓亡「學童全程目睹」！校方回應了",
-      "link": "https://tw.news.yahoo.com/%E6%98%8E%E6%98%9F%E5%9C%8B%E5%B0%8F-%E8%87%AA%E7%84%B6%E8%80%81%E5%B8%AB%E5%A2%9C%E6%A8%93%E4%BA%A1-%E5%AD%B8%E7%AB%A5%E5%85%A8%E7%A8%8B%E7%9B%AE%E7%9D%B9-%E6%A0%A1%E6%96%B9%E5%9B%9E%E6%87%89%E4%BA%86-131500407.html",
-      "description": "童年被劃下一道陰影！高雄苓雅區某一所明星國小今（25）日上午發生一起墜樓命案，死者是一名自然老師。校方表示，該師仍在職，目前請長假中，不明原因回到學校，意外發生當下，操場上還有不少學童正在活動，面對突如其來的狀況反應不及，全程目睹，受到不小驚嚇。",
-      "pubDate": "Mon, 25 May 2026 21:15:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "華爾街老將賣光輝達！轉頭加碼「這3檔AI股」",
-      "link": "https://tw.news.yahoo.com/%E8%8F%AF%E7%88%BE%E8%A1%97%E8%80%81%E5%B0%87%E8%B3%A3%E5%85%89%E8%BC%9D%E9%81%94-%E8%BD%89%E9%A0%AD%E5%8A%A0%E7%A2%BC-%E9%80%993%E6%AA%94ai%E8%82%A1-131500953.html",
-      "description": "輝達執行長黃仁勳提前來台掀起旋風，但在大洋彼端的美國，億萬富豪、華爾街老將朱肯米勒（Stanley Druckenmiller）卻早早就出清輝達持股，並轉頭投資英特爾（Intel）、安謀（ARM）和博通（Broadcom），知名理財媒體《Motely Fool》報導，這代表AI股投資的新轉向，從輝達的通用型訓練GPU，轉移至客製化晶片與CPU。",
-      "pubDate": "Mon, 25 May 2026 21:15:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "沈伯洋送「特別禮物」！蔡英文愛犬樂樂秒嗑光",
-      "link": "https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E9%80%81-%E7%89%B9%E5%88%A5%E7%A6%AE%E7%89%A9-%E8%94%A1%E8%8B%B1%E6%96%87%E6%84%9B%E7%8A%AC%E6%A8%82%E6%A8%82%E7%A7%92%E5%97%91%E5%85%89-131500964.html",
-      "description": "民進黨台北市長參選人沈伯洋近日在直播中提到自己喜歡吃三色豆，直播片段被分享到Threads後獲得前總統蔡英文大讚「沈伯洋，你來跟我坐同一桌，我也是三色豆愛好者」。沈伯洋今（25）日拜會蔡英文，他也在社群網站分享自己為蔡英文準備的禮物，其中就有狗狗零食「三色豆起司塊」。",
-      "pubDate": "Mon, 25 May 2026 21:15:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "淡江大橋 假日湧賞夕陽車流",
-      "link": "https://tw.news.yahoo.com/%E6%B7%A1%E6%B1%9F%E5%A4%A7%E6%A9%8B-%E5%81%87%E6%97%A5%E6%B9%A7%E8%B3%9E%E5%A4%95%E9%99%BD%E8%BB%8A%E6%B5%81-131434469.html",
-      "description": "記者蔡琇惠∕新北報導 新北市淡江大橋通車後，除分擔淡水、八里交通，也成為民眾假日賞景、看夕陽的新興熱門路線。新北市交通局分析近期車流發現，平日交通大致順暢，但假日下午至傍晚因大量遊客湧入淡水，形成明顯「賞夕陽車流」，其中下午二時至六時為交通壓力最大時段。 交通局表示，平日淡江大橋橋面及周邊道路整體順暢，能有效分流竹圍民權路及龍米路等傳統通勤路廊車流，停車場使用率多維持二至四成，交通運作穩定。 不過，假日車流型態呈現高度觀光導向，上午十時後車流逐漸增加，中午過後大量民眾前往淡水賞景，下午二時至六時進入尖峰...",
-      "pubDate": "Mon, 25 May 2026 21:14:34 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "綠營徵召梁育慈戰屏東市長 國民黨7人爭議員提名",
-      "link": "https://tw.news.yahoo.com/%E7%B6%A0%E7%87%9F%E5%BE%B5%E5%8F%AC%E6%A2%81%E8%82%B2%E6%85%88%E6%88%B0%E5%B1%8F%E6%9D%B1%E5%B8%82%E9%95%B7-%E5%9C%8B%E6%B0%91%E9%BB%A87%E4%BA%BA%E7%88%AD%E8%AD%B0%E5%93%A1%E6%8F%90%E5%90%8D-131433511.html",
-      "description": "民進黨25日正式徵召屏東縣議員梁育慈投入屏東市長選戰，卻意外牽動國民黨在屏東市議員選區布局。國民黨屏東縣黨部今召開協調會，討論議員提名名單，由於目前已有7人登記參選，黨內現任議員擔憂提名過多恐導致票源稀釋，協調過程火藥味濃厚，最終仍未達共識，黨部決定保留兩周協調空間。",
-      "pubDate": "Mon, 25 May 2026 21:14:33 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "冷血媽跨國森林遺棄2幼子！男童生父首度發聲：守在手機前等通知接孩子",
-      "link": "https://tw.news.yahoo.com/%E5%86%B7%E8%A1%80%E5%AA%BD%E8%B7%A8%E5%9C%8B%E6%A3%AE%E6%9E%97%E9%81%BA%E6%A3%842%E5%B9%BC%E5%AD%90-%E7%94%B7%E7%AB%A5%E7%94%9F%E7%88%B6%E9%A6%96%E5%BA%A6%E7%99%BC%E8%81%B2-%E5%AE%88%E5%9C%A8%E6%89%8B%E6%A9%9F%E5%89%8D%E7%AD%89%E9%80%9A%E7%9F%A5%E6%8E%A5%E5%AD%A9%E5%AD%90-131400961.html",
-      "description": "近期葡萄牙發生一起離譜遺棄案，一名法國母親跟男友開2千公里的車長途跋涉到葡萄牙，遺棄她分別5歲、3歲的幼子，引發各界譁然，兩名男童的生父首度發聲。",
-      "pubDate": "Mon, 25 May 2026 21:14:00 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "培育科技實力&接軌國際新世代！竹市建功高中115學年度成立理工雙語實驗班",
-      "link": "https://tw.news.yahoo.com/%E5%9F%B9%E8%82%B2%E7%A7%91%E6%8A%80%E5%AF%A6%E5%8A%9B-%E6%8E%A5%E8%BB%8C%E5%9C%8B%E9%9A%9B%E6%96%B0%E4%B8%96%E4%BB%A3-%E7%AB%B9%E5%B8%82%E5%BB%BA%E5%8A%9F%E9%AB%98%E4%B8%AD115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E6%88%90%E7%AB%8B%E7%90%86%E5%B7%A5%E9%9B%99%E8%AA%9E%E5%AF%A6%E9%A9%97%E7%8F%AD-131346867.html",
-      "description": "【民眾新聞網方健龍新竹報導】為回應科技城市發展需求，並培育具備理工素養與國際競爭力的未來人才，新竹市立建功高級 […]",
-      "pubDate": "Mon, 25 May 2026 21:13:46 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "輝達總部27日動土 黃蔣同框",
-      "link": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E7%B8%BD%E9%83%A827%E6%97%A5%E5%8B%95%E5%9C%9F-%E9%BB%83%E8%94%A3%E5%90%8C%E6%A1%86-131341571.html",
-      "description": "記者陳建興∕台北報導 輝達二十五日宣布，為慶祝台灣NVIDIA Constellation專案啟動，二十七日上午在北士科Ｔ十七、Ｔ十八預定地舉辦輝達台灣員工大會，執行長黃仁勳將親自出席。台北市長蔣萬安也將應邀與會。 對於台灣能源基礎設施是否足夠因應未來北士科人工智慧（ＡＩ）資料中心需求？黃仁勳直言台灣需要更多能源，「沒有能源就沒有經濟成長」。他解釋，台灣製造業成長強勁，全世界對台灣的晶片和電腦的需求也很強勁...",
-      "pubDate": "Mon, 25 May 2026 21:13:41 +0800",
-      "source": "Yahoo 國際新聞",
-      "category": "yahoo-international",
-      "lang": "zh"
-    },
-    {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "pubDate": "Mon, 25 May 2026 13:05:56 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Sonny Rollins, colossus of jazz saxophone, dies aged 95",
+      "link": "https://www.theguardian.com/music/2026/may/26/sonny-rollins-jazz-saxophone-dies-aged-95",
+      "description": "One of the last stars of the bebop generation, Rollins was an genius of melodic invention and improvisation, working with Davis, Monk, Coltrane and others Sonny Rollins, one of the greatest jazz saxophonists of all time, has died aged 95. His death was announced on his website on Monday, “with deep sorrow and profound love”. His publicist Terri Hinte also confirmed the news. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 02:01:53 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "pubDate": "Mon, 25 May 2026 11:17:49 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Middle East crisis live: US launches ‘self-defence strikes’ on southern Iran as efforts to reach a peace deal continue",
+      "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
+      "description": "US official says Iranian boats seen laying mines in strait of Hormuz, while Iran state media says situation ‘under control’ after blasts reported in Bandar Abbas Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah Ebrahim Rezaei, the spokesperson of the Iranian parliament’s national security and foreign policy commission, has said that time is working against the US and warned that Iran does not respond well to threats. In a post on X , he wrote: During the military war, our tactic was an eye for an eye; in the diplomatic war, it is action against action. Do not believe the bluff of the failed president; time is against the Americans. If they want an agreement, they should negotiate; if they want $6 gas, they should stand firm and bluff until the grass grows under their feet. Iran does not bow to force or threats. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 02:00:54 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Currently no active leak from failing chemical tank, California officials say",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "description": "The tank, which contains a highly volatile and flammable substance, has been at risk of either a major spillage or an explosion.",
-      "pubDate": "Mon, 25 May 2026 11:15:29 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour",
+      "link": "https://www.theguardian.com/australia-news/2026/may/26/vivid-drone-show-cancelled-sydney-2026-darling-harbour",
+      "description": "Event organisers blame ‘unforeseen technical difficulties’ for the drone malfunction, with four performances cancelled Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast About 90 drones have plummeted from the sky and plunged into Sydney’s Darling Harbour during an aerial drone show , prompting a second event to be cancelled later in the evening. Vivid Sydney said “unforeseen technical difficulties” occurred during Monday’s 7.30pm performance of the show, called Star-Bound , resulting in 89 drones falling into the water at Cockle Bay in Darling Harbour. No injuries have been reported. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 00:57:51 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
-      "link": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
-      "description": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
-      "pubDate": "Mon, 25 May 2026 11:13:45 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Chris Bowen says he has made it ‘crystal clear’ to BHP and other big polluters they must cut emissions onsite",
+      "link": "https://www.theguardian.com/world/2026/may/26/bhp-files-australian-government-emissions",
+      "description": "Mining giant’s backsliding on climate commitments due to ‘weakness’ of policy, Kate Chaney says Adam Morton: Big Mining gets a $4bn tax break to use fossil fuel. It’s a strange way to tackle emissions Read more from the BHP files investigation here Get our breaking news email , free app or daily news podcast Australia’s climate change minister, Chris Bowen, says he has made it “crystal clear” that he expects industrial polluters including BHP to reduce their onsite emissions after leaked documents revealed that the world’s biggest miner has backtracked on climate action . An exclusive investigation based on documents leaked to by the Guardian and the ABC show BHP has scrapped a project to significantly reduce global emissions , delayed vast renewables projects in the Pilbara and war-gamed options to push the electrification of its polluting diesel truck and train fleets into the next two decades. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 00:48:43 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Senegal's leadership row mounts as parliament speaker resigns",
-      "link": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
-      "description": "Some speculate that El Malick Ndiaye stepped down so that ousted-PM Ousmane Sonko can take his place.",
-      "pubDate": "Mon, 25 May 2026 11:12:43 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Power bills to fall by up to 10% from July as renewables and batteries soar across Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/may/26/power-bills-drop-fall-australia-energy-default-market-offer",
+      "description": "Australia now a top-three global player in batteries, and renewable energy met nearly half of the nation’s power in 2025 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Energy bills for households and small businesses will fall by up to 10% from July across parts of the eastern states, as a new industry survey shows record levels of renewables and batteries in the power grid. Households in New South Wales and south-east Queensland on standing electricity plans – known as the “default market offer” – can expect prices to fall between 3.4% and 10.7% compared to last year, according to the Australian Energy Regulator’s final offer for 2026-27. Some could save up to $155 per year. While, South Australian households on a flat rate could expect an increase of 1.4%. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 00:16:42 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "description": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
-      "pubDate": "Mon, 25 May 2026 11:08:05 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "description": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
-      "pubDate": "Mon, 25 May 2026 11:08:05 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "人在死後會被記住什麼？現在思考你的遺產可能對你有益",
+      "link": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "研究顯示，思考我們在死後會留下什麼樣的遺產，有助於改善心理健康，並讓我們在生命中找到更多意義——即使我們仍然年輕。",
+      "pubDate": "Tue, 26 May 2026 00:14:25 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "Moment of gas explosion at China coal mine",
-      "link": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
-      "pubDate": "Mon, 25 May 2026 10:20:57 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
+      "link": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
+      "description": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to stay in Mexico during the World Cup , adding that the US did not want to host the team. The team will still play its group stage matches in the US but its base has been moved to Tijuana, Mexico, just south of San Diego, California, a move that Iran’s football federation announced recently and that was formally confirmed by Fifa, the sport’s governing body, on Monday. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 00:02:46 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Moment of gas explosion at China coal mine",
-      "link": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
-      "pubDate": "Mon, 25 May 2026 10:20:57 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah",
+      "link": "https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah",
+      "description": "Hezbollah and Israel launch attacks amid increasingly imperilled ceasefire and stalling talks between US and Iran Middle East crisis: live updates The Israeli army has intensified strikes in southern Lebanon, as prime minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in an effort to “crush” Hezbollah in a further erosion of an already fragmented ceasefire. In turn, Hezbollah said it staged several attacks on Monday on three barracks and a military post in northern Israel “in response to the violation of the ceasefire” by Israel. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 00:01:52 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Iran denies deal with US is imminent despite some progress",
+      "link": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
+      "description": "Tehran says ‘contradictory statements’ from US and Israeli interference hindering negotiations Middle East crisis – live updates Iran has poured cold water on suggestions that a deal with the US is imminent, pointing to the confusion in US positions and Israeli interference as key factors in why a complete agreement is proving difficult to secure. Speaking at the weekly foreign ministry press briefing, Esmail Baghaei, the spokesperson for Iran’s negotiating team, also said future management of the strait of Hormuz was a matter for Oman and Iran to reach agreement on, and that it was not tolls that were being proposed but “fees for navigational services”. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 23:26:26 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "‘A tsunami of harm’: views on tackling online safety for under-16s in the UK",
+      "link": "https://www.theguardian.com/uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation",
+      "description": "Campaigners, teenagers, legislators and experts give their opinions on the government’s social media consultation Change is coming for social media platforms. The UK government’s consultation on improving online safety for children will result in some form of action being taken against big tech. Even before the deadline for submissions has passed, ministers have pledged to introduce an Australia-style social media ban for under-16s or restrictions on “addictive” features such as infinite scrolling. There is overwhelming pressure from safety campaigners and MPs for a further crackdown on social media platforms, despite the introduction of the Online Safety Act, which requires tech firms to shield children from harmful content. The deadline for contributions is Tuesday night and the government has promised to act swiftly. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 23:01:38 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Explosion threat at southern California chemical tank eliminated, firefighters say",
+      "link": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
+      "description": "US officials credit overnight cooling and monitoring for stabilising tank after leak fears triggered mass evacuation Firefighters contending with an overheating tank of hazardous chemicals in southern California said they had eliminated the threat of the tank exploding in an overnight operation, Orange county fire officials said on Monday. The damaged chemical tank in southern California had cracked over the weekend, which authorities were hopeful would relieve pressure and reduce the risk of an explosion. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 22:46:05 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Record May highs sweep across France as extreme heat hits western Europe",
+      "link": "https://www.theguardian.com/world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
+      "description": "Mercury in Spain also climbs to well above normal with weather event set to continue for several more days More than 350 French towns have recorded their highest-ever temperatures for May as France and the UK set national heat records amid an extreme early-summer heat event that could see the mercury rise to 40C in parts of Spain by the end of the week. The UK’s Met Office said the country’s all-time record for May was broken when a temperature of 34.8C was recorded at London’s Kew Gardens. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 22:06:09 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
+      "link": "https://www.theguardian.com/money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
+      "description": "Head of Early Years Alliance says additional charges paid by parents represent ‘cross-subsidy’ Parents of nursery children in England are being charged extra fees to cover for government underfunding of free childcare hours, with some paying thousands of pounds a year for consumables such as food, wipes and nappies, campaigners have said. The comments came as the education secretary, Bridget Phillipson, asked the competition watchdog to investigate hidden extra charges that parents have encountered when trying to access government-funded childcare. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 21:30:36 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "‘Like tobacco’: Wes Streeting calls for partial social media ban for under-16s",
+      "link": "https://www.theguardian.com/uk-news/2026/may/25/social-media-should-be-treated-like-tobacco-streeting-calls-for-under-16s-ban-on-certain-platforms",
+      "description": "Exclusive: Former health secretary’s intervention comes as government closes consultation on age limits for platforms Social media companies should be treated like the tobacco industry, Wes Streeting has argued, as he called for a ban on under-16s accessing certain platforms. Speaking publicly about the prospect of a ban for the first time since he left government, the former health secretary said one was needed because large technology companies were trying to dodge regulations. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 20:59:01 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Starmer urged to intervene in ‘rigged’ Indian prosecution of British human rights activist",
+      "link": "https://www.theguardian.com/world/2026/may/25/starmer-urged-to-intervene-in-rigged-indian-prosecution-of-british-human-rights-activist",
+      "description": "Senior lawyers call on prime minister to request Indian prosecutors drop charges that would breach double jeopardy rule Four senior lawyers, including the former attorney general Dominic Grieve, have written to Keir Starmer urging him to request that Indian prosecutors drop charges against the British national Jagtar Singh Johal on the basis that continued prosecution would be in manifest breach of the double jeopardy rule which prevents someone being tried twice for the same offence. Johal has been held in an Indian jail for eight years, and in March last year was acquitted of the terrorist charges laid against him in a court in Punjab. The court found the prosecutors had “miserably failed” to present any reliable evidence, despite having had seven years to do so. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 19:53:44 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Mature cheese-roller beaten by young, YouTubing upstart",
+      "link": "https://www.theguardian.com/uk-news/2026/may/25/cheese-rolling-german-youtuber-tom-kopke-beats-all-time-champion-chris-anderson",
+      "description": "Tom Kopke from Germany out-tumbles local hero Chris Anderson on a meltingly hot day in Gloucestershire It was billed as the great cheese-off: a helter-skelter, bone-jarring downhill race between the all-time champ and a young upstart. After the hype and hyperbole, youth won out as the 24-year-old German YouTuber Tom Kopke beat the 38-year-old local hero Chris Anderson at the annual cheese-rolling event in the English West Country. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 19:14:57 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "‘If Iran gets a bomb it will be Bibi’s’: Trump’s deal outline sparks alarm in Israel",
+      "link": "https://www.theguardian.com/world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
+      "description": "Netanyahu’s joint war with the US began with talk of regime change in Tehran but may leave him with few strategic gains Middle East live – latest updates When Donald Trump launched a pre-emptive war on Iran with Israel in February, many in the country hailed the campaign as the crowning triumph of Benjamin Netanyahu’s political and diplomatic career. Three months on the regime is still in power in Tehran, Trump is chasing a deal that will reopen the strait of Hormuz to oil tankers, and the reported terms have provoked alarm, dismay and anger in Israel. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 18:50:49 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
+      "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
+      "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as cost Rachel Reeves has instructed cabinet colleagues to award government contracts in four critical industries directly to British companies, making clear her irritation that ministers have been sending too much government business abroad. In a letter seen by the Guardian, the chancellor tells every cabinet minister in charge of a spending department to “buy British” wherever possible, adding that she is disappointed they are not already doing so. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 18:43:39 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Protesters clash with ICE agents outside New Jersey detention center",
+      "link": "https://www.theguardian.com/us-news/2026/may/25/new-jersey-ice-immigration-protest",
+      "description": "Protesters say agents used pepper spray and batons in clash outside Delaney Hall where a hunger strike is under way Protesters outside a New Jersey migrant detention center where a hunger strike is under way alleged that US immigration agents deployed pepper spray and batons against them during a demonstration on Monday. The protesters tried to stop ICE from transferring Martin Soto – who announced the strike – but officials said that they were able to move him to the Elizabeth contract detention facility. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 18:25:00 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Texas officers rescue infant from car trapped in floodwaters",
+      "link": "https://www.theguardian.com/us-news/2026/may/25/texas-baby-rescue-car-floodwaters",
+      "description": "Video shows officers and firefighters surrounding a white car partially submerged in fast-moving water Authorities in Texas rescued an infant on Saturday after a vehicle became trapped in flood waters in Beeville, south of San Antonio. Video released on Sunday by the Beeville police department showed officers and firefighters surrounding a white car that was partially submerged in fast-moving water. As one first responder approached the car, a distressed man in the vehicle asked: “Can you get my kid?” Continue reading...",
+      "pubDate": "Mon, 25 May 2026 17:24:47 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+      "link": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+      "description": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic Republic of Congo (DRC) are at high risk from the disease. “We are urgently scaling up operations, but at the moment the epidemic is outpacing us,” said the WHO’s director-general, Dr Tedros Adhanom Ghebreyesus, as he urged neighbouring countries to take immediate action. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 17:00:30 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
+      "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
+      "description": "Scientists say record-breaking heat is a reminder of how climate crisis is affecting lives The fierce heat sweeping across Europe over the bank holiday weekend has beaten the UK’s all-time temperature record for May, with scorching highs of close to 35C. A temperature of 33.5C was recorded at Heathrow airport on Monday lunchtime, according to provisional data from the Met Office, beating the previous May record that was set in 1922 and reached again in 1944. Later in the afternoon a temperature of 34.8C was recorded at London’s Kew Gardens. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 16:31:56 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+      "link": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+      "description": "Brent crude futures down 6% to lowest level in two weeks and stock markets rise Oil prices fell below $100 a barrel on Monday and stock markets rose on hopes that the US and Iran are inching closer to a peace deal . Brent crude futures, the global oil benchmark, were down 6% to $97.43 a barrel, the lowest level in two weeks, with hopes that an agreement to end the near three-month US-Israeli war on Iran can be struck. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 16:05:41 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
+      "link": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
+      "description": "Strongly anti-Turkish party doubles its seats although mainstream parties did not see vote crumble as predicted An anti-immigrant far-right party, inspired by Greece’s defunct neo-Nazi Golden Dawn, made the biggest gains in Sunday’s parliamentary election in Cyprus. Elam, the Greek National People’s Front, which has pushed for the closure of checkpoints on the ethnically split island and is vociferously anti-Turkish, doubled its seats in the 56-member legislature after securing 10.9 % of the vote. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 15:50:23 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "中國山西礦難至少82死 十七年來最致命事故",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8ppdxe023o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "中國山西省留神峪煤礦發生爆炸，官方公佈已造成至少82人死亡、2人失蹤、128人受傷，是中國自2009年以來最嚴重的礦難。當局初步判斷營運的通洲集團涉嫌嚴重違法。據報事發一半的當值礦工沒有正式報到，也未配戴緊急定位追蹤器，令搜救工作難上加難。",
+      "pubDate": "Mon, 25 May 2026 15:10:02 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "description": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
-      "pubDate": "Mon, 25 May 2026 08:00:35 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
+      "link": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
+      "description": "Region adapting to diminished US power after Washington fails to land knockout blow on Tehran or safeguard allies Middle East crisis – live updates The shock of the Iran war and its fallout has driven rivals in the Middle East to get behind a peace deal, pushing the Trump administration to accept a tentative agreement in the face of furious opposition from Israel and its supporters in Washington. The diplomatic efforts come as the region is reshaping to adapt to diminished US power after Washington’s inability to land a knockout blow on Iran, force the opening of the strait of Hormuz or safeguard its Gulf allies. Tehran has few friends in the region, but the regime’s survival has meant that its neighbours have had to find an accommodation. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 15:03:17 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "description": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
-      "pubDate": "Mon, 25 May 2026 08:00:35 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "The ‘teal party’ was once used to undermine independent MPs. So why would they try to make it a reality?",
+      "link": "https://www.theguardian.com/australia-news/2026/may/26/teals-eye-party-structure-to-fill-liberal-vacuum-and-counter-one-nation",
+      "description": "Changes to political funding and the need for crossbenchers to remain relevant are driving discussions but some independents are opposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast It is a tag that has been unfairly – and incorrectly – attached to the band of teal MPs since their arrival en-masse in federal parliament in 2022, a slur deployed by their political opponents in an attempt to undermine their independence. The “teal party”. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 15:00:30 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Thai rescuers join effort to free seven people trapped in Laos cave",
+      "link": "https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers",
+      "description": "Group have been stuck in flooded cave in central Laos for five days after heavy rain caused landslides Divers who helped in the dramatic rescue of a young Thai football team in 2018 have joined efforts to free seven people who have been trapped for five days inside a remote, flooded cave in central Laos. The group entered the cave in Xaysomboun province on Wednesday to hunt for wildlife and search for gold, reports suggest. Heavy rain led to landslides, which blocked the cave entrance. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 14:24:26 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
+      "link": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
+      "description": "Links between Trump Organization and Ivanishvili family for Tbilisi skyscraper raise new conflict of interest concerns A Trump Tower planned for the Georgian capital, Tbilisi, is to be built on land currently part-owned by the son of the US-sanctioned leader of the country, according to official records. The proposed skyscraper, a joint venture between a local consortium and the Trump Organization, which is managed by the US president’s sons, Donald Trump Jr and Eric Trump, will be on a plot whose current registered owner is the International Charity Fund Cartu. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 12:00:27 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "中國15年來最嚴重煤礦事故後，民眾怒火升溫",
+      "link": "https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在中國受到嚴密管控的互聯網上，民眾紛紛要求追究責任，並質疑事故為何會發生。",
+      "pubDate": "Mon, 25 May 2026 10:33:25 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "link": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "description": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
-      "pubDate": "Mon, 25 May 2026 06:52:59 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "link": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "description": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
-      "pubDate": "Mon, 25 May 2026 06:52:59 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "黎家盈：首位香港太空人被寄望激發民族主義浪潮",
+      "link": "https://www.bbc.com/zhongwen/articles/c1l22592njmo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "警隊出身的黎家盈隨神舟二十三號升空，成為香港首位太空人。香港特首李家超稱黎家盈的升空是「一國兩制」優越性最生動的寫照。",
+      "pubDate": "Mon, 25 May 2026 08:26:42 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "description": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "pubDate": "Mon, 25 May 2026 04:45:13 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
+      "link": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "description": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and calling for the removal of the facility’s director, whom they accused of overseeing guards as they shot unarmed prisoners. “We want justice. They are shooting us, the guards and the wardens,” a prisoner said in a video shared by the Venezuelan Observatory of Prisons, a local NGO, on X, in which a man is seen with a bullet wound in his chest. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 06:20:46 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "description": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "pubDate": "Mon, 25 May 2026 01:08:39 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
-      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
-      "description": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
-      "pubDate": "Sun, 24 May 2026 23:13:50 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "Indian billionaires buy foreign companies as growth slows at home",
-      "link": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
-      "description": "India Inc spent $18bn on global buyouts in 2025 and the deal value could cross $15bn in the first half of 2026.",
-      "pubDate": "Sun, 24 May 2026 23:01:09 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "pubDate": "Sun, 24 May 2026 22:11:51 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
-      "lang": "en"
-    },
-    {
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "pubDate": "Sun, 24 May 2026 22:11:51 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "足球世界盃2026：伊朗足協主席稱球隊基地已由美國改至墨西哥",
+      "link": "https://www.bbc.com/zhongwen/articles/czr2e5xjg42o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "伊朗表示，國際足聯已批准將該國的世界盃訓練基地從美國改至墨西哥。",
+      "pubDate": "Mon, 25 May 2026 04:47:22 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
-      "pubDate": "Sun, 24 May 2026 21:02:08 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "《007：黎明曙光》游戲新作揭示詹士邦脆弱一面",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2p9z51zj5o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "這款電子遊戲展現了年輕的詹士邦在獲得「00」特工身份之前的形象。",
+      "pubDate": "Mon, 25 May 2026 04:02:51 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
+      "link": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
+      "description": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was struck by her good looks. The two initiated a conversation and when Kumile expressed anxiety about what a tarot reading at the event might hold, Selelo thought nothing of offering her a hug. The reading turned out positive but Kumile claimed her hug anyway and they talked for hours. That was 1 October 2023. Two months later, they moved in together. Then, on a hike during the Easter holidays in 2024, Selelo proposed to Kumile. A year later, they visited a local government office to register their intent to marry and were told it wasn’t legal. Continue reading...",
+      "pubDate": "Mon, 25 May 2026 04:00:15 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
-      "pubDate": "Sun, 24 May 2026 21:02:08 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "特朗普指示談判代表「不要急於與伊朗達成協議」 油價大幅下跌",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpxkg35kwo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "據美國媒體報道，正在討論的協議包括將停火期限延長60天，在此期間將重新開放霍爾木茲海峽。",
+      "pubDate": "Mon, 25 May 2026 03:26:10 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "description": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-      "pubDate": "Sun, 24 May 2026 19:49:39 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
+      "link": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
+      "description": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country. The DRC’s ministry of communication said in a post on X on Sunday that there were 904 suspected cases and 119 suspected deaths. Continue reading...",
+      "pubDate": "Sun, 24 May 2026 19:07:33 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Ebola outbreak poses massive challenges, warns nurse",
-      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
-      "description": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
-      "pubDate": "Sun, 24 May 2026 17:46:14 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Suicide bombing near railway track in Pakistan kills at least 23 people",
+      "link": "https://www.theguardian.com/world/2026/may/24/suicide-bombing-near-railway-track-in-pakistan-quetta",
+      "description": "Explosives-laden vehicle detonated as passenger train travelled through south-western city of Quetta A suicide bomber detonated an explosives-laden vehicle near a railway track as a passenger train travelled through the south-western Pakistani city of Quetta, killing at least 23 people and wounding more than 70 others, officials have said. The force of the explosion on Sunday caused two of the train cars to overturn and catch fire, sending thick black smoke into the air, according to footage shared online. Continue reading...",
+      "pubDate": "Sun, 24 May 2026 14:22:46 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "description": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
-      "pubDate": "Sun, 24 May 2026 15:29:08 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "足球世界盃2026：值得關注的黑馬球隊",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "擴大規模後的賽制令很多小國也得以晉級世界盃決賽圈，以下是一些逆襲的黑馬球隊。",
+      "pubDate": "Sun, 24 May 2026 06:56:24 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "link": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "description": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals. Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed. Continue reading...",
+      "pubDate": "Sun, 24 May 2026 06:00:49 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "One killed and many feared trapped under collapsed building in Philippines",
-      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
-      "description": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
-      "pubDate": "Sun, 24 May 2026 14:25:00 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "在日本離婚導致父母與子女分離，法律改革能否終結單獨監護的情況？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5y79gpxzp2o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "日本一項《民法》修正案預計將首次允許共同撫養子女。",
+      "pubDate": "Sun, 24 May 2026 04:51:27 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "中國山西煤礦爆炸據報至少82死，我們目前已知道什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/c332jgrkypeo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "這是中國自2009年以來最嚴重的礦難。涉事的煤礦曾被中國當局列入「全國災害嚴重生產煤礦」名單。",
+      "pubDate": "Sun, 24 May 2026 03:23:50 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Trump to meet with US negotiators to decide on Iran’s ceasefire proposal",
+      "link": "https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
+      "description": "US president says it’s a ‘solid 50/50’ on either making a ‘good’ deal with Iran or striking the country anew Donald Trump said he would meet today with American negotiators to review Iran’s latest proposal and decide by Sunday whether he will strike Iran “to kingdom come”. The US secretary of state, Marco Rubio, also told reporters in India on Saturday that “there may be news later today” about Iran. He did not specify what that news would be. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 17:25:21 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "One killed and many feared trapped under collapsed building in Philippines",
-      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
-      "description": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
-      "pubDate": "Sun, 24 May 2026 14:25:00 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-      "link": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
-      "description": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
-      "pubDate": "Sun, 24 May 2026 11:42:48 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "China mine death toll at least 82 after gas blast",
+      "link": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
+      "description": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi province At least 82 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years. The explosion happened on Friday at 7.29pm (12.29 BST) while 247 workers were underground at the Liushenyu coalmine in Qinyuan county, the state media agency Xinhua reported. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 15:58:40 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "description": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "pubDate": "Sun, 24 May 2026 10:34:52 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
+      "link": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+      "description": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spiraling Ebola outbreak, according to reporting by Politico, but experts say the move won’t help prevent the spread of the disease. At least one woman is now in limbo after officials moved her to Kinshasa, the capital of the DRC, and now say they won’t bring her back because of the Ebola travel ban – despite a judge’s order for her return. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 14:33:05 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "It's like the Olympics - except steroids are allowed",
-      "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
-      "description": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
-      "pubDate": "Sun, 24 May 2026 04:46:07 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "India’s government orders handover of exclusive Delhi Gymkhana Club",
+      "link": "https://www.theguardian.com/world/2026/may/23/india-government-orders-takeover-exclusive-delhi-gymkhana-club-narendra-modi",
+      "description": "Move comes against backdrop of challenge by prime minister, Narendra Modi, to country’s traditional elites The Indian government has ordered one of the country’s most exclusive private clubs to vacate its premises in two weeks, underscoring the long-running push of the prime minister, Narendra Modi, against entrenched elite institutions. The ministry of housing and urban affairs directed the Delhi Gymkhana Club to hand over its sprawling site in the heart of New Delhi by 5 June, citing urgent public interest requirements, including defence and security infrastructure. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 12:51:01 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "pubDate": "Sun, 24 May 2026 03:18:38 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "In Japan, divorce splits parents from children. Could a law change end sole custody?",
-      "link": "https://www.bbc.com/news/articles/clyp15g9nk4o?at_medium=RSS&at_campaign=rss",
-      "description": "An amendment to Japan's Civil Code looks set to allow shared parenting for the first time.",
-      "pubDate": "Sat, 23 May 2026 23:44:22 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-      "pubDate": "Sat, 23 May 2026 23:34:33 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "link": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "description": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of slipping away. The 25-year-old fled Haiti to escape the rampant gang violence that upended his university studies in economics, and planned to join family in Montreal. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 11:00:28 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "link": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "description": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
-      "pubDate": "Sat, 23 May 2026 15:25:39 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
-      "link": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC's Brandon Livesay toured the Columbia Park Training Facility in Morris Township, New Jersey that will host the team in the coming weeks.",
-      "pubDate": "Sat, 23 May 2026 13:31:38 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
+      "link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
+      "description": "Iran has threatened to impose tolls on shipping, while US demands that Iran hand over its highly enriched uranium may be deferred. Is there an end in sight? Qatar has rushed a team of mediators to Tehran in a sign that talks to open the strait of Hormuz, in return for the lifting of US sanctions and asset freezes, are reaching a climax. The aim would be to sign a memorandum of understanding on the strait that would lead to 30 days of talks on Iran’s nuclear programme – so deferring discussion of the US demand that Iran hand over its stockpile of highly enriched uranium. Continue reading...",
+      "pubDate": "Sat, 23 May 2026 01:14:00 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "description": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "pubDate": "Sat, 23 May 2026 11:55:39 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "North Korean side wins final in South Korea",
-      "link": "https://www.bbc.com/sport/football/articles/cdxpz1p8nw4o?at_medium=RSS&at_campaign=rss",
-      "description": "North Korean team Naegohyang, who made history by crossing the border into South Korea, win the Asian Women's Champions League final.",
-      "pubDate": "Sat, 23 May 2026 10:52:52 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
-      "lang": "zh"
-    },
-    {
-      "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
-      "link": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss",
-      "description": "Elon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday.",
-      "pubDate": "Sat, 23 May 2026 03:03:12 GMT",
-      "source": "BBC World News",
-      "category": "bbc-world",
+      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
+      "link": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
+      "description": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García on Friday, finding that the Trump administration would not have prosecuted him had he not challenged his high-profile deportation. Ábrego, who had entered the United States without authorization in the past, became a symbol of the Trump administration’s drive for mass deportations when he was sent to the notorious anti-terrorism mega-prison in El Salvador known as Cecot in March 2025. Continue reading...",
+      "pubDate": "Fri, 22 May 2026 21:16:28 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "North Korea's powerhouse women footballers are in Seoul to fight for title",
-      "link": "https://www.bbc.com/news/articles/cewpz05k941o?at_medium=RSS&at_campaign=rss",
-      "description": "They beat the South Korean club to progress to the final of the Asian Women's Champions League.",
-      "pubDate": "Fri, 22 May 2026 22:00:58 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+      "link": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+      "description": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the province’s leader moved the oil-rich region closer toward a referendum on independence. Separatists in the western province spent months collecting signatures seeking to trigger a binding October vote on seceding from the nation. Continue reading...",
+      "pubDate": "Fri, 22 May 2026 16:41:09 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
+      "link": "https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
+      "description": "Resolution backed by 141 states hailed as ‘new chapter’ that could improve climate diplomacy and litigation efforts When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu’s prime minister hailed the result as the start of “a new chapter” in climate action. “The task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,” said Jotham Napat. Continue reading...",
+      "pubDate": "Fri, 22 May 2026 10:27:07 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
+      "link": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
+      "description": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump has moved to Spain to request asylum after concluding that he did not feel safe back home and did not trust US authorities sufficiently to return to fight his legal case. Andry José Hernández Romero left Venezuela for Spain in early February and is due for his first asylum hearing in court there in a few days, hoping that the country’s liberal approach to immigration will afford him kinder treatment than the US or his own country had provided him, he revealed to the Guardian in his first interview since leaving for Europe. Continue reading...",
+      "pubDate": "Fri, 22 May 2026 10:00:56 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief",
+      "link": "https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief",
+      "description": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring support US arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump. When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons package awaiting Trump’s signoff for months, Hung Cao said: “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury [the Iran war] – which we have plenty.” Continue reading...",
+      "pubDate": "Fri, 22 May 2026 09:08:29 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "對特朗普來說，委員會不只是一個組織名稱，更像是一種工作方式。它意味著可以繞開現有國際機制，另起爐灶，重新設定規則。和平委員會可以繞開聯合國，去處理加沙問題；美中的貿易和投資委員會，則可以繞開WTO，去處理中美之間的爭議。",
+      "pubDate": "Fri, 22 May 2026 08:52:03 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
-      "link": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
-      "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
-      "pubDate": "Fri, 22 May 2026 11:41:23 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "Weather tracker: Heavy rain triggers flooding and landslides in parts of China",
+      "link": "https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china",
+      "description": "Twelve dead as southern and central areas also suffer travel disruption, electricity outages and evacuations Heavy, prolonged rainfall in southern and central China has resulted in weather warnings for flash flooding, landslides and waterlogging. The slow-moving band of rainfall spanned 620 miles (1,000km) and travelled eastwards across the regions on Tuesday. It was formed from the convergence of multiple bands of rain originating from the Bay of Bengal, South China Sea and Pacific Ocean. Given the accompanying low wind speeds, high daily and hourly rainfall totals have been recorded, with as much as 75mm locally in Hunan, 85mm in Anhui in a 24-hour period, and 95mm on the island of Hainan. Twelve people have died because of the flooding and hundreds of residents have been evacuated by emergency services. There were major travel disruptions, electricity outages, as well as school and business closures. Social media posts showed submerged cars and people fishing along flooded streets. Continue reading...",
+      "pubDate": "Fri, 22 May 2026 08:04:33 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "「我愛世界盃，但價格實在太離譜」：門票價暴漲五倍，球迷什麼反應？",
+      "link": "https://www.bbc.com/zhongwen/articles/cm2p1d71833o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "2026年美加墨世界盃的昂貴票價受到批評。BBC比較本屆賽事與往屆世界盃的票價差異，並訪問來自全球各地的球迷，了解他們對看球成本大幅上升如何反應。",
+      "pubDate": "Fri, 22 May 2026 08:00:44 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "description": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
-      "pubDate": "Fri, 22 May 2026 08:12:47 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "法航與空中巴士被裁定須為2009年空難過失殺人負責",
+      "link": "https://www.bbc.com/zhongwen/articles/clyp8zq1zrlo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "法國法院裁定，這些公司對造成 228 人死亡的空難負有責任。",
+      "pubDate": "Fri, 22 May 2026 05:05:04 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "India has a new political superstar - a cockroach",
-      "link": "https://www.bbc.com/news/articles/cz72y11jjq1o?at_medium=RSS&at_campaign=rss",
-      "description": "A satirical collective named after the cockroach has got millions of online followers in less than a week.",
-      "pubDate": "Thu, 21 May 2026 11:12:53 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
+      "link": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普政府一直對古巴的共產政權施加巨大經濟壓力。",
+      "pubDate": "Fri, 22 May 2026 04:46:19 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "link": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "description": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
-      "pubDate": "Wed, 20 May 2026 16:34:40 GMT",
-      "source": "BBC 香港與亞太",
-      "category": "bbc-hongkong",
+      "title": "未來「正被推入黑暗」：從緬甸到委內瑞拉，民間如何抵抗官方網絡封鎖",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21ywx9y2xo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "從緬甸到委內瑞拉，在網絡封鎖頻繁的年代，民間正想方設法繞過官方網絡封鎖與打擊。",
+      "pubDate": "Fri, 22 May 2026 00:20:48 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
       "lang": "zh"
+    },
+    {
+      "title": "特朗普稱不樂見「台獨」，台灣民眾怎麼看？",
+      "link": "https://www.bbc.com/zhongwen/articles/c202gy98lg5o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "美國總統特朗普在結束訪華行程後，接受媒體採訪稱「不想讓任何人獨立」，並認為對台軍售將會是「很好的談判籌碼」，引發台灣社會輿論震盪。BBC中文在台北街頭採訪民眾對事件的看法。",
+      "pubDate": "Thu, 21 May 2026 09:46:32 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "足球世界盃2026：美國大量酒店房間仍空置，盛事經濟可能泡湯？",
+      "link": "https://www.bbc.com/zhongwen/articles/c202gqlz0j9o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "原本被預期可帶動美國旅遊業大幅增長的2026年世界盃，如今卻令人擔心，這股熱潮可能最終無法實現。",
+      "pubDate": "Thu, 21 May 2026 07:11:22 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "BBC俄羅斯編輯：普京享受了習近平的中式歡迎，卻沒把輸油管合同帶回家\n",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4pee61p2xo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "BBC俄羅斯編輯羅森伯格分析說，俄羅斯與中國在世界舞台上展現出並肩而立的姿態，但也顯而易見存在著界限。",
+      "pubDate": "Thu, 21 May 2026 04:27:48 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "谷歌時隔十餘年再度推出智慧眼鏡  私隱問題仍受關注",
+      "link": "https://www.bbc.com/zhongwen/articles/cr7pjvl52j4o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "智慧眼鏡有潛力整合谷歌現有的多項服務，例如谷歌地圖和語音功能。",
+      "pubDate": "Thu, 21 May 2026 01:05:51 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "《臺灣漫遊錄》奪布克文學獎：楊双子筆下的台灣美食與殖民記憶",
+      "link": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "台灣作家楊双子憑著小說《臺灣漫遊錄》，奪得全球最具影響力的文學獎之一英國布克獎（Booker Prize）。她是本屆唯一來自亞洲的作家，也刷新台灣作家在此獎項的紀錄。在頒獎前夕，她接受BBC中文專訪分享這部關於台灣殖民歷史的作品。",
+      "pubDate": "Thu, 21 May 2026 00:31:25 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "普京晤習近平：美俄元首「前後腳訪華」隱含的外交訊號",
+      "link": "https://www.bbc.com/zhongwen/articles/c202zlxy904o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "俄羅斯總統普京在5月19日抵京，與中國國家主席習近平會談。此行距離美國總統特朗普完成訪華行程不足一週，北京連續接待美俄領導人，分析認為這種罕見的外交節奏，讓中國再成為國際關注中心。 這次已是普京第25次訪華，與中方達成多項合作協議。外界更關注他與習近平有否討論俄烏戰事，以及中美俄關係。",
+      "pubDate": "Wed, 20 May 2026 11:56:51 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g04lk8x2eo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普訪華後的言論引發「台獨」爭議，賴清德近日多次回應相關議題。有專家對BBC中文分析，賴清德的主權論述本質上延續蔡英文路線，但其作風和直白的語言表述，往往給人具挑釁性的觀感，難以擺脫「麻煩製造者」形象。",
+      "pubDate": "Wed, 20 May 2026 11:37:02 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
+      "link": "https://www.bbc.com/zhongwen/articles/c8d80qm6jllo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "習近平如何用兩場截然不同的接待，展示中國在中美俄之間的新角色？",
+      "pubDate": "Wed, 20 May 2026 09:16:10 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
+      "link": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "又一個中國外交關係名詞在特朗普與習近平的會談中誕生，但在中國官方宣傳「積極評價」外，觀望氛圍同時存在。",
+      "pubDate": "Tue, 19 May 2026 09:51:58 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "為何人們對斯沃琪的Royal Pop系列如此瘋狂？",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4pnn3rplqo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "巴黎附近一家斯沃琪門市外聚集了約300人，警方施放催淚氣體維持秩序。法國北部里爾的一家門市外，則有四人表示在人群中遭到毆打。",
+      "pubDate": "Tue, 19 May 2026 08:12:37 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "文革發動60週年：那十年，中國經歷了什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgzjje13jyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "60年前，中共領導人毛澤東發動文化大革命，中國自此陷入長達十年的動亂。一場追求「民主」、「平等」，要建立理想社會的革命，為何最終會將整個民族拖入災難的深淵？",
+      "pubDate": "Tue, 19 May 2026 07:00:52 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "普京訪華：中俄關係現在有多緊密",
+      "link": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad?at_medium=RSS&at_campaign=rss",
+      "description": "根據兩國已經釋出的消息，普京訪華期間中俄將簽署最高級別的聯合聲明、以及系列雙邊文件。兩國元首還會共同出席「中俄教育年」開幕式。",
+      "pubDate": "Tue, 19 May 2026 02:40:07 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
+      "link": "https://www.bbc.com/zhongwen/articles/cn7pxxm1n3ko/trad?at_medium=RSS&at_campaign=rss",
+      "description": "英國最具指標的文學獎之一「布克獎」將於5月19日公布得主，台灣作家楊双子以小說《臺灣漫遊錄》入圍決選名單。她是本屆唯一來自亞洲的作家、也刷新了台灣作家在此獎項的紀錄。",
+      "pubDate": "Sun, 17 May 2026 04:24:05 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普訪華落幕：美中各取所需，台灣、關稅等未解之事走向何方？",
+      "link": "https://www.bbc.com/zhongwen/articles/czr2pjdj8ypo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "當鏡頭逐漸淡出，北京與華盛頓之間的棘手問題幾乎都還留在桌上。雙方刻意釋放的「穩定」訊號能維持多久？",
+      "pubDate": "Sat, 16 May 2026 10:06:55 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立",
+      "link": "https://www.bbc.com/zhongwen/articles/c8xwr7vdk0no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普在回程飛機上表示，自己與習近平「談了很多」關於台灣的問題。他拒絕說明美國是否會出手保衛台灣。",
+      "pubDate": "Sat, 16 May 2026 02:55:29 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
+      "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "學者從機密檔案、縣誌研究和政治運動模式，分析「大屠殺」如何發生、誰應負責，以及其對當代中國政治文化的影響。",
+      "pubDate": "Sat, 16 May 2026 01:45:07 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普訪華結果分析：美國盯著3B，中國盯著3T，誰佔了上風？",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21r0y12r8o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "中美雙方如何表述峰會成果固然重要，但那些沒有說出口、被刻意保持沉默的話題，同樣值得注意。",
+      "pubDate": "Fri, 15 May 2026 11:30:03 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "紅毯、國宴、會談、台灣、黃仁勳：特朗普重返北京後的幾大關鍵時刻",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普重返北京，與習近平展開備受矚目的元首峰會。紅毯、國宴與高規格歡迎儀式背後，真正的焦點落在AI晶片、關稅、台灣與伊朗局勢等敏感議題。馬斯克與黃仁勳罕見現身人民大會堂，也讓這場峰會充滿濃厚的科技博弈色彩。",
+      "pubDate": "Thu, 14 May 2026 11:48:48 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普再度訪華，引起社交媒體上的熱議，中國的年輕人如何看待？關注的焦點又是什麼？",
+      "pubDate": "Thu, 14 May 2026 03:09:58 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+      "link": "https://www.bbc.com/zhongwen/articles/c1j2pl97p1zo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "今年是文革發動60週年、結束50週年，BBC中文梳理過去歷史，整理出十個關鍵點，從人物組織的崛起與沒落、形勢演變，回顧這場文化浩劫。",
+      "pubDate": "Thu, 14 May 2026 00:28:35 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
+      "link": "https://www.bbc.com/zhongwen/articles/cdxpv1r6y0zo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普上任之初，中國很多人把他看成一個「非建制」的總統。他不是華盛頓體制內的，而是遵循商人的邏輯。這反而讓中国人看到了機會：跟他打交道，也許可以直接用利益換利益，比跟建制派奧巴馬周旋更有效率。然而，盛情之後，急轉直下。",
+      "pubDate": "Tue, 12 May 2026 07:24:22 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yerdxdvz6o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "距離台北市長選舉約半年，尋求連任的國民黨籍市長蔣萬安遇到難題——鼠患，台灣網民戲稱是「安鼠之亂」。這個風波如何爆發？民生問題如何演變為政治危機？",
+      "pubDate": "Fri, 08 May 2026 12:03:23 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
+      "link": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "「長得好看、會聊天才是最重要的……如果只是跳舞，大家為什麼不去看那些專業的舞者直播呢？」",
+      "pubDate": "Mon, 13 Apr 2026 03:58:20 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
+      "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
+      "description": "Slumped on his club, head buried in his arm, Rory McIlroy looked on the verge of tears.",
+      "pubDate": "Tue, 09 Apr 2024 15:25:18 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Scientists film deepest ever fish on seabed off Japan ",
+      "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
+      "description": "Cruising at a depth of 8,336 meters (over 27,000 feet) just above the seabed, a young snailfish has become the deepest fish ever filmed by scientists during a probe into the abyss of the northern Pacific Ocean.",
+      "pubDate": "Tue, 18 Apr 2023 15:32:03 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "See the world's deepest fish",
+      "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
+      "description": "Scientists captured the unknown snailfish species at a depth of more than 27,000 feet, as part of an expedition in trenches off Japan.",
+      "pubDate": "Wed, 12 Apr 2023 09:01:12 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
+      "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
+      "description": "The escalating climate crisis is shifting many people's purchasing patterns and this extends to the $500 billion dollar global beauty industry which is grappling with a range of sustainability challenges across product manufacturing, packaging and disposal.",
+      "pubDate": "Thu, 06 Apr 2023 20:09:14 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "What to know about the Trump indictment on the eve of his court appearance",
+      "link": "https://www.cnn.com/collections/intl-trump-040223/",
+      "description": "",
+      "pubDate": "Wed, 05 Apr 2023 22:50:06 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Haberman reveals why Trump attacked judge and his family in speech",
+      "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
+      "description": "CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.",
+      "pubDate": "Wed, 05 Apr 2023 13:30:09 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
+      "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
+      "description": "A Syrian who arrived in Germany as a refugee in 2015 has won a mayoral election in the southwestern German state of Baden-Württemberg.",
+      "pubDate": "Tue, 04 Apr 2023 19:41:56 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
+      "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
+      "description": "Kwame Brathwaite, the pioneering activist and photographer whose work helped define the aesthetics of the \"Black is Beautiful\" movement of the 1960s and beyond, died on April 1, aged 85.",
+      "pubDate": "Tue, 04 Apr 2023 18:54:41 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Britain's pound is beating every other major currency this year",
+      "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
+      "description": "The British pound crashed to a record low last fall as investors rebelled against budget plans by former Prime Minister Liz Truss. Now, it's enjoying a comeback.",
+      "pubDate": "Tue, 04 Apr 2023 18:49:31 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
+      "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
+      "description": "Astronauts who will helm the first crewed moon mission in five decades were revealed on Monday, queuing up the quartet to begin training for the historic Artemis II lunar flyby that is set to take off in November 2024.",
+      "pubDate": "Tue, 04 Apr 2023 11:44:30 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "These are the animals people most want to see photographed",
+      "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
+      "description": "Originally a term used by trophy hunters in Africa, the \"Big Five\" described the animals most challenging to shoot and kill: the lion, elephant, leopard, rhino, and buffalo. Nowadays, it is more loosely used to refer to some of Africa's largest and most iconic animals.",
+      "pubDate": "Tue, 04 Apr 2023 10:38:46 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
+      "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
+      "description": "After a March Madness filled with twists and surprises -- all four No. 1 seeds failed to reach the Elite Eight for the first ever time in NCAA men's basketball tournament history -- it is time for the grand finale as UConn faces San Diego State on Monday for the title.",
+      "pubDate": "Tue, 04 Apr 2023 10:13:13 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
+      "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
+      "description": "An anticipated meeting between Taiwan's President Tsai Ing-wen and US House Speaker Kevin McCarthy in California this week has sparked concerns of a repeat of the pressure campaign China launched last year when then-Speaker Nancy Pelosi visited Taipei.",
+      "pubDate": "Tue, 04 Apr 2023 07:49:53 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
+      "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
+      "description": "China has launched a cybersecurity probe into Micron Technology, one of America's largest memory chip makers, in apparent retaliation after US allies in Asia and Europe announced new restrictions on the sale of key technology to Beijing.",
+      "pubDate": "Tue, 04 Apr 2023 03:17:15 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "What OPEC's surprise oil cut means for gas prices",
+      "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
+      "description": "OPEC and its allies' surprise move to slash oil production will soon be felt at US gas pumps.",
+      "pubDate": "Tue, 04 Apr 2023 01:48:26 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Video shows moment of deadly explosion at cafe in Russia",
+      "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
+      "description": "A well-known Russian military blogger, Vladlen Tatarsky, was killed in an explosion at a cafe in St. Petersburg, authorities said. CNN's Matthew Chance reports.",
+      "pubDate": "Tue, 04 Apr 2023 01:08:44 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
+      "link": "https://www.cnn.com/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html",
+      "description": "Twitter's traditional bird icon was booted and replaced with an image of a Shiba Inu, an apparent nod to dogecoin, the joke cryptocurrency that CEO Elon Musk is being sued over.",
+      "pubDate": "Mon, 03 Apr 2023 20:48:03 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
+      "link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
+      "description": "Some VIP Twitter users woke up on Saturday expecting to have lost their coveted blue verification check marks in a previously announced purge by Elon Musk. Instead, Twitter appeared to target a single account from a major publication Musk dislikes and changed the language on its site in a way that obscures why users are verified.",
+      "pubDate": "Mon, 03 Apr 2023 20:06:03 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
+      "link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
+      "description": "Scientists in Germany say they've been able to make a nasal vaccine that can shut down a Covid-19 infection in the nose and throat, where the virus gets its first foothold in the body.",
+      "pubDate": "Mon, 03 Apr 2023 19:04:07 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her ",
+      "link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
+      "description": "LSU star Angel Reese defended the gesture she aimed at Iowa Hawkeyes' Caitlin Clark near the end of the Tigers' first NCAA women's basketball national championship victory on Sunday, saying \"I don't take disrespect lightly.\"",
+      "pubDate": "Mon, 03 Apr 2023 18:34:35 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
+      "link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
+      "description": "A new study found a moderately higher risk of autism spectrum disorder in children born to pregnant people exposed to tap water with higher levels of lithium, but experts caution that this association does not show a direct link between the two.",
+      "pubDate": "Mon, 03 Apr 2023 18:22:12 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
+      "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
+      "description": "In a sea of Israeli flags, Yiftach Golov holds one that looks a little different.",
+      "pubDate": "Mon, 03 Apr 2023 17:22:51 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Shania Twain calls for equal pay and more diversity in country music",
+      "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
+      "description": "Shania Twian is standing up for others in country music.",
+      "pubDate": "Mon, 03 Apr 2023 16:29:08 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "What pet cemeteries reveal about being human",
+      "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
+      "description": "Why do we bury our departed loved ones in a cemetery? A primary purpose is to provide survivors with an opportunity to grieve and gain a sense of closure. The cemetery is a place for the living as much as it is a place for the dead.",
+      "pubDate": "Mon, 03 Apr 2023 15:03:47 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Erdogan's political fate may be determined by Turkey's Kurds ",
+      "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
+      "description": "Turkey's persecuted pro-Kurdish party has emerged as a kingmaker in the country's upcoming election, playing a decisive role that may just tip the balance enough to unseat two-decade ruler Recep Tayyip Erdogan.",
+      "pubDate": "Mon, 03 Apr 2023 14:54:00 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season ",
+      "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
+      "description": "It was just six months ago that Graham Potter was deemed the man to usher in a fresh, exciting era at Chelsea.",
+      "pubDate": "Mon, 03 Apr 2023 14:46:53 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+      "link": "https://www.cnn.com/collections/intl-ukraine-030423/",
+      "description": "",
+      "pubDate": "Mon, 03 Apr 2023 13:58:58 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
+      "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
+      "description": "The suspected Chinese spy balloon that transited the US earlier this year was able to capture imagery and collect some signals intelligence from US military sites, a source familiar with the matter tells CNN.",
+      "pubDate": "Mon, 03 Apr 2023 13:38:22 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
+      "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
+      "description": "Anthony Bourdain loved haggis. But even the late, great American chef, writer and television host recognized that Scotland's national dish, with its \"sinister sheep parts\" wrapped in a shroud of mystery and half-invented history, could be a hard sell.",
+      "pubDate": "Mon, 03 Apr 2023 12:43:16 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "HSBC's top execs face tense shareholders calling for a breakup",
+      "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
+      "description": "HSBC's top brass defended their strategy Monday to frustrated shareholders in the lender's largest market, as Europe's biggest bank continued to face calls to be split up.",
+      "pubDate": "Mon, 03 Apr 2023 12:31:48 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
+      "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
+      "description": "Last year, GOP Rep. Marjorie Taylor Greene of Georgia spoke at a white nationalist event organized by Holocaust denier Nick Fuentes that caused Republican leaders to denounce her.",
+      "pubDate": "Mon, 03 Apr 2023 12:26:59 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Teenage swimmer breaks two world records in four days",
+      "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
+      "description": "Sixteen-year-old Summer McIntosh broke the world record for the 400m individual medley at the Canadian swimming trials on Saturday -- just days after breaking the world record for the 400m freestyle.",
+      "pubDate": "Mon, 03 Apr 2023 12:17:19 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
+      "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
+      "description": "A young volunteer soldier, Akula, who signed up for the war at the beginning of the Russian invasion is now dealing with the trauma of war. He spoke to CNN's David McKenzie about his time on the front lines and how it has affected his mental health.",
+      "pubDate": "Mon, 03 Apr 2023 12:13:24 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "French minister under fire for Playboy magazine cover",
+      "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
+      "description": "French government minister Marlene Schiappa has come under fire from members of her own party after appearing on the front cover of Playboy magazine.",
+      "pubDate": "Mon, 03 Apr 2023 11:54:59 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "China Renaissance suspends trading, delays results after founder's disappearance ",
+      "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
+      "description": "China Renaissance, a top dealmaker in the country's tech industry, said it would suspend trading of its shares and delay the release of its annual results because it still can't get in touch with its founder.",
+      "pubDate": "Mon, 03 Apr 2023 11:42:19 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "CEOs are tired of being held responsible for gun regulation",
+      "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
+      "description": "Americans have grown used to corporate executives treading the well-worn paths of the Northeast corridor to convene alongside elected officials in Washington, DC, and discuss geopolitics, policy and all that's in-between.",
+      "pubDate": "Mon, 03 Apr 2023 11:19:35 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
+      "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
+      "description": "Paris Saint-Germain's miserable season went from bad to worse on Sunday as the team suffered a second straight home defeat with a 1-0 loss to Lyon.",
+      "pubDate": "Mon, 03 Apr 2023 11:02:06 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Finland's Prime Minister Sanna Marin concedes election",
+      "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
+      "description": "Finland's left-wing Prime Minister Sanna Marin conceded defeat on Sunday in the Nordic country's parliamentary election as the opposition right-wing National Coalition Party (NCP) claimed victory in a tightly fought contest.",
+      "pubDate": "Mon, 03 Apr 2023 10:24:55 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Video shows moment man throws yogurt on two women in Iran",
+      "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
+      "description": "Video shows an incident at a store in the Iranian city of Shandiz where a man approached two unveiled women before proceeding to grab a tub of yogurt from the store and throw it, hitting both women in the head. The video then appears to show a male staff member removing the suspect from the store. CNN is not able to verify what was said immediately before the confrontation.",
+      "pubDate": "Mon, 03 Apr 2023 10:17:00 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
+      "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
+      "description": "Finland's left-wing Prime Minister Sanna Marin conceded defeat in the country's parliamentary election as the opposition right-wing National Coalition Party claimed victory in a tightly fought contest. CNN's Laila Harrak spoke with New York Times' Chief Diplomatic Correspondent Steven Erlanger to discuss how the popular politician lost the election.",
+      "pubDate": "Mon, 03 Apr 2023 10:06:11 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
+      "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
+      "description": "Bruce Willis' wife, Emma Heming Willis, has celebrated their elder daughter's birthday with a trip down memory lane.",
+      "pubDate": "Mon, 03 Apr 2023 09:34:27 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Lawmaker speaks out about his struggle with depression",
+      "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
+      "description": "Sen. John Fetterman (D-PA) spoke to CBS about battling with depression after winning a tight election.",
+      "pubDate": "Sun, 02 Apr 2023 23:11:47 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Man rides out tornado inside van. See the footage",
+      "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
+      "description": "Cody Coombes recounts riding out a tornado in Little Rock, Arkansas, inside his pest control van. The National Weather Service reported that an EF-3 tornado had roared through Pulaski and Lonoke counties with estimated peak winds of 165 mph, killing one person in North Little Rock and four people in Wynne.",
+      "pubDate": "Sun, 02 Apr 2023 11:07:02 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
+      "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
+      "description": "Actor Mark Hamill joins CNN's Jim Acosta to discuss his thoughts about a potential spinoff series based around his legendary \"Star Wars\" character Luke Skywalker.",
+      "pubDate": "Sun, 02 Apr 2023 01:18:16 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
+      "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
+      "description": "A Palestinian taxi driver describes surviving a violent attack by a right-wing mob in Jerusalem earlier this week as Israel continues to see protests against Prime Minister Benjamin Netanyahu's judicial overhaul spread. CNN's Nic Robertson reports.",
+      "pubDate": "Fri, 31 Mar 2023 15:50:32 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
+      "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
+      "description": "Skier Francis Zuber sprang into action when he noticed a snowboarder had become trapped upside down in a tree well. Zuber, whose reaction has been applauded as a textbook example of what to do in such a situation, urged others to take up rescue courses.",
+      "pubDate": "Fri, 31 Mar 2023 12:33:33 GMT",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump pleads not guilty to 34 felony counts",
+      "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+      "description": "",
+      "pubDate": "",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "READ: Trump indictment related to hush money payment",
+      "link": "https://cnn.it/411KYN7",
+      "description": "",
+      "pubDate": "",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+      "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
+      "description": "",
+      "pubDate": "",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
+    },
+    {
+      "title": "Hundreds of millions at risk from Chinese shopping app malware ",
+      "link": "https://cnn.it/40OSomK",
+      "description": "",
+      "pubDate": "",
+      "source": "CNN 國際",
+      "category": "cnn-world",
+      "lang": "en"
     }
   ]
 }
