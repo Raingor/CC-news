@@ -327,9 +327,15 @@ const LUCKY_COLORS = ['紅色', '藍色', '綠色', '黃色', '紫色', '白色'
 const LUCKY_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 16, 18, 21, 23, 27];
 
 function generateHoroscope(apiTexts) {
-  const today = new Date();
-  const dateStr = today.toISOString().split('T')[0];
-  const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
+  // 使用北京时间 (Asia/Shanghai) 计算日期，确保每天 00:00 CST 就切换星座
+  const now = new Date();
+  const tzFmt = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric', month: '2-digit', day: '2-digit'
+  });
+  const dateStr = tzFmt.format(now); // "2026-05-27"
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const seed = y * 10000 + m * 100 + d;
 
   const hash = (i, catSeed) => {
     const h = ((seed * 31 + i * 17) * 31 + catSeed * 13) >>> 0;
