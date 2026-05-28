@@ -631,6 +631,572 @@ footer {
 }
 
 /* ============================================
+   THEME SWITCHER
+============================================ */
+.theme-switcher {
+  position: relative;
+  font-family: 'Outfit', sans-serif;
+}
+
+.theme-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  cursor: pointer;
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text2);
+  transition: all 0.2s ease;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.theme-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--surface2);
+}
+
+.theme-btn-icon { font-size: 14px; line-height: 1; }
+.theme-btn-arrow { font-size: 9px; transition: transform 0.25s ease; line-height: 1; }
+.theme-switcher.open .theme-btn-arrow { transform: rotate(180deg); }
+
+.theme-menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 300;
+  min-width: 170px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  padding: 6px;
+  display: none;
+  animation: menuFadeIn 0.2s ease;
+}
+
+.theme-switcher.open .theme-menu {
+  display: block;
+}
+
+@keyframes menuFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.theme-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 14px;
+  background: none;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  color: var(--text);
+  text-align: left;
+  transition: all 0.15s ease;
+}
+
+.theme-option:hover {
+  background: var(--surface2);
+}
+
+.theme-option.active {
+  background: var(--accent);
+  color: white;
+  font-weight: 500;
+}
+
+.theme-option-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1.5px solid transparent;
+}
+
+.theme-option.active .theme-option-dot {
+  border-color: rgba(255,255,255,0.5);
+}
+
+.dot-default { background: linear-gradient(135deg, #c43a24, #f5f0e6); }
+.dot-sakura { background: linear-gradient(135deg, #e88d9f, #fce4ec); }
+.dot-gothic { background: linear-gradient(135deg, #c9a84c, #16213e); }
+.dot-chinese { background: linear-gradient(135deg, #c41e1e, #d4a017); }
+
+/* ============================================
+   THEME TRANSITIONS
+============================================ */
+html {
+  transition: background-color 0.45s ease, color 0.45s ease;
+}
+
+html *,
+html *::before,
+html *::after {
+  transition: background-color 0.35s ease,
+              color 0.35s ease,
+              border-color 0.35s ease,
+              box-shadow 0.35s ease;
+}
+
+/* ============================================
+   SAKURA THEME — 日本櫻花
+============================================ */
+html[data-theme="sakura"] {
+  --bg:        #fdf2f5;
+  --surface:   #fff8fa;
+  --surface2:  #fce4ec;
+  --border:    #f0b8c8;
+  --text:      #4a2c38;
+  --text2:     #b07f8e;
+  --accent:    #d4587a;
+  --accent-hover: #c14a6b;
+  --link:      #b04a6a;
+  --link-hover: #8a3854;
+  --green:     #7ba88a;
+  --teal:      #7a9aad;
+  --red:       #d4587a;
+  --gold:      #c9a07a;
+  --radius:    10px;
+}
+
+html[data-theme="sakura"] h1,
+html[data-theme="sakura"] .section-title,
+html[data-theme="sakura"] .news-title,
+html[data-theme="sakura"] .horoscope-sign {
+  font-family: 'Noto Serif JP', 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+}
+
+html[data-theme="sakura"] header {
+  border-image: linear-gradient(to right, transparent, var(--accent), #f0b8c8, var(--accent), transparent) 1;
+  border-bottom: 2px solid;
+}
+
+html[data-theme="sakura"] .section-divider::before {
+  background: linear-gradient(to right, transparent, var(--accent), #f0b8c8, var(--accent), transparent);
+}
+
+html[data-theme="sakura"] .divider-ornament {
+  color: var(--accent);
+}
+
+html[data-theme="sakura"] .news-card,
+html[data-theme="sakura"] .horoscope-card {
+  border-radius: 14px;
+  box-shadow: 0 2px 12px rgba(212, 88, 122, 0.08);
+}
+
+html[data-theme="sakura"] .horoscope-card:hover {
+  box-shadow: 0 6px 20px rgba(212, 88, 122, 0.15);
+}
+
+html[data-theme="sakura"] .section-nav-link.active {
+  background: rgba(212, 88, 122, 0.08);
+}
+
+html[data-theme="sakura"] .section-nav-link.active::after {
+  background: var(--accent);
+}
+
+html[data-theme="sakura"] .theme-option.active {
+  background: var(--accent);
+}
+
+html[data-theme="sakura"] .update-time,
+html[data-theme="sakura"] .horoscope-date {
+  color: var(--text2);
+}
+
+html[data-theme="sakura"] .masthead-suptitle {
+  color: var(--accent);
+}
+
+/* ============================================
+   GOTHIC THEME — 歐式哥特
+============================================ */
+html[data-theme="gothic"] {
+  --bg:        #0d0d1a;
+  --surface:   #141428;
+  --surface2:  #1c1c36;
+  --border:    #2a2a4a;
+  --text:      #e8e0d4;
+  --text2:     #8a7a9a;
+  --accent:    #c9a84c;
+  --accent-hover: #dbb95d;
+  --link:      #b8965a;
+  --link-hover: #d4aa6a;
+  --green:     #4a8a6a;
+  --teal:      #4a7a8a;
+  --red:       #8b1a1a;
+  --gold:      #c9a84c;
+  --radius:    4px;
+}
+
+html[data-theme="gothic"] body {
+  background: #0d0d1a;
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(201, 168, 76, 0.03) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(139, 26, 26, 0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(42, 42, 74, 0.06) 0%, transparent 50%);
+}
+
+html[data-theme="gothic"] h1,
+html[data-theme="gothic"] .section-title,
+html[data-theme="gothic"] .news-title,
+html[data-theme="gothic"] .horoscope-sign {
+  font-family: 'Cinzel', 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+html[data-theme="gothic"] h1 {
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+html[data-theme="gothic"] .masthead-suptitle {
+  letter-spacing: 4px;
+  color: var(--accent);
+}
+
+html[data-theme="gothic"] header {
+  border-bottom: 2px solid var(--accent);
+  background: #141428;
+  background-image:
+    linear-gradient(to bottom, rgba(201, 168, 76, 0.04), transparent 60%);
+}
+
+html[data-theme="gothic"] .section-nav {
+  background: #141428;
+}
+
+html[data-theme="gothic"] .section-nav.scrolled {
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.4);
+}
+
+html[data-theme="gothic"] .news-card {
+  background: #141428;
+  border-color: var(--border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="gothic"] .news-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 4px 16px rgba(201, 168, 76, 0.12), 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="gothic"] .horoscope-card {
+  background: #141428;
+  border-color: var(--border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="gothic"] .horoscope-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 4px 20px rgba(201, 168, 76, 0.12), 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="gothic"] .section-nav-link.active {
+  color: var(--accent);
+  background: rgba(201, 168, 76, 0.08);
+}
+
+html[data-theme="gothic"] .section-nav-link.active::after {
+  background: var(--accent);
+}
+
+html[data-theme="gothic"] .tab {
+  background: #141428;
+  color: var(--text2);
+  border-color: var(--border);
+}
+
+html[data-theme="gothic"] .tab:hover {
+  background: #1c1c36;
+  color: var(--text);
+}
+
+html[data-theme="gothic"] .tab.active {
+  background: var(--accent);
+  color: #0d0d1a;
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+html[data-theme="gothic"] .lucky-item {
+  background: #1c1c36;
+  color: var(--text2);
+}
+
+html[data-theme="gothic"] .lucky-item strong {
+  color: var(--accent);
+}
+
+html[data-theme="gothic"] .detail-label {
+  color: var(--accent);
+}
+
+html[data-theme="gothic"] .section-divider::before {
+  background: linear-gradient(to right, transparent, var(--accent), transparent);
+}
+
+html[data-theme="gothic"] .divider-ornament {
+  color: var(--accent);
+  background: #0d0d1a;
+}
+
+html[data-theme="gothic"] .horoscope-detail {
+  border-top-color: var(--border);
+}
+
+html[data-theme="gothic"] .scroll-jump {
+  background: #141428;
+  border-color: var(--border);
+  color: var(--text2);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+}
+
+html[data-theme="gothic"] .scroll-jump:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 4px 20px rgba(201, 168, 76, 0.15);
+}
+
+html[data-theme="gothic"] footer {
+  border-top-color: var(--border);
+  color: var(--text2);
+}
+
+html[data-theme="gothic"] .theme-menu {
+  background: #141428;
+  border-color: var(--border);
+}
+
+html[data-theme="gothic"] .theme-option:hover {
+  background: #1c1c36;
+}
+
+html[data-theme="gothic"] .theme-option.active {
+  background: var(--accent);
+  color: #0d0d1a;
+}
+
+html[data-theme="gothic"] .lang-badge {
+  background: var(--accent);
+  color: #0d0d1a;
+  font-weight: 600;
+}
+
+html[data-theme="gothic"] .news-source {
+  color: var(--accent);
+}
+
+html[data-theme="gothic"] .theme-btn {
+  background: #141428;
+  border-color: var(--border);
+  color: var(--text2);
+}
+
+html[data-theme="gothic"] .theme-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* ============================================
+   CHINESE THEME — 中國風
+============================================ */
+html[data-theme="chinese"] {
+  --bg:        #f5edd6;
+  --surface:   #faf3e3;
+  --surface2:  #ede0c0;
+  --border:    #c4a87a;
+  --text:      #3c2415;
+  --text2:     #8a7050;
+  --accent:    #b91c1c;
+  --accent-hover: #a01818;
+  --link:      #8a3030;
+  --link-hover: #6a2020;
+  --green:     #3a7a4a;
+  --teal:      #3a6a7a;
+  --red:       #b91c1c;
+  --gold:      #c9a03a;
+  --radius:    4px;
+}
+
+html[data-theme="chinese"] h1,
+html[data-theme="chinese"] .section-title,
+html[data-theme="chinese"] .news-title,
+html[data-theme="chinese"] .horoscope-sign {
+  font-family: 'Noto Serif SC', Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+}
+
+html[data-theme="chinese"] .masthead-suptitle {
+  font-family: 'Noto Sans SC', 'Outfit', sans-serif;
+  font-weight: 300;
+  letter-spacing: 4px;
+  color: var(--accent);
+}
+
+html[data-theme="chinese"] h1 {
+  letter-spacing: 2px;
+}
+
+html[data-theme="chinese"] header {
+  border-bottom: 3px double var(--accent);
+  position: relative;
+}
+
+html[data-theme="chinese"] header::after {
+  content: '•••';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 10px;
+  letter-spacing: 12px;
+  color: var(--accent);
+  opacity: 0.5;
+}
+
+html[data-theme="chinese"] .section-title {
+  border-bottom: 2px solid var(--accent);
+}
+
+html[data-theme="chinese"] .section-nav {
+  border-top: 1px solid var(--border);
+  margin-top: 18px;
+  padding-top: 14px;
+}
+
+html[data-theme="chinese"] .section-nav-link.active {
+  color: var(--accent);
+  background: rgba(185, 28, 28, 0.06);
+}
+
+html[data-theme="chinese"] .section-nav-link.active::after {
+  background: var(--accent);
+  height: 3px;
+}
+
+html[data-theme="chinese"] .news-card {
+  border-color: var(--border);
+  box-shadow: 0 1px 4px rgba(60, 36, 21, 0.06);
+  border-radius: 3px;
+}
+
+html[data-theme="chinese"] .news-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(185, 28, 28, 0.08);
+  transform: translateY(-2px);
+}
+
+html[data-theme="chinese"] .horoscope-card {
+  border-color: var(--border);
+  box-shadow: 0 1px 4px rgba(60, 36, 21, 0.06);
+  border-radius: 3px;
+}
+
+html[data-theme="chinese"] .horoscope-card:hover {
+  border-color: var(--gold);
+  box-shadow: 0 2px 10px rgba(201, 160, 58, 0.12);
+}
+
+html[data-theme="chinese"] .tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+html[data-theme="chinese"] .tab:hover:not(.active) {
+  background: var(--surface2);
+}
+
+html[data-theme="chinese"] .lucky-item {
+  background: var(--surface2);
+}
+
+html[data-theme="chinese"] .divider-ornament {
+  color: var(--accent);
+  font-size: 20px;
+}
+
+html[data-theme="chinese"] .section-divider::before {
+  background: linear-gradient(to right, transparent, var(--gold), var(--accent), var(--gold), transparent);
+}
+
+html[data-theme="chinese"] .horoscope-detail {
+  border-top-color: var(--border);
+}
+
+html[data-theme="chinese"] .detail-label {
+  color: var(--accent);
+}
+
+html[data-theme="chinese"] .theme-option.active {
+  background: var(--accent);
+}
+
+html[data-theme="chinese"] .theme-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+html[data-theme="chinese"] .theme-menu {
+  background: var(--surface);
+  border-color: var(--border);
+}
+
+/* ============================================
+   RESPONSIVE — THEME SWITCHER
+============================================ */
+@media (max-width: 720px) {
+  .theme-btn-label {
+    display: none;
+  }
+
+  .theme-btn {
+    padding: 6px 10px;
+    min-height: 36px;
+  }
+
+  .theme-menu {
+    right: -8px;
+    min-width: 155px;
+  }
+}
+
+@media (max-width: 540px) {
+  .theme-menu {
+    right: -4px;
+    min-width: 145px;
+  }
+
+  .theme-option {
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+}
+
+/* ============================================
    RESPONSIVE BREAKPOINTS
 ============================================ */
 

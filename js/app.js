@@ -301,9 +301,69 @@ function updateJumpButton(btn, label) {
 }
 
 // ============================================
+// THEME SWITCHER
+// ============================================
+function setupThemeSwitcher() {
+  const btn = document.getElementById('theme-btn');
+  const menu = document.getElementById('theme-menu');
+  const label = document.getElementById('theme-label');
+  const themeNames = {
+    default: '預設',
+    sakura: '櫻花',
+    gothic: '哥特',
+    chinese: '中國風'
+  };
+
+  // Load saved theme
+  const savedTheme = localStorage.getItem('ccnews-theme') || 'default';
+  applyTheme(savedTheme);
+
+  // Toggle menu
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    btn.parentElement.classList.toggle('open');
+  });
+
+  // Close menu on outside click
+  document.addEventListener('click', () => {
+    btn.parentElement.classList.remove('open');
+  });
+
+  // Theme selection
+  menu.querySelectorAll('.theme-option').forEach(opt => {
+    opt.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const theme = opt.dataset.theme;
+      applyTheme(theme);
+      localStorage.setItem('ccnews-theme', theme);
+      btn.parentElement.classList.remove('open');
+    });
+  });
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+
+  const label = document.getElementById('theme-label');
+  const themeNames = {
+    default: '預設',
+    sakura: '櫻花',
+    gothic: '哥特',
+    chinese: '中國風'
+  };
+  if (label) label.textContent = themeNames[theme] || '風格';
+
+  // Update active state in menu
+  document.querySelectorAll('.theme-option').forEach(opt => {
+    opt.classList.toggle('active', opt.dataset.theme === theme);
+  });
+}
+
+// ============================================
 // INITIALIZE
 // ============================================
 document.addEventListener('DOMContentLoaded', () => {
+  setupThemeSwitcher();
   setupSectionNav();
   loadData();
 });
