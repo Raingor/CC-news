@@ -165,10 +165,20 @@ function extractArticles(sourceName, category, lang, parsed) {
 // ============================================
 // HOROSCOPE FETCHING & GENERATION
 // ============================================
+/** 返回 Asia/Shanghai 时区的日期字符串 YYYY-MM-DD */
+function getCSTDateStr() {
+  const tzFmt = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric', month: '2-digit', day: '2-digit'
+  });
+  return tzFmt.format(new Date());
+}
+
 async function fetchAllHoroscopes() {
+  const dateStr = getCSTDateStr();
   const results = await Promise.allSettled(
     SIGN_API_KEYS.map(signKey => {
-      const url = `${HOROSCOPE_API_BASE}?sign=${signKey}&day=today`;
+      const url = `${HOROSCOPE_API_BASE}?sign=${signKey}&day=${dateStr}`;
       return fetch(url, {
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; CC-News-Hub/1.0; +https://github.com)' },
         signal: AbortSignal.timeout(10000),
@@ -327,13 +337,8 @@ const LUCKY_COLORS = ['紅色', '藍色', '綠色', '黃色', '紫色', '白色'
 const LUCKY_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 16, 18, 21, 23, 27];
 
 function generateHoroscope(apiTexts) {
-  // 使用北京时间 (Asia/Shanghai) 计算日期，确保每天 00:00 CST 就切换星座
-  const now = new Date();
-  const tzFmt = new Intl.DateTimeFormat('en-CA', {
-    timeZone: 'Asia/Shanghai',
-    year: 'numeric', month: '2-digit', day: '2-digit'
-  });
-  const dateStr = tzFmt.format(now); // "2026-05-27"
+  // 使用北京时间 (Asia/Shanghai) 计算日期
+  const dateStr = getCSTDateStr();
   const [y, m, d] = dateStr.split('-').map(Number);
   const seed = y * 10000 + m * 100 + d;
 
