@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-31",
+  "horoscopes": [
+    {
+      "sign": "白羊座",
+      "signEn": "Aries",
+      "emoji": "♈",
+      "overall": "On May 30th, you might feel a bit restless and eager to take on new challenges, Aries. This is a great day to tackle any pending tasks or projects that you've been putting off, as your energy and motivation are high. Just be sure to prioritize and focus on one thing at a time, so you can make real progress and avoid feeling overwhelmed. You might also receive some helpful advice or guidance from a friend or colleague, so be open to listening and learning. Overall, it's a productive day with plenty of opportunities to get things done and move forward.",
+      "luckyNumber": 3,
+      "luckyColor": "綠色",
+      "love": "你的衝動熱情特質在感情中特別有魅力，自然地做自己就好。",
+      "career": "團隊協作順暢，你的貢獻會被看到，適時主動溝通。",
+      "wealth": "你的衝動熱情特質在消費決策上幫助你保持理性。"
+    },
+    {
+      "sign": "金牛座",
+      "signEn": "Taurus",
+      "emoji": "♉",
+      "overall": "Today is a good day to focus on your finances, Taurus. Take some time to review your budget and see where you can make some adjustments to save some money. You might also consider tackling some tasks you've been putting off, like organizing your closet or cleaning out your garage. Getting these things done will help you feel more in control and prepared for the week ahead. By staying on top of your responsibilities, you'll be able to enjoy the rest of your weekend without any added stress.",
+      "luckyNumber": 13,
+      "luckyColor": "棕色",
+      "love": "伴侶之間的小爭吵不可怕，關鍵是如何修復與理解。",
+      "career": "今天適合與不同部門的同事交流，跨界合作能帶來新靈感。",
+      "wealth": "你的穩重務實讓你對金錢有獨到的看法，堅持自己的理財原則。"
+    },
+    {
+      "sign": "雙子座",
+      "signEn": "Gemini",
+      "emoji": "♊",
+      "overall": "On May 30th, you might feel like taking a break from your usual social routine, Gemini. It's a good day to focus on yourself and catch up on some solo activities or hobbies you've been putting off. You could also use this time to organize your space and get your belongings in order, which will help you feel more grounded and in control. If you have any errands or chores to run, try to tackle them early in the day when you have the most energy. By evening, you'll be ready to relax and unwind, so make sure to schedule some downtime for yourself.",
+      "luckyNumber": 4,
+      "luckyColor": "黃色",
+      "love": "單身者可能通過共同朋友認識不錯的對象，保持開放態度。",
+      "career": "今天可能出現新的工作機會或項目，仔細評估後再決定。",
+      "wealth": "可能有一筆款項到賬，合理分配比衝動消費更有意義。"
+    },
+    {
+      "sign": "巨蟹座",
+      "signEn": "Cancer",
+      "emoji": "♋",
+      "overall": "For Cancers, today is a good day to focus on your finances and make a budget for the upcoming month. Take some time to review your expenses and see where you can cut back on unnecessary spending. You may also receive some unexpected news or a surprise visit from a friend or family member, so be prepared for a potentially busy day. Try to stay organized and prioritize your tasks to make the most of your time. By being responsible and practical, you'll be able to tackle any challenges that come your way.",
+      "luckyNumber": 16,
+      "luckyColor": "米色",
+      "love": "今天感情運勢溫馨，適合與家人或伴侶共度時光。",
+      "career": "工作中保持靈活性，隨機應變是今天的關鍵能力。",
+      "wealth": "今天適合開源節流，在增加收入的同時控制不必要的開支。"
+    },
+    {
+      "sign": "獅子座",
+      "signEn": "Leo",
+      "emoji": "♌",
+      "overall": "For Leos, May 30th is a day to focus on your career and long-term goals. You might receive some recognition or praise from a supervisor or colleague, which could be a nice boost to your confidence. Take this opportunity to think about what you want to achieve in the next few months and make a plan to get there. Be prepared to put in some extra effort, but it will be worth it in the end. Overall, it's a good day to stay motivated and keep pushing forward.",
+      "luckyNumber": 5,
+      "luckyColor": "紫色",
+      "love": "感情中不要過度分析細節，信任是維繫關係的基石。",
+      "career": "與上級的溝通順暢，適合提出有建設性的建議。",
+      "wealth": "今天購物慾望較強，建議先列清單再出門。"
+    },
+    {
+      "sign": "處女座",
+      "signEn": "Virgo",
+      "emoji": "♍",
+      "overall": "For Virgo, May 30th is a day to focus on getting things done. You've got a lot on your plate, so make a list and prioritize your tasks to stay on track. Don't be afraid to ask for help if you need it, whether it's a coworker or a family member. You're in a productive groove, so keep pushing forward and you'll make some real progress. By the end of the day, you'll feel a sense of accomplishment and be ready to take on whatever comes next.",
+      "luckyNumber": 18,
+      "luckyColor": "米色",
+      "love": "不要讓工作壓力影響感情，回到家就好好放鬆。",
+      "career": "不要害怕向資深同事請教，虛心學習能讓你進步更快。",
+      "wealth": "日常節省的小錢累積起來就是大財富，堅持良好的消費習慣。"
+    },
+    {
+      "sign": "天秤座",
+      "signEn": "Libra",
+      "emoji": "♎",
+      "overall": "For Libra, May 30th is a day to focus on your finances and make some practical decisions about how you're managing your money. Take a close look at your budget and see where you can cut back on unnecessary expenses. You might also consider talking to a financial advisor or doing some research to find ways to save and invest for the future. This is a good time to get your financial house in order and make a plan for long-term stability. By being proactive and responsible, you can set yourself up for greater security and peace of mind.",
+      "luckyNumber": 6,
+      "luckyColor": "白色",
+      "love": "桃花運不錯，但你需要在熱情和理性之間找到平衡。",
+      "career": "今天適合學習新技能或參加培訓，投資自己永遠值得。",
+      "wealth": "投資方面保持觀望，不要被短期波動影響判斷。"
+    },
+    {
+      "sign": "天蠍座",
+      "signEn": "Scorpio",
+      "emoji": "♏",
+      "overall": "For Scorpios, May 30th looks like a busy day with a lot on your plate. You might have to juggle work and personal responsibilities, so prioritize your tasks and focus on the most important ones first. Don't be afraid to ask for help if you need it, and try to take breaks when you can to avoid burnout. In your free time, you might want to catch up with friends or family members you haven't seen in a while. Overall, it's a day to stay organized and take things one step at a time.",
+      "luckyNumber": 21,
+      "luckyColor": "青色",
+      "love": "今天適合回顧感情中的美好時刻，感恩讓愛更長久。",
+      "career": "完成一個里程碑後，給自己一些獎勵和休息時間。",
+      "wealth": "適合更新你的簡歷或技能，提升自己的市場價值也是理財。"
+    },
+    {
+      "sign": "射手座",
+      "signEn": "Sagittarius",
+      "emoji": "♐",
+      "overall": "On May 30th, you might feel a strong urge to take a break from your daily routine and plan a trip or a fun outing. This could be a great way to clear your mind and come back to your tasks with renewed energy. If you can't take time off, try to mix things up by trying a new hobby or taking a different route to work. Either way, a change of scenery can help you feel more inspired and motivated. Just make sure to check your budget before making any big plans, so you can stay on track financially.",
+      "luckyNumber": 7,
+      "luckyColor": "黑色",
+      "love": "單身者專注提升自己，對的人會在對的時機出現。",
+      "career": "你的專業能力今天特別受到肯定，保持謙虛繼續努力。",
+      "wealth": "今天有可能獲得額外收入，比如兼職或獎金。"
+    },
+    {
+      "sign": "摩羯座",
+      "signEn": "Capricorn",
+      "emoji": "♑",
+      "overall": "For Capricorn, May 30th is a day to focus on your finances and make smart decisions about how you're spending your money. Take some time to review your budget and see where you can cut back on unnecessary expenses. You might also consider talking to a financial advisor or doing some research on your own to find ways to save and invest for the future. This is a good day to think about your long-term goals and make a plan to achieve them. By being responsible and practical, you can set yourself up for stability and success.",
+      "luckyNumber": 23,
+      "luckyColor": "銀色",
+      "love": "單身者不要急於脫單，先享受一個人的生活也很好。",
+      "career": "工作節奏由你掌控，合理安排時間能事半功倍。",
+      "wealth": "財運平穩，做好本職工作就是最好的賺錢方式。"
+    },
+    {
+      "sign": "水瓶座",
+      "signEn": "Aquarius",
+      "emoji": "♒",
+      "overall": "For Aquarius, May 30th is a day to focus on your finances and make some practical decisions. Take a close look at your budget and see where you can cut back on unnecessary expenses. You might also consider talking to a financial advisor or doing some research to find ways to save money or invest wisely. This is a good time to think about your long-term financial goals and make a plan to achieve them. By being responsible and proactive, you can set yourself up for stability and security in the months to come.",
+      "luckyNumber": 7,
+      "luckyColor": "金色",
+      "love": "感情穩定發展，偶爾的浪漫舉動能讓關係更加甜蜜。",
+      "career": "同事之間的合作氣氛良好，團隊凝聚力是今日的亮點。",
+      "wealth": "財運穩步上升，之前的投入開始顯現回報。"
+    },
+    {
+      "sign": "雙魚座",
+      "signEn": "Pisces",
+      "emoji": "♓",
+      "overall": "For Pisces, May 30th is a day to focus on your finances and make some practical decisions about your budget. Take a close look at your spending habits and see where you can cut back on unnecessary expenses. You might also want to think about starting a savings plan or paying off any debts you've been putting off. At work, you may be asked to take on some new responsibilities, so be prepared to step up and show what you can do. Overall, it's a good day to get organized and set yourself up for long-term financial stability.",
+      "luckyNumber": 27,
+      "luckyColor": "珊瑚色",
+      "love": "你的浪漫直覺讓你在感情中獨具魅力，自信就是最好的吸引力。",
+      "career": "與客戶或合作夥伴的溝通順暢，良好的關係是成功的基礎。",
+      "wealth": "適合與理財顧問或經驗豐富的朋友交流，聽取建議。"
+    }
+  ]
+}
