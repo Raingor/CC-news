@@ -1,144 +1,918 @@
 {
-  "lastUpdated": "2026-05-26T02:50:45.944Z",
-  "totalArticles": 133,
+  "lastUpdated": "2026-06-03T05:39:02.889Z",
+  "totalArticles": 113,
   "sources": [
     "Guardian 國際",
-    "CNN 國際",
+    "CNBC 國際",
     "BBC 中文"
   ],
   "errors": [],
   "articles": [
     {
-      "title": "Australia politics live: Alex Antic cites ‘dream team’ of Abbott, Canavan and Taylor as inspiration for bid to lead SA Liberals",
-      "link": "https://www.theguardian.com/australia-news/live/2026/may/26/australia-politics-live-renewables-climate-bhp-files-budget-capital-gains-tax-jim-chalmers-anthony-albanese-question-time-senate-estimates-ntwnfb",
-      "description": "State tilt would seemingly end speculation South Australian senator could defect to One Nation. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘This is very good value for money for Australia’: Bowen defends COP role Chris Bowen , who has also taken on the role of president of negotiations at the Cop climate summit, says that Australia’s involvement is “very good value for money”. Mr T [is] out there saying it’s $200m. He’s lying. Secondly, these things do cost money. It cost money when John Howard chaired Apec. It cost money when Tony Abbott chaired G20. They were good for the country and the Labor party supported them because we’re a patriotic party. So this is an opportunity for Australia to play an outsized role in the climate negotiations. This is a 12-month presidency. Most of the money has not yet been spent to answer your question, Mel. This is very good value for money for Australia. More renewable energy in the grid; Renewable batteries absorbing some of the coal and gas being used at peak times during the night; Reforming the default market offer to ensure “that only the absolutely necessary prices or costs are included.” What we’re seeing is batteries working to what we call flatten the peak. So the biggest pressure on prices is in the night-time when coal and gas are called upon more. When we’re calling on batteries more, which saves the renewables from the middle of the day for the night, that is really putting very significant downward pressure on prices. There have been impacts on gas production but we’re really mainly seeing the impact on oil at the moment. But we’re not complacent. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 02:24:58 GMT",
+      "title": "Oil climbs as U.S., Iran trade strikes while Trump says negotiations with Tehran underway",
+      "link": "https://www.cnbc.com/2026/06/03/oil-prices-trump-pushes-back-on-reports-us-iran-talks-collapsed.html",
+      "description": "U.S. Central Command said Tuesday that it had defeated multiple Iranian ballistic missiles following \"attempted attacks\" by Iran.",
+      "pubDate": "Wed, 03 Jun 2026 05:33:04 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
+      "link": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
+      "description": "All the latest results and updates as New Jersey, South Dakota, New Mexico and Montana also vote in primaries California elections: governor, LA mayor and Congress at stake Iowa: Democrat Josh Turek to face Trump-backed Ashley Hinson in bid to flip red Senate seat Sign up for the Breaking News US email Voters in Maine won’t head to the polls until next week, but the state’s primary election has been shaken up by recent news about Senate hopeful Graham Platner. According to information his wife shared with his campaign last year, Platner exchanged sexually explicit texts with other women during his marriage, the New York Times and the Wall Street Journal reported, and which the Guardian has confirmed. Graham Platner met on Tuesday with Democratic leaders in Washington DC as the embattled Maine Senate candidate contends with yet another revelation threatening his campaign, which is at the center of his party’s hopes of regaining control of Congress. Platner did not respond to questions from reporters and quickly entered a waiting car as he exited the meeting, which stretched for more than an hour and a half at the headquarters of the Democratic Senatorial Campaign Committee (DSCC). A spokesperson for the DSCC did not respond to a request for comment. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 05:29:13 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Sonny Rollins, colossus of jazz saxophone, dies aged 95",
-      "link": "https://www.theguardian.com/music/2026/may/26/sonny-rollins-jazz-saxophone-dies-aged-95",
-      "description": "One of the last stars of the bebop generation, Rollins was an genius of melodic invention and improvisation, working with Davis, Monk, Coltrane and others Sonny Rollins, one of the greatest jazz saxophonists of all time, has died aged 95. His death was announced on his website on Monday, “with deep sorrow and profound love”. His publicist Terri Hinte also confirmed the news. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 02:01:53 GMT",
+      "title": "George Santos reportedly investigated by DoJ over suspicious Kalshi bets",
+      "link": "https://www.theguardian.com/us-news/2026/jun/03/george-santos-investigation-prediction-market-kalshi-report",
+      "description": "Disgraced former congressman said to have put bet on whether he would be at Trump’s State of the Union speech Federal authorities are investigating whether George Santos , the disgraced former Republican congressman from New York, engaged in insider trading by betting on a prediction market on his own attendance to the State of the Union address, multiple news outlets reported on Tuesday. Santos allegedly placed a bet on Kalshi, a popular online prediction market, over whether he would be in attendance at Trump’s State of the Union address in February, according to NPR, which first reported on the investigation citing anonymous sources. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 05:28:51 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Middle East crisis live: US launches ‘self-defence strikes’ on southern Iran as efforts to reach a peace deal continue",
-      "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-      "description": "US official says Iranian boats seen laying mines in strait of Hormuz, while Iran state media says situation ‘under control’ after blasts reported in Bandar Abbas Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah Ebrahim Rezaei, the spokesperson of the Iranian parliament’s national security and foreign policy commission, has said that time is working against the US and warned that Iran does not respond well to threats. In a post on X , he wrote: During the military war, our tactic was an eye for an eye; in the diplomatic war, it is action against action. Do not believe the bluff of the failed president; time is against the Americans. If they want an agreement, they should negotiate; if they want $6 gas, they should stand firm and bluff until the grass grows under their feet. Iran does not bow to force or threats. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 02:00:54 GMT",
+      "title": "Australia politics live: PM calls Coalition ‘Liberal One National party’ and Taylor ‘Temu-Abbott’ as Hastie booted from question time",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
+      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Chaney said: AI companies should be able to unlock the majority of global content with a handful of individual deals – in the same way that every other industry licenses copyrighted content. Government could further work to facilitate this process for the remainder of the copyrighted content, either directly or through a centralised mechanism. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 05:28:45 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Vivid Sydney cancels shows after 89 drones plunge into Darling Harbour",
-      "link": "https://www.theguardian.com/australia-news/2026/may/26/vivid-drone-show-cancelled-sydney-2026-darling-harbour",
-      "description": "Event organisers blame ‘unforeseen technical difficulties’ for the drone malfunction, with four performances cancelled Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast About 90 drones have plummeted from the sky and plunged into Sydney’s Darling Harbour during an aerial drone show , prompting a second event to be cancelled later in the evening. Vivid Sydney said “unforeseen technical difficulties” occurred during Monday’s 7.30pm performance of the show, called Star-Bound , resulting in 89 drones falling into the water at Cockle Bay in Darling Harbour. No injuries have been reported. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 00:57:51 GMT",
+      "title": "Like Indonesia, India's central bank may hike rates to defend its currency",
+      "link": "https://www.cnbc.com/2026/06/03/-like-indonesia-indias-central-bank-may-hike-rates-to-defend-its-currency.html",
+      "description": "A falling currency and rising risk of higher inflation could prompt India's central bank to hike interest rates.",
+      "pubDate": "Wed, 03 Jun 2026 05:24:08 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Bitcoin hits lowest since February as crypto competes for liquidity with blockbuster IPOs",
+      "link": "https://www.cnbc.com/2026/06/03/bitcoin-crypto-ipos-market.html",
+      "description": "Bitcoin continues to decline as stocks hit record highs, with investors also eyeing big IPOs.",
+      "pubDate": "Wed, 03 Jun 2026 05:08:51 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Thousands more UK black men to be invited for prostate cancer screening",
+      "link": "https://www.theguardian.com/society/2026/jun/03/thousands-more-uk-black-men-to-be-invited-for-prostate-cancer-screening",
+      "description": "Health secretary announces expansion of Transform trial but does not back population-wide testing Thousands more black men will be invited to take part in a prostate cancer screening trial as the health secretary insisted he was “following the science” in not backing population-wide testing. James Murray accepted a recommendation from the UK national screening committee (UKNSC) that will result in only a few thousand high-risk men with a gene mutation being screened for the disease. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 05:00:43 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Chris Bowen says he has made it ‘crystal clear’ to BHP and other big polluters they must cut emissions onsite",
-      "link": "https://www.theguardian.com/world/2026/may/26/bhp-files-australian-government-emissions",
-      "description": "Mining giant’s backsliding on climate commitments due to ‘weakness’ of policy, Kate Chaney says Adam Morton: Big Mining gets a $4bn tax break to use fossil fuel. It’s a strange way to tackle emissions Read more from the BHP files investigation here Get our breaking news email , free app or daily news podcast Australia’s climate change minister, Chris Bowen, says he has made it “crystal clear” that he expects industrial polluters including BHP to reduce their onsite emissions after leaked documents revealed that the world’s biggest miner has backtracked on climate action . An exclusive investigation based on documents leaked to by the Guardian and the ABC show BHP has scrapped a project to significantly reduce global emissions , delayed vast renewables projects in the Pilbara and war-gamed options to push the electrification of its polluting diesel truck and train fleets into the next two decades. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 00:48:43 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Power bills to fall by up to 10% from July as renewables and batteries soar across Australia",
-      "link": "https://www.theguardian.com/australia-news/2026/may/26/power-bills-drop-fall-australia-energy-default-market-offer",
-      "description": "Australia now a top-three global player in batteries, and renewable energy met nearly half of the nation’s power in 2025 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Energy bills for households and small businesses will fall by up to 10% from July across parts of the eastern states, as a new industry survey shows record levels of renewables and batteries in the power grid. Households in New South Wales and south-east Queensland on standing electricity plans – known as the “default market offer” – can expect prices to fall between 3.4% and 10.7% compared to last year, according to the Australian Energy Regulator’s final offer for 2026-27. Some could save up to $155 per year. While, South Australian households on a flat rate could expect an increase of 1.4%. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 00:16:42 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "人在死後會被記住什麼？現在思考你的遺產可能對你有益",
-      "link": "https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "研究顯示，思考我們在死後會留下什麼樣的遺產，有助於改善心理健康，並讓我們在生命中找到更多意義——即使我們仍然年輕。",
-      "pubDate": "Tue, 26 May 2026 00:14:25 GMT",
+      "title": "分析：普京在烏克蘭問題上依然毫不妥協，但俄羅斯民眾對戰爭的看法是否正在改變？",
+      "link": "https://www.bbc.com/zhongwen/articles/c98r7yqvv8no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "俄羅斯正在加強對烏克蘭的攻擊力度，但四年多的戰爭甚至讓普京的忠實擁護者也感到擔憂。",
+      "pubDate": "Wed, 03 Jun 2026 04:31:55 GMT",
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
     },
     {
-      "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
-      "link": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
-      "description": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to stay in Mexico during the World Cup , adding that the US did not want to host the team. The team will still play its group stage matches in the US but its base has been moved to Tijuana, Mexico, just south of San Diego, California, a move that Iran’s football federation announced recently and that was formally confirmed by Fifa, the sport’s governing body, on Monday. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 00:02:46 GMT",
+      "title": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
+      "description": "BoM and other agencies expect transition to the first El Niño since spring 2023 sometime during winter Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia should prepare for an imminent El Niño, with the Bureau of Meteorology and other agencies forecasting that the weather phenomenon is likely to develop in the coming months. “The models are really aligning now,” Felicity Gamble, a senior BoM climatologist, said. “We are expecting a transition to El Niño sometime during winter.” Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 04:29:00 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah",
-      "link": "https://www.theguardian.com/world/2026/may/26/israel-escalates-strikes-in-lebanon-as-netanyahu-vows-to-crush-hezbollah",
-      "description": "Hezbollah and Israel launch attacks amid increasingly imperilled ceasefire and stalling talks between US and Iran Middle East crisis: live updates The Israeli army has intensified strikes in southern Lebanon, as prime minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in an effort to “crush” Hezbollah in a further erosion of an already fragmented ceasefire. In turn, Hezbollah said it staged several attacks on Monday on three barracks and a military post in northern Israel “in response to the violation of the ceasefire” by Israel. Continue reading...",
-      "pubDate": "Tue, 26 May 2026 00:01:52 GMT",
+      "title": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+      "link": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html",
+      "description": "USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
+      "pubDate": "Wed, 03 Jun 2026 04:23:58 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "link": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "description": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
+      "pubDate": "Wed, 03 Jun 2026 04:08:28 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall",
+      "link": "https://www.cnbc.com/2026/06/03/us-iran-war-escalates-peace-talks-stalemate-.html",
+      "description": "The regional conflict has hardened into a stalemate as the U.S. and Iran failed to turn a fragile ceasefire into a lasting peace deal.",
+      "pubDate": "Wed, 03 Jun 2026 04:02:16 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Japan's Nikkei hits record high as Asia markets rise amid Middle East concerns",
+      "link": "https://www.cnbc.com/2026/06/03/asia-markets-today-nikkei-kospi-hang-seng-sensex-iran-oil.html",
+      "description": "Asia-Pacific markets opened higher even amid concerns over volatile oil prices with the Strait of Hormuz remaining closed.",
+      "pubDate": "Wed, 03 Jun 2026 03:50:13 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Australia's first-quarter economic growth misses estimates on severe weather, weak demand",
+      "link": "https://www.cnbc.com/2026/06/03/australia-gdp-q1-economic-growth-weather-weak-demand-middle-east-war-energy-costs.html",
+      "description": "The country's GDP expanded 2.5% in the first three months this year, compared to a year earlier, missing economists' expectations for a 2.6% growth.",
+      "pubDate": "Wed, 03 Jun 2026 03:47:56 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump-backed candidate loses in Iowa governor’s race as Democrats look to flip Senate seat",
+      "link": "https://www.theguardian.com/us-news/2026/jun/02/iowa-primary-election-results",
+      "description": "Establishment Democrat beats Zach Wahls in primary as party eyes success in Republican-dominated state Sign up for the Breaking News US newsletter email Iowa voters cast their ballots in Tuesday’s heated primaries, setting up for months of fervent campaigning ahead of the November midterms in contests that could determine the balance of power in Congress. A red state that the GOP has dominated for the past decade, Democrats believe they can be competitive in three of its four House races, its Senate election, and the contest to replace Kim Reynolds, the retiring Republican governor. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 03:12:26 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Iran denies deal with US is imminent despite some progress",
-      "link": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
-      "description": "Tehran says ‘contradictory statements’ from US and Israeli interference hindering negotiations Middle East crisis – live updates Iran has poured cold water on suggestions that a deal with the US is imminent, pointing to the confusion in US positions and Israeli interference as key factors in why a complete agreement is proving difficult to secure. Speaking at the weekly foreign ministry press briefing, Esmail Baghaei, the spokesperson for Iran’s negotiating team, also said future management of the strait of Hormuz was a matter for Oman and Iran to reach agreement on, and that it was not tolls that were being proposed but “fees for navigational services”. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 23:26:26 GMT",
+      "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to ‘cut corners’",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
+      "description": "Sydney Morning Herald removes piece by Cath Ellis, despite Western Sydney University saying her use of AI was ‘appropriate’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A top Sydney academic used AI to write an opinion piece that urged students to “do the work” and not cut corners by using such technology, with the Sydney Morning Herald removing the “unacceptable” piece from its website. Western Sydney University’s pro vice-chancellor for quality and integrity, Prof Cath Ellis, had an opinion piece published in the Sydney Morning Herald last month, in response to an article from the academic Kylie Moore-Gilbert . Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 03:06:28 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "‘A tsunami of harm’: views on tackling online safety for under-16s in the UK",
-      "link": "https://www.theguardian.com/uk-news/2026/may/26/views-on-tackling-online-safety-under-16s-social-media-consultation",
-      "description": "Campaigners, teenagers, legislators and experts give their opinions on the government’s social media consultation Change is coming for social media platforms. The UK government’s consultation on improving online safety for children will result in some form of action being taken against big tech. Even before the deadline for submissions has passed, ministers have pledged to introduce an Australia-style social media ban for under-16s or restrictions on “addictive” features such as infinite scrolling. There is overwhelming pressure from safety campaigners and MPs for a further crackdown on social media platforms, despite the introduction of the Online Safety Act, which requires tech firms to shield children from harmful content. The deadline for contributions is Tuesday night and the government has promised to act swiftly. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 23:01:38 GMT",
+      "title": "‘Jilly, I had no choice’: Jill Biden recalls pressure Joe Biden faced to drop out of 2024 race",
+      "link": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir",
+      "description": "Former first lady speaks about Biden’s decision to withdraw from the 2024 presidential race at event for her new memoir Jill Biden recalled the immense pressure that Joe Biden faced in the aftermath of his disastrous 2024 debate performance, saying he told her “Jilly, I had no choice,” following his decision to drop out of the presidential race. The former first lady made the comments during a Tuesday book event coinciding with the release of her new memoir, View from the East Wing. The event was held at the 92nd Street Y in New York City, and moderated by comedian and co-host of The View, Whoopi Goldberg. Former president Biden was in attendance at the event and received two standing ovations from the crowd. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 02:43:59 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Explosion threat at southern California chemical tank eliminated, firefighters say",
-      "link": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
-      "description": "US officials credit overnight cooling and monitoring for stabilising tank after leak fears triggered mass evacuation Firefighters contending with an overheating tank of hazardous chemicals in southern California said they had eliminated the threat of the tank exploding in an overnight operation, Orange county fire officials said on Monday. The damaged chemical tank in southern California had cracked over the weekend, which authorities were hopeful would relieve pressure and reduce the risk of an explosion. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 22:46:05 GMT",
+      "title": "China is making it harder for mom and pop to access U.S. stocks. Here's who will benefit",
+      "link": "https://www.cnbc.com/2026/06/03/china-is-limiting-retail-access-to-us-stocks-heres-what-it-means.html",
+      "description": "Chinese regulators recently tightened scrutiny on offshore brokerages including Futu and Tiger Brokers.",
+      "pubDate": "Wed, 03 Jun 2026 02:17:55 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Supreme court approves Alabama map that erases majority-Black district",
+      "link": "https://www.theguardian.com/us-news/2026/jun/02/supreme-court-alabama-map",
+      "description": "Court decision that represents win for Republicans comes after lengthy battle over state’s congressional map Sign up for the Breaking News US newsletter email Alabama can use a redrawn congressional map that eliminates one of the state’s two majority-Black districts in this year’s midterm elections, the US supreme court ruled in a 6-3 decision on Tuesday, another major blow to Black voters and a win for Republicans. The court’s emergency ruling is the most consequential decision it had issued since its landmark ruling in late April that struck down a critical provision of the Voting Rights Act. In that case, Louisiana v Callais , the court’s majority made it nearly impossible to win Voting Rights Act claims, saying that plaintiffs had to prove intentional discrimination. But on 26 May, a three-judge panel said the map Alabama wants to use for this year’s midterm was enacted with discriminatory intent . Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 02:07:15 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Record May highs sweep across France as extreme heat hits western Europe",
-      "link": "https://www.theguardian.com/world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
-      "description": "Mercury in Spain also climbs to well above normal with weather event set to continue for several more days More than 350 French towns have recorded their highest-ever temperatures for May as France and the UK set national heat records amid an extreme early-summer heat event that could see the mercury rise to 40C in parts of Spain by the end of the week. The UK’s Met Office said the country’s all-time record for May was broken when a temperature of 34.8C was recorded at London’s Kew Gardens. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 22:06:09 GMT",
+      "title": "CNBC Daily Open: Nvidia stars at Computex as markets hit records",
+      "link": "https://www.cnbc.com/2026/06/03/cnbc-daily-open-nvidia-computex-market-record.html",
+      "description": "AI momentum drove Wall Street to fresh records, even as conflicting U.S.-Iran signals and new tariff threats on Brazil kept geopolitical tensions in focus.",
+      "pubDate": "Wed, 03 Jun 2026 01:54:29 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "US and Iran launch fresh strikes amid stalled ceasefire talks",
+      "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
+      "description": "US military says it struck tanker and sites on Iran’s Qeshm Island and defended Kuwait and Bahrain from missile attacks The US and Iran have exchanged fresh missiles and drone strikes, further jeopardising efforts by Washington to secure a new ceasefire agreement with Tehran. US forces fired a Hellfire missile to disable a tanker attempting to break through the American blockade of the strait of Hormuz on Tuesday, and later said they repelled Iranian reprisal attacks in the region and attacked sites on Iran’s Qeshm Island. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 01:34:06 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
-      "link": "https://www.theguardian.com/money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
-      "description": "Head of Early Years Alliance says additional charges paid by parents represent ‘cross-subsidy’ Parents of nursery children in England are being charged extra fees to cover for government underfunding of free childcare hours, with some paying thousands of pounds a year for consumables such as food, wipes and nappies, campaigners have said. The comments came as the education secretary, Bridget Phillipson, asked the competition watchdog to investigate hidden extra charges that parents have encountered when trying to access government-funded childcare. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 21:30:36 GMT",
+      "title": "Korea’s stock market has doubled in 2026, and Goldman still sees another 35% upside",
+      "link": "https://www.cnbc.com/2026/06/03/the-kospi-is-up-100percent-in-2026-goldman-sachs-still-see-more-upside.html",
+      "description": "South Korea's stock market has already doubled this year, but some strategists say the rally may still have room to run.",
+      "pubDate": "Wed, 03 Jun 2026 01:07:39 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Barnaby Joyce rallies anti-abortion activists ahead of tight NSW vote",
+      "link": "https://www.theguardian.com/world/2026/jun/02/barnaby-joyce-rallies-anti-abortion-activists-as-they-target-nationals-mps-in-nsw-vote-ntwnfb",
+      "description": "Sydney crowd told to target National MPs as upper house prepares to vote on a bill outlawing sex-selective terminations Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One Nation’s Barnaby Joyce has joined pro-life campaigners to pile pressure on Nationals MPs to vote to criminalise some abortions ahead of a tight vote in New South Wales. Anti-abortion activists have threatened to campaign for One Nation against major parties to force new limits on terminating pregnancies on the back of its polling surge. Continue reading...",
+      "pubDate": "Wed, 03 Jun 2026 00:50:57 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
     },
     {
-      "title": "‘Like tobacco’: Wes Streeting calls for partial social media ban for under-16s",
-      "link": "https://www.theguardian.com/uk-news/2026/may/25/social-media-should-be-treated-like-tobacco-streeting-calls-for-under-16s-ban-on-certain-platforms",
-      "description": "Exclusive: Former health secretary’s intervention comes as government closes consultation on age limits for platforms Social media companies should be treated like the tobacco industry, Wes Streeting has argued, as he called for a ban on under-16s accessing certain platforms. Speaking publicly about the prospect of a ban for the first time since he left government, the former health secretary said one was needed because large technology companies were trying to dodge regulations. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 20:59:01 GMT",
+      "title": "沉迷白日夢的人  生活在兩個平行世界裡",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy29wdyxq6o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在所有症狀中，不良適應性白日夢是一種尚未被正式認可的臨床狀況，患者常因孤獨、創傷或情緒需求未被滿足而沉迷於幻想，導致生活受到干擾。",
+      "pubDate": "Wed, 03 Jun 2026 00:23:47 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says",
+      "link": "https://www.cnbc.com/2026/06/02/iran-war-strait-hormuz-marco-rubio-mine.html",
+      "description": "Rubio called Iran's actions illegal in testimony to the Senate Foreign Relations Committee.",
+      "pubDate": "Tue, 02 Jun 2026 23:13:39 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
+      "link": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
+      "description": "Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit features Puffins, dolphins and bumblebees are among the wildlife that could feature on new banknotes in the UK as the Bank of England announces its shortlist. There has been controversy over the decision, with figures including Nigel Farage criticising the Bank for, he claimed, wanting to replace Winston Churchill with a beaver. The Conservative leader, Kemi Badenoch, said it was “a silly thing to do”, and Reform UK’s Farage called it “absolutely crackers”. In the end, no beaver appeared on the shortlist. Mammal options include bottlenose dolphins and red foxes. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 23:01:35 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
+      "link": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps",
+      "description": "NHS bosses giving evidence to public accounts committee admit current position is unacceptable GPs in England are so “overloaded” that they cannot help older people who are at risk of falling in what NHS bosses accept is an unacceptable failure of care, the House of Commons’ public accounts committee has said. Pressure on GPs’ time has intensified as a result of the government’s decision to give patients online access to their services, according to a report by the influential cross-party group of MPs. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 23:01:35 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Weight-loss drugs may prevent thousands of knee replacements, study suggests",
+      "link": "https://www.theguardian.com/society/2026/jun/02/weight-loss-drugs-could-help-prevent-knee-replacements",
+      "description": "Patients with knee arthritis who took medications for at least three years at reduced risk of needing surgery Taking weight-loss drugs for at least three years could prevent thousands of knee replacements a year, research suggests. Globally, more than 500 million people have osteoarthritis. Knee arthritis is the most common form, affecting about 14 million people in the US and more than 5 million in the UK . Many will require knee surgery. In the UK more than 120,000 knee replacements are carried out every year. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 22:30:34 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency",
+      "link": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+      "description": "The beat comes on lowered expectations, after the company gave disappointing guidance in February that fell short of analyst estimates.",
+      "pubDate": "Tue, 02 Jun 2026 21:53:59 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
+      "link": "https://www.cnbc.com/2026/06/02/the-cftc-has-sparked-a-potential-revolution-on-wall-street-exchange-stocks-are-dropping.html",
+      "description": "Investors are worried about increased competition for the traditional exchanges that have long dominated on Wall Street.",
+      "pubDate": "Tue, 02 Jun 2026 21:29:50 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Protesters clash with police in Southampton over Henry Nowak murder",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/02/protesters-clash-with-police-in-southampton-over-henry-nowak",
+      "description": "Demonstration follows family’s plea for death not to be used to create division Hundreds of people gathered outside a Southampton police station to protest against the murder of Henry Nowak and dozens clashed with police close to the home of his killer, Vickrum Digwa. The far-right activist Tommy Robinson was among speakers who addressed the crowd outside Southampton central police station at the “Justice for Henry Nowak” protest. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 21:03:23 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company",
+      "link": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+      "description": "Marvell Technology posted its best day ever after Nvidia CEO Jensen Huang made the \"trillion-dollar\" prediction.",
+      "pubDate": "Tue, 02 Jun 2026 20:59:27 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
+      "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+      "description": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
+      "pubDate": "Tue, 02 Jun 2026 19:06:48 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump administration proposes 25% tariffs on Brazil despite US trade surplus",
+      "link": "https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs",
+      "description": "US claims world’s 10th-biggest economy engages in ‘unreasonable’ trade practices that ‘restrict US commerce’ Sign up for the Breaking News US newsletter email The Trump administration proposed 25% tariffs on imports from Brazil , charging that the world’s 10th-biggest economy engages in trade practices that are “unreasonable’’ and that “burden or restrict US commerce”. Luiz Inácio Lula da Silva said he received the decision “with indignation”. The Brazil president also blamed the decision by the US administration on his rival in October’s elections, Flávio Bolsonaro , the senator who visited Washington last week. The senator is the son of former president Jair Bolsonaro, once nicknamed “the Trump of the Tropics” by his allies. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:56:55 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump, Rubio say talks with Tehran ongoing despite Iranian media claims otherwise",
+      "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
+      "description": "President Trump on Monday told CNBC that \"I really don't care. I couldn't care less\" when asked about the prospect of Iran ending talks with the U.S.",
+      "pubDate": "Tue, 02 Jun 2026 18:45:55 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Democrats who marched in New York’s Israel Day parade decry attendance of far-right minister Smotrich",
+      "link": "https://www.theguardian.com/us-news/2026/jun/02/new-york-israel-day-parade-democrats-smotrich",
+      "description": "Politicians’ statements reflect difficulty facing pro-Israel Democrats as voter support for country falls Several prominent New York Democrats who participated in the city’s annual Israel Day parade on Sunday have condemned the participation of Bezalel Smotrich, the far-right Israeli finance minister and a leading figure in the Israeli settler movement, in the event. Smotrich was among several Israeli lawmakers and cabinet officials who marched in the parade on Sunday. His appearance marked his first trip to the US in more than a year , and came less than month after he said the international criminal court (ICC) was seeking an arrest warrant against him. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:44:32 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
+      "link": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
+      "description": "Prime minister under pressure to show his campaigns against Hamas, Hezbollah and Iran have brought results as he faces elections with his political survival at risk If there is to be a peace deal between the United States and Iran, it will have to go through a familiar obstacle: Benjamin Netanyahu. Israel’s military operations in Lebanon have become a sticking point in the talks for a potential opening of the strait of Hormuz – once again testing the volatile alliance between Donald Trump and Netanyahu . This time, the Israeli prime minister is under exceptional pressure to show that his campaigns against Hamas, Hezbollah and Iran have brought results as he faces elections with his political survival at risk. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:15:47 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "description": "People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly criticised the plan, saying they fear it will expose them to the virus and that it is indicative of double standards on the part of the US. “Everybody should be quarantined in their home country. We shouldn’t allow foreigners to bring us diseases,” said Charles Mathenge, a taxi driver who lives near Laikipia Air Base, the proposed site in Nanyuki, 120 miles from the capital, Nairobi. “Kenya is our country, and we should be careful with it.” Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:13:20 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire",
+      "link": "https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire",
+      "description": "Warplanes carry out dozens of airstrikes and Israeli army issues evacuation warning for city of Nabatiyeh Israeli warplanes have launched dozens of strikes across southern Lebanon despite a new agreement supposedly brokered by Donald Trump aiming to bolster the tattered ceasefire in Lebanon. The US president said on Monday that he had stopped an imminent Israeli strike on Beirut and that he had spoken to Israel’s prime minister, Benjamin Netanyahu, and representatives of Hezbollah and both agreed that “all shooting will stop”. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:11:34 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Cricket Canada suspended over allegations of gang-linked corruption",
+      "link": "https://www.theguardian.com/world/2026/jun/02/cricket-canada-suspension",
+      "description": "ICC’s decision comes amid growing concerns the team is being influenced by members of a notorious gang in India Cricket’s international governing body has suspended Canada over what it described as “serious breaches of its membership obligations”, dealing the latest blow to an organization that critics say has become a “laughing stock” within the sport. The suspension also comes amid growing concerns that one of Canada’s fastest-growing sports is being influenced by members of a notorious gang that operates with impunity from an Indian prison cell . Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 18:10:07 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Middle East crisis: Rubio says opening the strait of Hormuz is first condition in talks with Iran – as it happened",
+      "link": "https://www.theguardian.com/world/live/2026/jun/02/iran-us-israel-lebanon-trump-netanyahu-hezbollah-beirut-hormuz-talks-oil-latest-news-updates",
+      "description": "The US secretary of state added that Iran must also commit to specific negotiations on the disposition of highly-engaged uranium. Israel’s weapons exports has reached an all-time high for a fifth year running, according to the country’s defence ministry. In a statement, it said: “Israel’s all-time defence export record has been broken for the fifth consecutive year, with $19.2bn in 2025 – a nearly 30% surge compared to the previous year, more than doubling in five years and quadrupling in a decade.” Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 16:48:49 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Biotech takeover target Abivax sinks over 43% as cancer cases cloud trial data for bowel disease drug",
+      "link": "https://www.cnbc.com/2026/06/02/abivax-stock-bowel-crohns-disease-trial-data.html",
+      "description": "A clinical trial update wiped out billions in the French company's market cap and raised questions over a potential takeover.",
+      "pubDate": "Tue, 02 Jun 2026 16:09:24 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries",
+      "link": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html",
+      "description": "Anthropic initially released Project Glasswing to about 50 partners in April to test the model for cybersecurity flaws.",
+      "pubDate": "Tue, 02 Jun 2026 16:00:44 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
+      "link": "https://www.theguardian.com/environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner",
+      "description": "Researchers observed unavailable female dolphins – those that were older, or with calves – did not show the same avoidant behaviour Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Female dolphins identify males by their unique calls and keep track of their past behaviour, choosing to avoid the most aggressive males during mating season, new research suggests. Bottlenose dolphin society is complex, and male and female dolphins often know each other for decades, said Prof Stephanie King, an expert in animal behaviour at the University of Bristol. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 15:00:29 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Nvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack",
+      "link": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html",
+      "description": "Nvidia's announced entry into the PC chip market sent shares of AMD, Intel and Qualcomm lower as Wall Street recognized the threat.",
+      "pubDate": "Tue, 02 Jun 2026 12:00:01 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "EU accused of creating ICE-style immigration enforcement system",
+      "link": "https://www.theguardian.com/world/2026/jun/02/eu-accused-creating-ice-style-immigration-enforcement-system",
+      "description": "Officials say law will improve migration management by allowing more deportations of undocumented people EU politicians have promised to increase deportations of undocumented migrants, under a new law that critics say mimics elements of the Trump administration’s brutal immigration crackdown. Finalising a key element of an overhauled EU asylum and migration system, politicians have agreed a regulation that will enable national authorities to raid people’s homes to enforce deportation orders. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 11:56:52 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Nuclear weapons could soon be hosted in more NATO nations — what it means for defense stocks",
+      "link": "https://www.cnbc.com/2026/06/02/nuclear-weapons-us-nato-europe-jets.html",
+      "description": "The U.S. is reportedly exploring plans to expand its nuclear weapons-hosting arrangements to include more NATO countries in Europe.",
+      "pubDate": "Tue, 02 Jun 2026 11:43:03 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI build-out",
+      "link": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+      "description": "Alphabet said it plans to sell $80 billion in stock, including through a $10 billion investment by Berkshire Hathaway.",
+      "pubDate": "Tue, 02 Jun 2026 11:38:51 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Nightclub promoter, 21, stabbed to death after brawl in Dublin’s tourism district",
+      "link": "https://www.theguardian.com/world/2026/jun/02/qayyum-balogun-nightclub-promoter-stabbed-to-death-dublin",
+      "description": "Qayyum Balogun chased and attacked after gig ended in Grafton Street area following clash between rival groups, police say A brawl in the heart of Dublin’s tourism district led to a nightclub promoter being chased and stabbed to death. It happened at about 3am on Monday after a gig ended in the Grafton Street area of the city centre that is popular with tourists. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 11:00:58 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Zelenskyy asks Trump to send missiles after Russian strikes across Ukraine",
+      "link": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
+      "description": "At least 18 killed, dozens injured and others trapped under collapsed buildings after attacks on five Ukrainian cities Volodymyr Zelenskyy has asked Donald Trump to send Patriot missiles to Ukraine after a devastating Russian attack killed at least 18 people and injured dozens more. Russia launched 73 missiles and 656 drones at Ukraine overnight, according to the air force, including eight hypersonic Tsirkon missiles. The main targets were Kyiv, the central cities of Dnipro and Zaporizhzhia, and the eastern cities of Poltava and Kharkiv. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 10:20:00 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher",
+      "link": "https://www.cnbc.com/2026/06/02/inflation-euro-zone-iran-energy-costs.html",
+      "description": "Energy costs in the region surged by an annual rate of 10.9% in May.",
+      "pubDate": "Tue, 02 Jun 2026 09:47:08 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Denmark’s Mette Frederiksen to lead four-party coalition after months of uncertainty",
+      "link": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
+      "description": "Social Democrat stays on for third consecutive term as PM and will outline key policies by the end of Tuesday Denmark’s new government is preparing to formally present its political programme after Mette Frederiksen negotiated a third consecutive term as prime minister, this time at the head of a four-party, left-leaning minority coalition. Announced late on Monday, the agreement between Frederiksen’s Social Democrats, the Social Liberals, the Green Left and the centrist Moderates ended two months of uncertainty after March elections in which 12 parties won seats in parliament. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 09:06:39 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
+      "link": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
+      "description": "Exclusive: First shipwrecks found in Nassau harbour on New Providence, once the hideout of Blackbeard and Calico Jack The first shipwrecks linked to the real pirates of the Caribbean in the Bahamas have been discovered by an international team co-directed by a British marine archaeologist. Blackbeard and Calico Jack Rackham were among pirates who, between the 1690s and 1720s, turned Nassau on the island of New Providence into a hideout where they plotted their next heists on the high seas and divided up their plunder. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 08:00:42 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+      "link": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+      "description": "South African police confirm two deaths of Mozambicans in Mossel Bay as anti-immigration violence sweeps country Mozambique said five of its nationals were killed in “xenophobic attacks” in South Africa at the weekend and efforts were under way on Tuesday to repatriate hundreds of others. However, the South African police confirmed only that two Mozambicans had died in violence in the southern coastal town of Mossel Bay, the first killings to be officially linked to a wave of anti-migrant protests sweeping the country. Continue reading...",
+      "pubDate": "Tue, 02 Jun 2026 07:29:36 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "CNBC Daily Open: Trading the signals vs the noise",
+      "link": "https://www.cnbc.com/2026/06/02/cnbc-daily-open-trading-the-signals-vs-the-noise.html",
+      "description": "Anthropic files for its IPO and OpenAI's Sam Altman discusses going public with CNBC, while Iran uncertainty continues to move oil markets.",
+      "pubDate": "Tue, 02 Jun 2026 06:26:00 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
+      "link": "https://www.bbc.com/zhongwen/articles/cevp3nnxzjeo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "佛羅里達州總檢察長烏斯邁爾指控OpenAI及其首席執行官山姆·阿爾特曼構建了一張「欺騙之網」。",
+      "pubDate": "Tue, 02 Jun 2026 06:08:27 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "47°C高溫下「早晨和夜晚已不復存在」：印度最炎熱地區的一天",
+      "link": "https://www.bbc.com/zhongwen/articles/c809zjzym4vo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在印度最熱的地區度過一天，可以了解極端高溫前線的生活。",
+      "pubDate": "Tue, 02 Jun 2026 05:42:04 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Amazon's four-day Prime Day event starts June 23, as shoppers battle inflation",
+      "link": "https://www.cnbc.com/2026/06/02/amazon-prime-day-shopping-inflation.html",
+      "description": "Amazon's four-day shopping fest comes after U.S. consumer sentiment dropped in May to a record low.",
+      "pubDate": "Tue, 02 Jun 2026 05:34:07 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump administration proposes 25% tariff on Brazilian goods over unfair trade practices",
+      "link": "https://www.cnbc.com/2026/06/02/trump-proposes-25-tariff-on-brazil.html",
+      "description": "U.S Trade Representative Jamieson Greer said that the investigation under Section 301 was launched at the direction of U.S. President Donald Trump.",
+      "pubDate": "Tue, 02 Jun 2026 04:55:24 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "分析：特朗普需要結束這場戰爭，但伊朗不會退讓",
+      "link": "https://www.bbc.com/zhongwen/articles/cn9przzxyx9o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "特朗普對伊朗發動戰爭時稱，強大的空中力量足以推翻德黑蘭的伊斯蘭政權。他誤判了這個政權的本質，在經歷了戰爭、制裁和孤立帶來的嚴峻考驗後，這個政權仍能維持近半個世紀。",
+      "pubDate": "Tue, 02 Jun 2026 03:46:34 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Blackstone closes its largest Asia private equity fund at over $13 billion",
+      "link": "https://www.cnbc.com/2026/06/02/blackstone-largest-asia-private-equity-fund.html",
+      "description": "Blackstone raised $13.1 billion for its latest Asia private equity vehicle, marking the largest private equity fundraise the firm has done in the region.",
+      "pubDate": "Tue, 02 Jun 2026 03:18:25 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "NBA star Stephen Curry partners with Chinese sportswear giant Li-Ning",
+      "link": "https://www.cnbc.com/2026/06/02/stephen-curry-nba-deal-li-ning-china.html",
+      "description": "Stephen Curry has entered into a partnership with Li-Ning, which would involve product development as well as sports culture initiatives.",
+      "pubDate": "Tue, 02 Jun 2026 02:44:18 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "打造工程師之國？中國取消「無用」的大學學科",
+      "link": "https://www.bbc.com/zhongwen/articles/c87qzd4ryp4o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在與人工智能相關的裁員對全球科技行業造成尤其嚴重打擊的情況下，我們是否應該重新思考，哪些類型的職業能夠承受人工智能帶來的衝擊？",
+      "pubDate": "Tue, 02 Jun 2026 02:10:48 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "瑪麗蓮·夢露誕辰100週年：她的死因為何至今仍是謎",
+      "link": "https://www.bbc.com/zhongwen/articles/c1d2140y63ro/trad?at_medium=RSS&at_campaign=rss",
+      "description": "關於瑪麗蓮·夢露的死因，至今仍眾說紛紜，但一位調查此案的記者表示，這「很可能是一場可怕的意外」。",
+      "pubDate": "Tue, 02 Jun 2026 01:14:00 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "陰謀、情書與療方：人工智慧揭示的中世紀秘密",
+      "link": "https://www.bbc.com/zhongwen/articles/c1k2d7xnyz9o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在梵蒂岡圖書館的深處，一本充滿奇怪符號的神秘手寫書籍，沉睡了四百多年未被閱讀。據封面上的文字顯示，書中隱藏著「人體疾病的祕方」。",
+      "pubDate": "Tue, 02 Jun 2026 00:27:59 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
+      "link": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
+      "description": "Teachers associated with CNTE union were marching toward Zócalo for salary raises and reversal of pension laws Riot police fired teargas at teachers who were marching toward Mexico City’s historic Zócalo plaza, just days before the square is expected to host the 2026 World Cup “Fan Fest”. The incident is the second time police have clashed with teachers in the past week, and more conflict is likely as Mexico City prepares to hold the opening game of the Fifa World Cup on 11 June. “This event will have to be suspended,” Filiberto Frausto, a union leader, told AFP, which witnessed police firing teargas on 1 June. “A cause like ours should be far above – it’s far more important than a little bit of distraction and fun.” Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 22:59:39 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
+      "link": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
+      "description": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday.",
+      "pubDate": "Mon, 01 Jun 2026 20:12:48 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
+      "link": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
+      "description": "Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’ The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Cepeda have just under three weeks to compete for the roughly 3.6m votes that did not go to either of them in the first round of Colombia’s presidential election. That is no insignificant number, given that De la Espriella’s lead over Cepeda amounted to little more than 670,000 votes – 43.7% to 40.9%. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 14:44:45 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
+      "link": "https://www.theguardian.com/politics/2026/jun/01/creative-industries-brexit-barriers-uk-actors-eu-jobs",
+      "description": "Casting shifts to EU talent as paperwork delays and visa limits make hiring British crews less viable From blacklists for UK passport holders to being asked to work illegally while on holiday, the plethora of extra costs and red tape thrown up post-Brexit are restricting opportunities for British actors seeking work in the EU. Mainland Europe has always been a springboard for those in the creative industries, from gaining crucial first credits on a TV, film or theatre production to building a marketable resume and paying the bills while attempting to make it big in the UK or US. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 13:00:17 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
+      "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+      "description": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned. The legislation, which was passed on Friday, mandates prison sentences of three to 10 years. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 11:59:11 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+      "link": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+      "description": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a failed migrant deportation scheme set up by Boris Johnson’s administration, an international court has ruled. The east African nation had sued the current UK government for more than £100m, claiming it was owed after a breach of an agreement. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 10:50:51 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "澳門十歲男童致命交通意外，為何引發社會公憤與集體哀悼",
+      "link": "https://www.bbc.com/zhongwen/articles/cz928gw40qlo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "這是澳門近年一宗引發全城關注，以及上升至特首回應的社會事件。有澳門網民表示，獻花除了悼念小朋友，也想向社會「發聲」。",
+      "pubDate": "Mon, 01 Jun 2026 07:51:14 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "link": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
+      "description": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C A powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea. A monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices formed within it. This flow can intensify storms. Such typhoons are typically characterised by broad areas of low pressure and extensive wind fields, often without a distinct eye. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 07:17:53 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "金正恩為何從未談及其母親",
+      "link": "https://www.bbc.com/zhongwen/articles/c3e2ljjxj8no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "朝鮮很少有人知道她的存在，因為她的出身可能會威脅到政權的合法性。",
+      "pubDate": "Mon, 01 Jun 2026 06:36:20 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "link": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "description": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 2025, a study has found, even as globally, the area ravaged by flames fell. Catastrophic blazes claimed lives, homes and jobs last year in California, Canada, Europe and South Korea. But the 335m hectares burned was the second-lowest since 2002, the review found, largely owing to the expansion of African farms that have fragmented landscapes and hampered the spread of large savannah fires. Continue reading...",
+      "pubDate": "Mon, 01 Jun 2026 06:00:09 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "秘密隧道與非法勞工：中國煤難令人想起黑暗的過去",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpj127y4mo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "中國15年來最嚴重的煤礦災難發生之際，正值中國雄心勃勃地向綠色能源轉型之時。",
+      "pubDate": "Mon, 01 Jun 2026 04:27:30 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "普京如何成為形象操控大師？",
+      "link": "https://www.bbc.com/zhongwen/articles/cg4p93k2rv9o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "從神秘的克格勃特工到戰時統治者，普京一次又一次重塑自己的形象和自我。",
+      "pubDate": "Mon, 01 Jun 2026 00:27:21 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "The daughter of Thailand's beer billionaire says she never doubted women belonged at the top",
+      "link": "https://www.cnbc.com/2026/06/01/berli-jucker-thapanee-techajareonvikul-thai-dynasty-tcc-group.html",
+      "description": "Thapanee Techajareonvikul reflects on family, succession and leadership inside the billionaire empire behind Chang beer, Big C and Singapore beverage giant Fraser & Neave.",
+      "pubDate": "Sun, 31 May 2026 23:29:29 GMT",
+      "source": "CNBC 國際",
+      "category": "cnbc-world",
+      "lang": "en"
+    },
+    {
+      "title": "日本防務大臣香格里拉對話會上否認新軍國主義，並批評中國「龐大武器庫」",
+      "link": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在新加坡峰會開始前一天，中國國防部發言人蔣斌警告稱，「重新軍事化的日本這頭『灰犀牛』正加速逼近」，並呼籲國際社會「共同遏制日本的新軍國主義」。",
+      "pubDate": "Sun, 31 May 2026 08:28:16 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "法拉利寄望首款純電車Luce迎戰中國品牌，卻引來批評",
+      "link": "https://www.bbc.com/zhongwen/articles/cpwplvx5qygo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "有網民形容它是「怪物」，另一人則寫道：「恩佐・法拉利會從墳墓裡爬出來重新接管公司。」",
+      "pubDate": "Sun, 31 May 2026 06:41:02 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "美英澳三國防長宣佈共同研發無人潛航器",
+      "link": "https://www.bbc.com/zhongwen/articles/c0426q4kgq9o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "這項技術是在奧庫斯合作條約下開發的，旨在保護海底電纜並加強海軍防禦。",
+      "pubDate": "Sun, 31 May 2026 05:56:22 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "醫生稱報告顯示特朗普健康狀況極佳，美國總統體檢是否已成公關活動",
+      "link": "https://www.bbc.com/zhongwen/articles/czj2zvlmg2do/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在經歷一段相對年輕總統的時期後美國接連選出了兩位史上最年長的總統。這使公眾對總統年度體檢報告的關注大幅升溫。",
+      "pubDate": "Sun, 31 May 2026 05:07:31 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
+      "link": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
+      "description": "Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’ Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance. Under the prime minister, Sanae Takaichi , Japan has quickened its pivot to a more proactive defence policy, further shaking off – with US encouragement – its pacifist outlook in place since the end of the second world war. Continue reading...",
+      "pubDate": "Sun, 31 May 2026 05:02:39 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "美國「失控」的小費文化是否正在向海外蔓延？",
+      "link": "https://www.bbc.com/zhongwen/articles/cy82w2e91dwo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "隨著美國服務生在收到低於20%的小費時感到不滿，其他地區的小費金額也正在上升。",
+      "pubDate": "Sun, 31 May 2026 02:08:38 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
+      "link": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth",
+      "description": "Minister at Singapore defence summit also reveals Australia to buy only secondhand Aukus submarines from US Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The defence minister, Richard Marles, has said the “seabed is a battlefield” in a combative speech urging Beijing to be more transparent about its maritime operations, and taking aim at weak international controls over so-called “shadow-fleet” vessels. The warning came as the US, UK and Australia announced a new Aukus project to develop new underwater drone technology to protect undersea cables. Continue reading...",
+      "pubDate": "Sat, 30 May 2026 22:10:04 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Four more men freed from flooded Laos cave in hazardous rescue mission",
+      "link": "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission",
+      "description": "Two still missing as divers make their way deeper into cave through muddy water and sharp rocks to find them Four more miners who were trapped in a flooded cave in Laos for 10 days have been freed by divers, but two people are still missing as rescuers continue to crawl through narrow, deluged tunnels and sharp rocks to find them. The first of the party of seven men was rescued on Friday in a perilous rescue mission which has required teams to drain water from the cave and navigate collapse hazards. Continue reading...",
+      "pubDate": "Sat, 30 May 2026 10:46:52 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
+      "link": "https://www.theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
+      "description": "Hong Qi, who orchestrated protest against Communist government, claims interpreter on 101 call launched political tirade A Chinese dissident who orchestrated an anti-government protest in China after fleeing to the UK has claimed that a “pro-regime” interpreter used by a British police force berated him when he sought help. Hong Qi, who made headlines last year after using a mobile phone while in the UK to remotely project anti-regime slogans on to a building in his home city, Chongqing, contacted police after discovering that his bank accounts had been frozen. Continue reading...",
+      "pubDate": "Sat, 30 May 2026 09:00:16 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Eighteen people killed in Afghanistan truck crash, including 10 children",
+      "link": "https://www.theguardian.com/world/2026/may/30/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
+      "description": "Truck was carrying Afghan families returning Pakistan when it overturned, official says A truck overturned in eastern Afghanistan on Saturday, killing 18 people on board including 10 children, a provincial official told Agence France-Presse. Deadly traffic crashes are common in Afghanistan, due in part to poor roads after decades of conflict, dangerous driving and a lack of regulation. Continue reading...",
+      "pubDate": "Sat, 30 May 2026 06:51:37 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "Exam fail: Indian students complain en masse about marking errors in key final exams",
+      "link": "https://www.theguardian.com/world/2026/may/30/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
+      "description": "New digital marking system is aimed at reducing human errors but many students say it has resulted in wrong grades A national outcry has erupted in India after more than 400,000 students requested copies of their answer sheets amid mounting complaints of errors in the marking of the country’s most important school-leaving examinations. Within days of the grade 12 exam results being issued, students began reporting marking discrepancies they linked to a new digital marking system. Continue reading...",
+      "pubDate": "Sat, 30 May 2026 02:36:30 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "鄭麗文訪美：釋疑國民黨立場，還是佈局2028總統選戰？",
+      "link": "https://www.bbc.com/zhongwen/articles/cn9pny999jyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "台灣最大在野黨中國國民黨主席鄭麗文，預計於6月1日訪問美國，行程長達16天。她啟程前表示希望能與美國總統特朗普會面，並強調台灣「不應被迫在華盛頓與北京之間二選一」。鄭麗文被外界認為可能角逐2028年總統大選，若此次訪美「面試」成功將鞏固她在國民黨的領導地位。",
+      "pubDate": "Fri, 29 May 2026 09:36:55 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在堅持不使用電子線審和「鷹眼」挑戰制度的法網賽場，類似的爭議仍然會是比賽的一部分。",
+      "pubDate": "Fri, 29 May 2026 08:34:23 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
+      "link": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "數據顯示，干擾衛星訊號並迷惑飛機的GPS欺騙正變得越來越普遍。",
+      "pubDate": "Fri, 29 May 2026 06:25:19 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
+      "link": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/trad?at_medium=RSS&at_campaign=rss",
+      "description": "儘管最近發生了相互空襲，但雙方似乎都無意恢復全面衝突。",
+      "pubDate": "Fri, 29 May 2026 04:33:44 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
+      "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "5月1日，兩名港人結伴攀爬日本飛驒山脈，因天氣惡化受困，最後僅一人生還。倖存者向BBC中文憶述經歷。",
+      "pubDate": "Fri, 29 May 2026 00:23:00 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Blond Bangladeshi buffalo nicknamed ‘Donald Trump’ saved from Eid sacrifice",
+      "link": "https://www.theguardian.com/world/2026/may/28/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
+      "description": "Rare albino buffalo spared due to security concerns over unusual level of public interest in 700kg animal A rare albino buffalo in Bangladesh nicknamed “Donald Trump” for its distinctive blond tuft has been spared from Eid al-Adha sacrifice after a last-minute government intervention, according to a home ministry official. The nearly 700kg (1,543lb) animal had already been sold for ritual slaughter when authorities stepped in, citing security concerns after a surge of public interest before Thursday’s festival. Continue reading...",
+      "pubDate": "Thu, 28 May 2026 11:40:06 GMT",
+      "source": "Guardian 國際",
+      "category": "guardian-world",
+      "lang": "en"
+    },
+    {
+      "title": "中國男裝女穿潮：為何更多女性轉向購買男裝？",
+      "link": "https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/trad?at_medium=RSS&at_campaign=rss",
+      "description": "有女性消費者認為同等價位的男裝面料、做工和尺碼對自己更為友好。業內人士透露成本壓力近年來導致女裝供應出現了調整。",
+      "pubDate": "Thu, 28 May 2026 04:20:25 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "極端高溫已在春季來襲，為什麼氣溫紀錄屢被大幅刷新？",
+      "link": "https://www.bbc.com/zhongwen/articles/cze29gx2z09o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "熱穹和氣候變遷的共同作用為西歐帶來了極端高溫。",
+      "pubDate": "Wed, 27 May 2026 04:26:01 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "NASA公佈永久月球基地多項細節，美中登月競爭日趨白熱化",
+      "link": "https://www.bbc.com/zhongwen/articles/c0l2yw2wd24o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "美國希望在總統特朗普2029年離任前，再次將美國人送上月球。而中國正在積極推進自己的計劃，目標是在2030年前將人類送上月球。",
+      "pubDate": "Wed, 27 May 2026 03:17:53 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "突破防火長城：中國、伊朗、緬甸、委內瑞拉民間如何抵抗網絡封鎖？",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yrrr6eq2no/trad?at_medium=RSS&at_campaign=rss",
+      "description": "BBC全球錯誤資訊調查組採訪了來自中國、伊朗、緬甸和委內瑞拉的民眾，探討他們如何在危機時刻想出創意的方法，突破網路封鎖。 從中國的民間平台、緬甸的秘密網絡咖啡店、伊朗的地下「星鏈」走私網絡，到委內瑞拉的VPN新聞程式——這些故事揭示當政府試圖斷網時，人們是如何奮力維持連線。",
+      "pubDate": "Tue, 26 May 2026 10:51:36 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "中國外交：盤點北京如何分門別類稱呼各種邦交國關係",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8pp1qep47o/trad?at_medium=RSS&at_campaign=rss",
+      "description": "在中國與外國的雙邊關係中，不時出現「戰略伙伴關係」、「友好合作關係」等詞語。它們都是甚麼？中國外交為何有這麼多分類？",
+      "pubDate": "Tue, 26 May 2026 08:39:26 GMT",
+      "source": "BBC 中文",
+      "category": "bbc-chinese",
+      "lang": "zh"
+    },
+    {
+      "title": "Indians protest over ‘forever chemicals’ after relocation of scandal-hit Italian factory",
+      "link": "https://www.theguardian.com/environment/2026/may/26/india-pfas-production-forever-chemicals-protests-italian-factory",
+      "description": "Lack of Pfas regulations raised in parliament after Guardian revealed former Miteni plant bought by Indian company Protests over the production of cancer-linked Pfas chemicals have spread across India, after an investigation revealed that an Italian factory shut down due to an environmental scandal was bought by an Indian company and partly rebuilt. At the end of last year, the Guardian revealed that the former Miteni plant in Vicenza had been acquired by the Indian company Laxmi Organic Industries. The factory produced Pfas and was shut down in 2018 after being linked to one of Italy’s worst environmental contamination scandals. Continue reading...",
+      "pubDate": "Tue, 26 May 2026 04:00:45 GMT",
       "source": "Guardian 國際",
       "category": "guardian-world",
       "lang": "en"
@@ -153,136 +927,10 @@
       "lang": "en"
     },
     {
-      "title": "Mature cheese-roller beaten by young, YouTubing upstart",
-      "link": "https://www.theguardian.com/uk-news/2026/may/25/cheese-rolling-german-youtuber-tom-kopke-beats-all-time-champion-chris-anderson",
-      "description": "Tom Kopke from Germany out-tumbles local hero Chris Anderson on a meltingly hot day in Gloucestershire It was billed as the great cheese-off: a helter-skelter, bone-jarring downhill race between the all-time champ and a young upstart. After the hype and hyperbole, youth won out as the 24-year-old German YouTuber Tom Kopke beat the 38-year-old local hero Chris Anderson at the annual cheese-rolling event in the English West Country. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 19:14:57 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "‘If Iran gets a bomb it will be Bibi’s’: Trump’s deal outline sparks alarm in Israel",
-      "link": "https://www.theguardian.com/world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
-      "description": "Netanyahu’s joint war with the US began with talk of regime change in Tehran but may leave him with few strategic gains Middle East live – latest updates When Donald Trump launched a pre-emptive war on Iran with Israel in February, many in the country hailed the campaign as the crowning triumph of Benjamin Netanyahu’s political and diplomatic career. Three months on the regime is still in power in Tehran, Trump is chasing a deal that will reopen the strait of Hormuz to oil tankers, and the reported terms have provoked alarm, dismay and anger in Israel. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 18:50:49 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
-      "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
-      "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as cost Rachel Reeves has instructed cabinet colleagues to award government contracts in four critical industries directly to British companies, making clear her irritation that ministers have been sending too much government business abroad. In a letter seen by the Guardian, the chancellor tells every cabinet minister in charge of a spending department to “buy British” wherever possible, adding that she is disappointed they are not already doing so. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 18:43:39 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Protesters clash with ICE agents outside New Jersey detention center",
-      "link": "https://www.theguardian.com/us-news/2026/may/25/new-jersey-ice-immigration-protest",
-      "description": "Protesters say agents used pepper spray and batons in clash outside Delaney Hall where a hunger strike is under way Protesters outside a New Jersey migrant detention center where a hunger strike is under way alleged that US immigration agents deployed pepper spray and batons against them during a demonstration on Monday. The protesters tried to stop ICE from transferring Martin Soto – who announced the strike – but officials said that they were able to move him to the Elizabeth contract detention facility. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 18:25:00 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Texas officers rescue infant from car trapped in floodwaters",
-      "link": "https://www.theguardian.com/us-news/2026/may/25/texas-baby-rescue-car-floodwaters",
-      "description": "Video shows officers and firefighters surrounding a white car partially submerged in fast-moving water Authorities in Texas rescued an infant on Saturday after a vehicle became trapped in flood waters in Beeville, south of San Antonio. Video released on Sunday by the Beeville police department showed officers and firefighters surrounding a white car that was partially submerged in fast-moving water. As one first responder approached the car, a distressed man in the vehicle asked: “Can you get my kid?” Continue reading...",
-      "pubDate": "Mon, 25 May 2026 17:24:47 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
-      "link": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
-      "description": "Director general of World Health Organization urges neighbouring countries to take immediate action The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic Republic of Congo (DRC) are at high risk from the disease. “We are urgently scaling up operations, but at the moment the epidemic is outpacing us,” said the WHO’s director-general, Dr Tedros Adhanom Ghebreyesus, as he urged neighbouring countries to take immediate action. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 17:00:30 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "UK records its hottest ever day in May as temperature hits 34.8C",
-      "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
-      "description": "Scientists say record-breaking heat is a reminder of how climate crisis is affecting lives The fierce heat sweeping across Europe over the bank holiday weekend has beaten the UK’s all-time temperature record for May, with scorching highs of close to 35C. A temperature of 33.5C was recorded at Heathrow airport on Monday lunchtime, according to provisional data from the Met Office, beating the previous May record that was set in 1922 and reached again in 1944. Later in the afternoon a temperature of 34.8C was recorded at London’s Kew Gardens. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 16:31:56 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
-      "link": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
-      "description": "Brent crude futures down 6% to lowest level in two weeks and stock markets rise Oil prices fell below $100 a barrel on Monday and stock markets rose on hopes that the US and Iran are inching closer to a peace deal . Brent crude futures, the global oil benchmark, were down 6% to $97.43 a barrel, the lowest level in two weeks, with hopes that an agreement to end the near three-month US-Israeli war on Iran can be struck. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 16:05:41 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
-      "link": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
-      "description": "Strongly anti-Turkish party doubles its seats although mainstream parties did not see vote crumble as predicted An anti-immigrant far-right party, inspired by Greece’s defunct neo-Nazi Golden Dawn, made the biggest gains in Sunday’s parliamentary election in Cyprus. Elam, the Greek National People’s Front, which has pushed for the closure of checkpoints on the ethnically split island and is vociferously anti-Turkish, doubled its seats in the 56-member legislature after securing 10.9 % of the vote. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 15:50:23 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
       "title": "中國山西礦難至少82死 十七年來最致命事故",
       "link": "https://www.bbc.com/zhongwen/articles/ce8ppdxe023o/trad?at_medium=RSS&at_campaign=rss",
       "description": "中國山西省留神峪煤礦發生爆炸，官方公佈已造成至少82人死亡、2人失蹤、128人受傷，是中國自2009年以來最嚴重的礦難。當局初步判斷營運的通洲集團涉嫌嚴重違法。據報事發一半的當值礦工沒有正式報到，也未配戴緊急定位追蹤器，令搜救工作難上加難。",
       "pubDate": "Mon, 25 May 2026 15:10:02 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
-      "link": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
-      "description": "Region adapting to diminished US power after Washington fails to land knockout blow on Tehran or safeguard allies Middle East crisis – live updates The shock of the Iran war and its fallout has driven rivals in the Middle East to get behind a peace deal, pushing the Trump administration to accept a tentative agreement in the face of furious opposition from Israel and its supporters in Washington. The diplomatic efforts come as the region is reshaping to adapt to diminished US power after Washington’s inability to land a knockout blow on Iran, force the opening of the strait of Hormuz or safeguard its Gulf allies. Tehran has few friends in the region, but the regime’s survival has meant that its neighbours have had to find an accommodation. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 15:03:17 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "The ‘teal party’ was once used to undermine independent MPs. So why would they try to make it a reality?",
-      "link": "https://www.theguardian.com/australia-news/2026/may/26/teals-eye-party-structure-to-fill-liberal-vacuum-and-counter-one-nation",
-      "description": "Changes to political funding and the need for crossbenchers to remain relevant are driving discussions but some independents are opposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast It is a tag that has been unfairly – and incorrectly – attached to the band of teal MPs since their arrival en-masse in federal parliament in 2022, a slur deployed by their political opponents in an attempt to undermine their independence. The “teal party”. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 15:00:30 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Thai rescuers join effort to free seven people trapped in Laos cave",
-      "link": "https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers",
-      "description": "Group have been stuck in flooded cave in central Laos for five days after heavy rain caused landslides Divers who helped in the dramatic rescue of a young Thai football team in 2018 have joined efforts to free seven people who have been trapped for five days inside a remote, flooded cave in central Laos. The group entered the cave in Xaysomboun province on Wednesday to hunt for wildlife and search for gold, reports suggest. Heavy rain led to landslides, which blocked the cave entrance. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 14:24:26 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Trump Tower in Georgia to be built on land part-owned by son of US sanctions-hit leader",
-      "link": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
-      "description": "Links between Trump Organization and Ivanishvili family for Tbilisi skyscraper raise new conflict of interest concerns A Trump Tower planned for the Georgian capital, Tbilisi, is to be built on land currently part-owned by the son of the US-sanctioned leader of the country, according to official records. The proposed skyscraper, a joint venture between a local consortium and the Trump Organization, which is managed by the US president’s sons, Donald Trump Jr and Eric Trump, will be on a plot whose current registered owner is the International Charity Fund Cartu. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 12:00:27 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "中國15年來最嚴重煤礦事故後，民眾怒火升溫",
-      "link": "https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "在中國受到嚴密管控的互聯網上，民眾紛紛要求追究責任，並質疑事故為何會發生。",
-      "pubDate": "Mon, 25 May 2026 10:33:25 GMT",
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
@@ -297,253 +945,10 @@
       "lang": "zh"
     },
     {
-      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to highlight alleged abuse",
-      "link": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
-      "description": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunday, piling flaming mattresses and calling for the removal of the facility’s director, whom they accused of overseeing guards as they shot unarmed prisoners. “We want justice. They are shooting us, the guards and the wardens,” a prisoner said in a video shared by the Venezuelan Observatory of Prisons, a local NGO, on X, in which a man is seen with a bullet wound in his chest. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 06:20:46 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "足球世界盃2026：伊朗足協主席稱球隊基地已由美國改至墨西哥",
-      "link": "https://www.bbc.com/zhongwen/articles/czr2e5xjg42o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "伊朗表示，國際足聯已批准將該國的世界盃訓練基地從美國改至墨西哥。",
-      "pubDate": "Mon, 25 May 2026 04:47:22 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "《007：黎明曙光》游戲新作揭示詹士邦脆弱一面",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2p9z51zj5o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "這款電子遊戲展現了年輕的詹士邦在獲得「00」特工身份之前的形象。",
-      "pubDate": "Mon, 25 May 2026 04:02:51 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
-      "link": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "description": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was struck by her good looks. The two initiated a conversation and when Kumile expressed anxiety about what a tarot reading at the event might hold, Selelo thought nothing of offering her a hug. The reading turned out positive but Kumile claimed her hug anyway and they talked for hours. That was 1 October 2023. Two months later, they moved in together. Then, on a hike during the Easter holidays in 2024, Selelo proposed to Kumile. A year later, they visited a local government office to register their intent to marry and were told it wasn’t legal. Continue reading...",
-      "pubDate": "Mon, 25 May 2026 04:00:15 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "特朗普指示談判代表「不要急於與伊朗達成協議」 油價大幅下跌",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpxkg35kwo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "據美國媒體報道，正在討論的協議包括將停火期限延長60天，在此期間將重新開放霍爾木茲海峽。",
-      "pubDate": "Mon, 25 May 2026 03:26:10 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "link": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "description": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country. The DRC’s ministry of communication said in a post on X on Sunday that there were 904 suspected cases and 119 suspected deaths. Continue reading...",
-      "pubDate": "Sun, 24 May 2026 19:07:33 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Suicide bombing near railway track in Pakistan kills at least 23 people",
-      "link": "https://www.theguardian.com/world/2026/may/24/suicide-bombing-near-railway-track-in-pakistan-quetta",
-      "description": "Explosives-laden vehicle detonated as passenger train travelled through south-western city of Quetta A suicide bomber detonated an explosives-laden vehicle near a railway track as a passenger train travelled through the south-western Pakistani city of Quetta, killing at least 23 people and wounding more than 70 others, officials have said. The force of the explosion on Sunday caused two of the train cars to overturn and catch fire, sending thick black smoke into the air, according to footage shared online. Continue reading...",
-      "pubDate": "Sun, 24 May 2026 14:22:46 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "足球世界盃2026：值得關注的黑馬球隊",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y98055lqwo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "擴大規模後的賽制令很多小國也得以晉級世界盃決賽圈，以下是一些逆襲的黑馬球隊。",
-      "pubDate": "Sun, 24 May 2026 06:56:24 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
-      "link": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
-      "description": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals. Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed. Continue reading...",
-      "pubDate": "Sun, 24 May 2026 06:00:49 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "在日本離婚導致父母與子女分離，法律改革能否終結單獨監護的情況？",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y79gpxzp2o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "日本一項《民法》修正案預計將首次允許共同撫養子女。",
-      "pubDate": "Sun, 24 May 2026 04:51:27 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "中國山西煤礦爆炸據報至少82死，我們目前已知道什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/c332jgrkypeo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "這是中國自2009年以來最嚴重的礦難。涉事的煤礦曾被中國當局列入「全國災害嚴重生產煤礦」名單。",
-      "pubDate": "Sun, 24 May 2026 03:23:50 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "Trump to meet with US negotiators to decide on Iran’s ceasefire proposal",
-      "link": "https://www.theguardian.com/world/2026/may/23/iran-hosts-pakistani-delegation-diplomacy-to-avert-new-us-strikes",
-      "description": "US president says it’s a ‘solid 50/50’ on either making a ‘good’ deal with Iran or striking the country anew Donald Trump said he would meet today with American negotiators to review Iran’s latest proposal and decide by Sunday whether he will strike Iran “to kingdom come”. The US secretary of state, Marco Rubio, also told reporters in India on Saturday that “there may be news later today” about Iran. He did not specify what that news would be. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 17:25:21 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "China mine death toll at least 82 after gas blast",
-      "link": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
-      "description": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi province At least 82 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years. The explosion happened on Friday at 7.29pm (12.29 BST) while 247 workers were underground at the Liushenyu coalmine in Qinyuan county, the state media agency Xinhua reported. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 15:58:40 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
-      "link": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
-      "description": "But Trump administration will not return detainees deported to third countries in disease-stricken region The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spiraling Ebola outbreak, according to reporting by Politico, but experts say the move won’t help prevent the spread of the disease. At least one woman is now in limbo after officials moved her to Kinshasa, the capital of the DRC, and now say they won’t bring her back because of the Ebola travel ban – despite a judge’s order for her return. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 14:33:05 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "India’s government orders handover of exclusive Delhi Gymkhana Club",
-      "link": "https://www.theguardian.com/world/2026/may/23/india-government-orders-takeover-exclusive-delhi-gymkhana-club-narendra-modi",
-      "description": "Move comes against backdrop of challenge by prime minister, Narendra Modi, to country’s traditional elites The Indian government has ordered one of the country’s most exclusive private clubs to vacate its premises in two weeks, underscoring the long-running push of the prime minister, Narendra Modi, against entrenched elite institutions. The ministry of housing and urban affairs directed the Delhi Gymkhana Club to hand over its sprawling site in the heart of New Delhi by 5 June, citing urgent public interest requirements, including defence and security infrastructure. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 12:51:01 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
-      "link": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
-      "description": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of slipping away. The 25-year-old fled Haiti to escape the rampant gang violence that upended his university studies in economics, and planned to join family in Montreal. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 11:00:28 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
-      "link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-      "description": "Iran has threatened to impose tolls on shipping, while US demands that Iran hand over its highly enriched uranium may be deferred. Is there an end in sight? Qatar has rushed a team of mediators to Tehran in a sign that talks to open the strait of Hormuz, in return for the lifting of US sanctions and asset freezes, are reaching a climax. The aim would be to sign a memorandum of understanding on the strait that would lead to 30 days of talks on Iran’s nuclear programme – so deferring discussion of the US demand that Iran hand over its stockpile of highly enriched uranium. Continue reading...",
-      "pubDate": "Sat, 23 May 2026 01:14:00 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
-      "link": "https://www.theguardian.com/us-news/2026/may/22/kilmar-abrego-garcia-case-dismissed",
-      "description": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation Sign up for the Breaking News US newsletter email A US judge dismissed a criminal indictment against Kilmar Ábrego García on Friday, finding that the Trump administration would not have prosecuted him had he not challenged his high-profile deportation. Ábrego, who had entered the United States without authorization in the past, became a symbol of the Trump administration’s drive for mass deportations when he was sent to the notorious anti-terrorism mega-prison in El Salvador known as Cecot in March 2025. Continue reading...",
-      "pubDate": "Fri, 22 May 2026 21:16:28 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "link": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "description": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney , has said that Alberta is “essential” to the country’s future, hours after the province’s leader moved the oil-rich region closer toward a referendum on independence. Separatists in the western province spent months collecting signatures seeking to trigger a binding October vote on seceding from the nation. Continue reading...",
-      "pubDate": "Fri, 22 May 2026 16:41:09 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
-      "link": "https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts",
-      "description": "Resolution backed by 141 states hailed as ‘new chapter’ that could improve climate diplomacy and litigation efforts When the UN general assembly voted overwhelmingly in favour of a landmark climate crisis ruling on Wednesday, the Pacific island of Vanuatu’s prime minister hailed the result as the start of “a new chapter” in climate action. “The task before all of us now is to translate legal clarity into meaningful action, stronger cooperation, and greater protection for present and future generations,” said Jotham Napat. Continue reading...",
-      "pubDate": "Fri, 22 May 2026 10:27:07 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
-      "link": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "description": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men sent from the US to El Salvador’s most notorious prison by Donald Trump has moved to Spain to request asylum after concluding that he did not feel safe back home and did not trust US authorities sufficiently to return to fight his legal case. Andry José Hernández Romero left Venezuela for Spain in early February and is due for his first asylum hearing in court there in a few days, hoping that the country’s liberal approach to immigration will afford him kinder treatment than the US or his own country had provided him, he revealed to the Guardian in his first interview since leaving for Europe. Continue reading...",
-      "pubDate": "Fri, 22 May 2026 10:00:56 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief",
-      "link": "https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief",
-      "description": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring support US arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump. When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons package awaiting Trump’s signoff for months, Hung Cao said: “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury [the Iran war] – which we have plenty.” Continue reading...",
-      "pubDate": "Fri, 22 May 2026 09:08:29 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
       "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
       "link": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
       "description": "對特朗普來說，委員會不只是一個組織名稱，更像是一種工作方式。它意味著可以繞開現有國際機制，另起爐灶，重新設定規則。和平委員會可以繞開聯合國，去處理加沙問題；美中的貿易和投資委員會，則可以繞開WTO，去處理中美之間的爭議。",
       "pubDate": "Fri, 22 May 2026 08:52:03 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "Weather tracker: Heavy rain triggers flooding and landslides in parts of China",
-      "link": "https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china",
-      "description": "Twelve dead as southern and central areas also suffer travel disruption, electricity outages and evacuations Heavy, prolonged rainfall in southern and central China has resulted in weather warnings for flash flooding, landslides and waterlogging. The slow-moving band of rainfall spanned 620 miles (1,000km) and travelled eastwards across the regions on Tuesday. It was formed from the convergence of multiple bands of rain originating from the Bay of Bengal, South China Sea and Pacific Ocean. Given the accompanying low wind speeds, high daily and hourly rainfall totals have been recorded, with as much as 75mm locally in Hunan, 85mm in Anhui in a 24-hour period, and 95mm on the island of Hainan. Twelve people have died because of the flooding and hundreds of residents have been evacuated by emergency services. There were major travel disruptions, electricity outages, as well as school and business closures. Social media posts showed submerged cars and people fishing along flooded streets. Continue reading...",
-      "pubDate": "Fri, 22 May 2026 08:04:33 GMT",
-      "source": "Guardian 國際",
-      "category": "guardian-world",
-      "lang": "en"
-    },
-    {
-      "title": "「我愛世界盃，但價格實在太離譜」：門票價暴漲五倍，球迷什麼反應？",
-      "link": "https://www.bbc.com/zhongwen/articles/cm2p1d71833o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "2026年美加墨世界盃的昂貴票價受到批評。BBC比較本屆賽事與往屆世界盃的票價差異，並訪問來自全球各地的球迷，了解他們對看球成本大幅上升如何反應。",
-      "pubDate": "Fri, 22 May 2026 08:00:44 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "法航與空中巴士被裁定須為2009年空難過失殺人負責",
-      "link": "https://www.bbc.com/zhongwen/articles/clyp8zq1zrlo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "法國法院裁定，這些公司對造成 228 人死亡的空難負有責任。",
-      "pubDate": "Fri, 22 May 2026 05:05:04 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
-      "link": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普政府一直對古巴的共產政權施加巨大經濟壓力。",
-      "pubDate": "Fri, 22 May 2026 04:46:19 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "未來「正被推入黑暗」：從緬甸到委內瑞拉，民間如何抵抗官方網絡封鎖",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21ywx9y2xo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "從緬甸到委內瑞拉，在網絡封鎖頻繁的年代，民間正想方設法繞過官方網絡封鎖與打擊。",
-      "pubDate": "Fri, 22 May 2026 00:20:48 GMT",
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
@@ -558,100 +963,10 @@
       "lang": "zh"
     },
     {
-      "title": "足球世界盃2026：美國大量酒店房間仍空置，盛事經濟可能泡湯？",
-      "link": "https://www.bbc.com/zhongwen/articles/c202gqlz0j9o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "原本被預期可帶動美國旅遊業大幅增長的2026年世界盃，如今卻令人擔心，這股熱潮可能最終無法實現。",
-      "pubDate": "Thu, 21 May 2026 07:11:22 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "BBC俄羅斯編輯：普京享受了習近平的中式歡迎，卻沒把輸油管合同帶回家\n",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4pee61p2xo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "BBC俄羅斯編輯羅森伯格分析說，俄羅斯與中國在世界舞台上展現出並肩而立的姿態，但也顯而易見存在著界限。",
-      "pubDate": "Thu, 21 May 2026 04:27:48 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "谷歌時隔十餘年再度推出智慧眼鏡  私隱問題仍受關注",
-      "link": "https://www.bbc.com/zhongwen/articles/cr7pjvl52j4o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "智慧眼鏡有潛力整合谷歌現有的多項服務，例如谷歌地圖和語音功能。",
-      "pubDate": "Thu, 21 May 2026 01:05:51 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "《臺灣漫遊錄》奪布克文學獎：楊双子筆下的台灣美食與殖民記憶",
-      "link": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad?at_medium=RSS&at_campaign=rss",
-      "description": "台灣作家楊双子憑著小說《臺灣漫遊錄》，奪得全球最具影響力的文學獎之一英國布克獎（Booker Prize）。她是本屆唯一來自亞洲的作家，也刷新台灣作家在此獎項的紀錄。在頒獎前夕，她接受BBC中文專訪分享這部關於台灣殖民歷史的作品。",
-      "pubDate": "Thu, 21 May 2026 00:31:25 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "普京晤習近平：美俄元首「前後腳訪華」隱含的外交訊號",
-      "link": "https://www.bbc.com/zhongwen/articles/c202zlxy904o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "俄羅斯總統普京在5月19日抵京，與中國國家主席習近平會談。此行距離美國總統特朗普完成訪華行程不足一週，北京連續接待美俄領導人，分析認為這種罕見的外交節奏，讓中國再成為國際關注中心。 這次已是普京第25次訪華，與中方達成多項合作協議。外界更關注他與習近平有否討論俄烏戰事，以及中美俄關係。",
-      "pubDate": "Wed, 20 May 2026 11:56:51 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
-      "link": "https://www.bbc.com/zhongwen/articles/c4g04lk8x2eo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普訪華後的言論引發「台獨」爭議，賴清德近日多次回應相關議題。有專家對BBC中文分析，賴清德的主權論述本質上延續蔡英文路線，但其作風和直白的語言表述，往往給人具挑釁性的觀感，難以擺脫「麻煩製造者」形象。",
-      "pubDate": "Wed, 20 May 2026 11:37:02 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
-      "link": "https://www.bbc.com/zhongwen/articles/c8d80qm6jllo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "習近平如何用兩場截然不同的接待，展示中國在中美俄之間的新角色？",
-      "pubDate": "Wed, 20 May 2026 09:16:10 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
       "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇",
       "link": "https://www.bbc.com/zhongwen/articles/c4g09912wgdo/trad?at_medium=RSS&at_campaign=rss",
       "description": "又一個中國外交關係名詞在特朗普與習近平的會談中誕生，但在中國官方宣傳「積極評價」外，觀望氛圍同時存在。",
       "pubDate": "Tue, 19 May 2026 09:51:58 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "為何人們對斯沃琪的Royal Pop系列如此瘋狂？",
-      "link": "https://www.bbc.com/zhongwen/articles/cg4pnn3rplqo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "巴黎附近一家斯沃琪門市外聚集了約300人，警方施放催淚氣體維持秩序。法國北部里爾的一家門市外，則有四人表示在人群中遭到毆打。",
-      "pubDate": "Tue, 19 May 2026 08:12:37 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "文革發動60週年：那十年，中國經歷了什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cvgzjje13jyo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "60年前，中共領導人毛澤東發動文化大革命，中國自此陷入長達十年的動亂。一場追求「民主」、「平等」，要建立理想社會的革命，為何最終會將整個民族拖入災難的深淵？",
-      "pubDate": "Tue, 19 May 2026 07:00:52 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "普京訪華：中俄關係現在有多緊密",
-      "link": "https://www.bbc.com/zhongwen/articles/cgjpngjwgwno/trad?at_medium=RSS&at_campaign=rss",
-      "description": "根據兩國已經釋出的消息，普京訪華期間中俄將簽署最高級別的聯合聲明、以及系列雙邊文件。兩國元首還會共同出席「中俄教育年」開幕式。",
-      "pubDate": "Tue, 19 May 2026 02:40:07 GMT",
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
@@ -675,37 +990,10 @@
       "lang": "zh"
     },
     {
-      "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立",
-      "link": "https://www.bbc.com/zhongwen/articles/c8xwr7vdk0no/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普在回程飛機上表示，自己與習近平「談了很多」關於台灣的問題。他拒絕說明美國是否會出手保衛台灣。",
-      "pubDate": "Sat, 16 May 2026 02:55:29 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
       "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
       "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/trad?at_medium=RSS&at_campaign=rss",
       "description": "學者從機密檔案、縣誌研究和政治運動模式，分析「大屠殺」如何發生、誰應負責，以及其對當代中國政治文化的影響。",
       "pubDate": "Sat, 16 May 2026 01:45:07 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "特朗普訪華結果分析：美國盯著3B，中國盯著3T，誰佔了上風？",
-      "link": "https://www.bbc.com/zhongwen/articles/cx21r0y12r8o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "中美雙方如何表述峰會成果固然重要，但那些沒有說出口、被刻意保持沉默的話題，同樣值得注意。",
-      "pubDate": "Fri, 15 May 2026 11:30:03 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "紅毯、國宴、會談、台灣、黃仁勳：特朗普重返北京後的幾大關鍵時刻",
-      "link": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普重返北京，與習近平展開備受矚目的元首峰會。紅毯、國宴與高規格歡迎儀式背後，真正的焦點落在AI晶片、關稅、台灣與伊朗局勢等敏感議題。馬斯克與黃仁勳罕見現身人民大會堂，也讓這場峰會充滿濃厚的科技博弈色彩。",
-      "pubDate": "Thu, 14 May 2026 11:48:48 GMT",
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
@@ -729,15 +1017,6 @@
       "lang": "zh"
     },
     {
-      "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？",
-      "link": "https://www.bbc.com/zhongwen/articles/cdxpv1r6y0zo/trad?at_medium=RSS&at_campaign=rss",
-      "description": "特朗普上任之初，中國很多人把他看成一個「非建制」的總統。他不是華盛頓體制內的，而是遵循商人的邏輯。這反而讓中国人看到了機會：跟他打交道，也許可以直接用利益換利益，比跟建制派奧巴馬周旋更有效率。然而，盛情之後，急轉直下。",
-      "pubDate": "Tue, 12 May 2026 07:24:22 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
       "title": "老鼠、選票與科學：拆解台北「安鼠之亂」背後的治理危機",
       "link": "https://www.bbc.com/zhongwen/articles/c5yerdxdvz6o/trad?at_medium=RSS&at_campaign=rss",
       "description": "距離台北市長選舉約半年，尋求連任的國民黨籍市長蔣萬安遇到難題——鼠患，台灣網民戲稱是「安鼠之亂」。這個風波如何爆發？民生問題如何演變為政治危機？",
@@ -745,465 +1024,6 @@
       "source": "BBC 中文",
       "category": "bbc-chinese",
       "lang": "zh"
-    },
-    {
-      "title": "中國爆發式增長的團播潮背後：情感詐騙、主播收入和隱秘活動",
-      "link": "https://www.bbc.com/zhongwen/articles/cpd5j2nepp8o/trad?at_medium=RSS&at_campaign=rss",
-      "description": "「長得好看、會聊天才是最重要的……如果只是跳舞，大家為什麼不去看那些專業的舞者直播呢？」",
-      "pubDate": "Mon, 13 Apr 2026 03:58:20 GMT",
-      "source": "BBC 中文",
-      "category": "bbc-chinese",
-      "lang": "zh"
-    },
-    {
-      "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
-      "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
-      "description": "Slumped on his club, head buried in his arm, Rory McIlroy looked on the verge of tears.",
-      "pubDate": "Tue, 09 Apr 2024 15:25:18 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Scientists film deepest ever fish on seabed off Japan ",
-      "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-      "description": "Cruising at a depth of 8,336 meters (over 27,000 feet) just above the seabed, a young snailfish has become the deepest fish ever filmed by scientists during a probe into the abyss of the northern Pacific Ocean.",
-      "pubDate": "Tue, 18 Apr 2023 15:32:03 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "See the world's deepest fish",
-      "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
-      "description": "Scientists captured the unknown snailfish species at a depth of more than 27,000 feet, as part of an expedition in trenches off Japan.",
-      "pubDate": "Wed, 12 Apr 2023 09:01:12 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
-      "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
-      "description": "The escalating climate crisis is shifting many people's purchasing patterns and this extends to the $500 billion dollar global beauty industry which is grappling with a range of sustainability challenges across product manufacturing, packaging and disposal.",
-      "pubDate": "Thu, 06 Apr 2023 20:09:14 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "What to know about the Trump indictment on the eve of his court appearance",
-      "link": "https://www.cnn.com/collections/intl-trump-040223/",
-      "description": "",
-      "pubDate": "Wed, 05 Apr 2023 22:50:06 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Haberman reveals why Trump attacked judge and his family in speech",
-      "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
-      "description": "CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.",
-      "pubDate": "Wed, 05 Apr 2023 13:30:09 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Syrian refugee elected mayor of German town, years after fleeing war",
-      "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
-      "description": "A Syrian who arrived in Germany as a refugee in 2015 has won a mayoral election in the southwestern German state of Baden-Württemberg.",
-      "pubDate": "Tue, 04 Apr 2023 19:41:56 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-      "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-      "description": "Kwame Brathwaite, the pioneering activist and photographer whose work helped define the aesthetics of the \"Black is Beautiful\" movement of the 1960s and beyond, died on April 1, aged 85.",
-      "pubDate": "Tue, 04 Apr 2023 18:54:41 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Britain's pound is beating every other major currency this year",
-      "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
-      "description": "The British pound crashed to a record low last fall as investors rebelled against budget plans by former Prime Minister Liz Truss. Now, it's enjoying a comeback.",
-      "pubDate": "Tue, 04 Apr 2023 18:49:31 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
-      "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
-      "description": "Astronauts who will helm the first crewed moon mission in five decades were revealed on Monday, queuing up the quartet to begin training for the historic Artemis II lunar flyby that is set to take off in November 2024.",
-      "pubDate": "Tue, 04 Apr 2023 11:44:30 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "These are the animals people most want to see photographed",
-      "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
-      "description": "Originally a term used by trophy hunters in Africa, the \"Big Five\" described the animals most challenging to shoot and kill: the lion, elephant, leopard, rhino, and buffalo. Nowadays, it is more loosely used to refer to some of Africa's largest and most iconic animals.",
-      "pubDate": "Tue, 04 Apr 2023 10:38:46 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-      "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-      "description": "After a March Madness filled with twists and surprises -- all four No. 1 seeds failed to reach the Elite Eight for the first ever time in NCAA men's basketball tournament history -- it is time for the grand finale as UConn faces San Diego State on Monday for the title.",
-      "pubDate": "Tue, 04 Apr 2023 10:13:13 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
-      "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-      "description": "An anticipated meeting between Taiwan's President Tsai Ing-wen and US House Speaker Kevin McCarthy in California this week has sparked concerns of a repeat of the pressure campaign China launched last year when then-Speaker Nancy Pelosi visited Taipei.",
-      "pubDate": "Tue, 04 Apr 2023 07:49:53 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
-      "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
-      "description": "China has launched a cybersecurity probe into Micron Technology, one of America's largest memory chip makers, in apparent retaliation after US allies in Asia and Europe announced new restrictions on the sale of key technology to Beijing.",
-      "pubDate": "Tue, 04 Apr 2023 03:17:15 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "What OPEC's surprise oil cut means for gas prices",
-      "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
-      "description": "OPEC and its allies' surprise move to slash oil production will soon be felt at US gas pumps.",
-      "pubDate": "Tue, 04 Apr 2023 01:48:26 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Video shows moment of deadly explosion at cafe in Russia",
-      "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-      "description": "A well-known Russian military blogger, Vladlen Tatarsky, was killed in an explosion at a cafe in St. Petersburg, authorities said. CNN's Matthew Chance reports.",
-      "pubDate": "Tue, 04 Apr 2023 01:08:44 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
-      "link": "https://www.cnn.com/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html",
-      "description": "Twitter's traditional bird icon was booted and replaced with an image of a Shiba Inu, an apparent nod to dogecoin, the joke cryptocurrency that CEO Elon Musk is being sued over.",
-      "pubDate": "Mon, 03 Apr 2023 20:48:03 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-      "link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-      "description": "Some VIP Twitter users woke up on Saturday expecting to have lost their coveted blue verification check marks in a previously announced purge by Elon Musk. Instead, Twitter appeared to target a single account from a major publication Musk dislikes and changed the language on its site in a way that obscures why users are verified.",
-      "pubDate": "Mon, 03 Apr 2023 20:06:03 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-      "link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-      "description": "Scientists in Germany say they've been able to make a nasal vaccine that can shut down a Covid-19 infection in the nose and throat, where the virus gets its first foothold in the body.",
-      "pubDate": "Mon, 03 Apr 2023 19:04:07 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her ",
-      "link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-      "description": "LSU star Angel Reese defended the gesture she aimed at Iowa Hawkeyes' Caitlin Clark near the end of the Tigers' first NCAA women's basketball national championship victory on Sunday, saying \"I don't take disrespect lightly.\"",
-      "pubDate": "Mon, 03 Apr 2023 18:34:35 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
-      "link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
-      "description": "A new study found a moderately higher risk of autism spectrum disorder in children born to pregnant people exposed to tap water with higher levels of lithium, but experts caution that this association does not show a direct link between the two.",
-      "pubDate": "Mon, 03 Apr 2023 18:22:12 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
-      "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
-      "description": "In a sea of Israeli flags, Yiftach Golov holds one that looks a little different.",
-      "pubDate": "Mon, 03 Apr 2023 17:22:51 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Shania Twain calls for equal pay and more diversity in country music",
-      "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
-      "description": "Shania Twian is standing up for others in country music.",
-      "pubDate": "Mon, 03 Apr 2023 16:29:08 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "What pet cemeteries reveal about being human",
-      "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
-      "description": "Why do we bury our departed loved ones in a cemetery? A primary purpose is to provide survivors with an opportunity to grieve and gain a sense of closure. The cemetery is a place for the living as much as it is a place for the dead.",
-      "pubDate": "Mon, 03 Apr 2023 15:03:47 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Erdogan's political fate may be determined by Turkey's Kurds ",
-      "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-      "description": "Turkey's persecuted pro-Kurdish party has emerged as a kingmaker in the country's upcoming election, playing a decisive role that may just tip the balance enough to unseat two-decade ruler Recep Tayyip Erdogan.",
-      "pubDate": "Mon, 03 Apr 2023 14:54:00 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season ",
-      "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-      "description": "It was just six months ago that Graham Potter was deemed the man to usher in a fresh, exciting era at Chelsea.",
-      "pubDate": "Mon, 03 Apr 2023 14:46:53 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
-      "link": "https://www.cnn.com/collections/intl-ukraine-030423/",
-      "description": "",
-      "pubDate": "Mon, 03 Apr 2023 13:58:58 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
-      "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
-      "description": "The suspected Chinese spy balloon that transited the US earlier this year was able to capture imagery and collect some signals intelligence from US military sites, a source familiar with the matter tells CNN.",
-      "pubDate": "Mon, 03 Apr 2023 13:38:22 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
-      "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
-      "description": "Anthony Bourdain loved haggis. But even the late, great American chef, writer and television host recognized that Scotland's national dish, with its \"sinister sheep parts\" wrapped in a shroud of mystery and half-invented history, could be a hard sell.",
-      "pubDate": "Mon, 03 Apr 2023 12:43:16 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "HSBC's top execs face tense shareholders calling for a breakup",
-      "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
-      "description": "HSBC's top brass defended their strategy Monday to frustrated shareholders in the lender's largest market, as Europe's biggest bank continued to face calls to be split up.",
-      "pubDate": "Mon, 03 Apr 2023 12:31:48 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
-      "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
-      "description": "Last year, GOP Rep. Marjorie Taylor Greene of Georgia spoke at a white nationalist event organized by Holocaust denier Nick Fuentes that caused Republican leaders to denounce her.",
-      "pubDate": "Mon, 03 Apr 2023 12:26:59 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Teenage swimmer breaks two world records in four days",
-      "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-      "description": "Sixteen-year-old Summer McIntosh broke the world record for the 400m individual medley at the Canadian swimming trials on Saturday -- just days after breaking the world record for the 400m freestyle.",
-      "pubDate": "Mon, 03 Apr 2023 12:17:19 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
-      "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
-      "description": "A young volunteer soldier, Akula, who signed up for the war at the beginning of the Russian invasion is now dealing with the trauma of war. He spoke to CNN's David McKenzie about his time on the front lines and how it has affected his mental health.",
-      "pubDate": "Mon, 03 Apr 2023 12:13:24 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "French minister under fire for Playboy magazine cover",
-      "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
-      "description": "French government minister Marlene Schiappa has come under fire from members of her own party after appearing on the front cover of Playboy magazine.",
-      "pubDate": "Mon, 03 Apr 2023 11:54:59 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "China Renaissance suspends trading, delays results after founder's disappearance ",
-      "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
-      "description": "China Renaissance, a top dealmaker in the country's tech industry, said it would suspend trading of its shares and delay the release of its annual results because it still can't get in touch with its founder.",
-      "pubDate": "Mon, 03 Apr 2023 11:42:19 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "CEOs are tired of being held responsible for gun regulation",
-      "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-      "description": "Americans have grown used to corporate executives treading the well-worn paths of the Northeast corridor to convene alongside elected officials in Washington, DC, and discuss geopolitics, policy and all that's in-between.",
-      "pubDate": "Mon, 03 Apr 2023 11:19:35 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
-      "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-      "description": "Paris Saint-Germain's miserable season went from bad to worse on Sunday as the team suffered a second straight home defeat with a 1-0 loss to Lyon.",
-      "pubDate": "Mon, 03 Apr 2023 11:02:06 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Finland's Prime Minister Sanna Marin concedes election",
-      "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
-      "description": "Finland's left-wing Prime Minister Sanna Marin conceded defeat on Sunday in the Nordic country's parliamentary election as the opposition right-wing National Coalition Party (NCP) claimed victory in a tightly fought contest.",
-      "pubDate": "Mon, 03 Apr 2023 10:24:55 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Video shows moment man throws yogurt on two women in Iran",
-      "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
-      "description": "Video shows an incident at a store in the Iranian city of Shandiz where a man approached two unveiled women before proceeding to grab a tub of yogurt from the store and throw it, hitting both women in the head. The video then appears to show a male staff member removing the suspect from the store. CNN is not able to verify what was said immediately before the confrontation.",
-      "pubDate": "Mon, 03 Apr 2023 10:17:00 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
-      "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
-      "description": "Finland's left-wing Prime Minister Sanna Marin conceded defeat in the country's parliamentary election as the opposition right-wing National Coalition Party claimed victory in a tightly fought contest. CNN's Laila Harrak spoke with New York Times' Chief Diplomatic Correspondent Steven Erlanger to discuss how the popular politician lost the election.",
-      "pubDate": "Mon, 03 Apr 2023 10:06:11 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
-      "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
-      "description": "Bruce Willis' wife, Emma Heming Willis, has celebrated their elder daughter's birthday with a trip down memory lane.",
-      "pubDate": "Mon, 03 Apr 2023 09:34:27 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Lawmaker speaks out about his struggle with depression",
-      "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
-      "description": "Sen. John Fetterman (D-PA) spoke to CBS about battling with depression after winning a tight election.",
-      "pubDate": "Sun, 02 Apr 2023 23:11:47 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Man rides out tornado inside van. See the footage",
-      "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-      "description": "Cody Coombes recounts riding out a tornado in Little Rock, Arkansas, inside his pest control van. The National Weather Service reported that an EF-3 tornado had roared through Pulaski and Lonoke counties with estimated peak winds of 165 mph, killing one person in North Little Rock and four people in Wynne.",
-      "pubDate": "Sun, 02 Apr 2023 11:07:02 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-      "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-      "description": "Actor Mark Hamill joins CNN's Jim Acosta to discuss his thoughts about a potential spinoff series based around his legendary \"Star Wars\" character Luke Skywalker.",
-      "pubDate": "Sun, 02 Apr 2023 01:18:16 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
-      "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-      "description": "A Palestinian taxi driver describes surviving a violent attack by a right-wing mob in Jerusalem earlier this week as Israel continues to see protests against Prime Minister Benjamin Netanyahu's judicial overhaul spread. CNN's Nic Robertson reports.",
-      "pubDate": "Fri, 31 Mar 2023 15:50:32 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
-      "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
-      "description": "Skier Francis Zuber sprang into action when he noticed a snowboarder had become trapped upside down in a tree well. Zuber, whose reaction has been applauded as a textbook example of what to do in such a situation, urged others to take up rescue courses.",
-      "pubDate": "Fri, 31 Mar 2023 12:33:33 GMT",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Trump pleads not guilty to 34 felony counts",
-      "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
-      "description": "",
-      "pubDate": "",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "READ: Trump indictment related to hush money payment",
-      "link": "https://cnn.it/411KYN7",
-      "description": "",
-      "pubDate": "",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
-      "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
-      "description": "",
-      "pubDate": "",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
-    },
-    {
-      "title": "Hundreds of millions at risk from Chinese shopping app malware ",
-      "link": "https://cnn.it/40OSomK",
-      "description": "",
-      "pubDate": "",
-      "source": "CNN 國際",
-      "category": "cnn-world",
-      "lang": "en"
     }
   ]
 }

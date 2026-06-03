@@ -18,9 +18,9 @@ const NEWS_SOURCES = [
     lang: 'en'
   },
   {
-    category: 'cnn-world',
-    name: 'CNN 國際',
-    url: 'http://rss.cnn.com/rss/edition.rss',
+    category: 'cnbc-world',
+    name: 'CNBC 國際',
+    url: 'https://www.cnbc.com/id/100727362/device/rss/rss.html',
     lang: 'en'
   },
   {
