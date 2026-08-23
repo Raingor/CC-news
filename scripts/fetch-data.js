@@ -88,6 +88,16 @@ function stripHtml(html) {
     .trim();
 }
 
+function cleanDescription(description) {
+  return String(description || '')
+    .replace(/Continue reading\.\.\.?/gi, '')
+    .replace(/Sign up for[^.]*\.?/gi, '')
+    .replace(/Get (?:the )?Guardian'?s? newsletter[^.]*\.?/gi, '')
+    .replace(/Get our breaking news email[^.]*\.?/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function toStr(v) {
   if (!v) return '';
   if (typeof v === 'object') return v['#text'] || '';
@@ -124,7 +134,7 @@ function extractArticles(sourceName, category, lang, parsed) {
       articles.push({
         title: toStr(item.title),
         link: toStr(item.link),
-        description: stripHtml(item.description || item['content:encoded'] || ''),
+        description: cleanDescription(stripHtml(item.description || item['content:encoded'] || '')),
         pubDate: toStr(item.pubDate || item['dc:date'] || ''),
         source: sourceName,
         category,
@@ -150,7 +160,7 @@ function extractArticles(sourceName, category, lang, parsed) {
       articles.push({
         title: toStr(entry.title),
         link,
-        description: stripHtml(entry.summary || entry.content || ''),
+        description: cleanDescription(stripHtml(entry.summary || entry.content || '')),
         pubDate: toStr(entry.published || entry.updated || ''),
         source: sourceName,
         category,

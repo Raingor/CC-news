@@ -1,9 +1,31 @@
 // ============================================
-// DATA LOADING
+// CC NEWS HUB — READING EXPERIENCE
 // ============================================
 let newsData = null;
 let horoscopeData = null;
 let currentCategory = 'all';
+let currentLanguage = 'all';
+let currentSearch = '';
+let visibleLimit = 12;
+let currentSection = 'news';
+
+const sectionElements = {
+  news: document.getElementById('news-section'),
+  horoscope: document.getElementById('horoscope-section')
+};
+
+const sourceLabels = {
+  'guardian-world': 'Guardian 國際',
+  'cnbc-world': 'CNBC 國際',
+  'bbc-chinese': 'BBC 中文'
+};
+
+const themeNames = {
+  default: '預設',
+  sakura: '櫻花',
+  gothic: '哥特',
+  chinese: '中國風'
+};
 
 async function loadData() {
   try {
@@ -12,9 +34,7 @@ async function loadData() {
       fetch('./data/horoscope.json')
     ]);
 
-    if (!newsRes.ok || !horoscopeRes.ok) {
-      throw new Error('Data files not found');
-    }
+    if (!newsRes.ok || !horoscopeRes.ok) throw new Error('Data files not found');
 
     newsData = await newsRes.json();
     horoscopeData = await horoscopeRes.json();
@@ -22,7 +42,7 @@ async function loadData() {
     updateHeader();
     renderNews();
     renderHoroscope();
-    setupTabs();
+    setupNewsControls();
   } catch (error) {
     console.error('Failed to load data:', error);
     showError('載入失敗，請稍後重試');
@@ -30,338 +50,433 @@ async function loadData() {
 }
 
 // ============================================
-// HEADER UPDATE
+// HEADER & FRESHNESS
 // ============================================
+function getFreshness(lastUpdated) {
+  const updatedAt = new Date(lastUpdated);
+  if (Number.isNaN(updatedAt.getTime())) return { type: 'unknown', label: '狀態未知' };
+
+  const hours = Math.max(0, (Date.now() - updatedAt.getTime()) / (1000 * 60 * 60));
+  if (hours <= 6) return { type: 'fresh', label: '即時更新' };
+  if (hours <= 24) return { type: 'recent', label: '今日更新' };
+  if (hours <= 72) return { type: 'delayed', label: '資料延遲' };
+  return { type: 'stale', label: '尚未更新' };
+}
+
 function updateHeader() {
   const updateTime = new Date(newsData.lastUpdated);
-  const timeStr = updateTime.toLocaleString('zh-TW', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit'
-  });
-  
-  document.getElementById('update-time').textContent = `更新於 ${timeStr}`;
-  document.getElementById('article-count').textContent = `共 ${newsData.totalArticles} 則新聞`;
+  const freshness = getFreshness(newsData.lastUpdated);
+  const timeStr = Number.isNaN(updateTime.getTime())
+    ? '時間未知'
+    : updateTime.toLocaleString('zh-TW', {
+        year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+      });
+
+  const statusEl = document.getElementById('edition-status');
+  statusEl.className = `edition-status ${freshness.type}`;
+  statusEl.innerHTML = `<i aria-hidden="true"></i>${freshness.label}`;
+
+  document.getElementById('update-time').textContent = `最後更新 ${timeStr}`;
+  document.getElementById('article-count').textContent = `${newsData.totalArticles || 0} 則新聞`;
+  document.getElementById('nav-date').textContent = updateTime.toLocaleDateString('en-US', {
+    month: 'short', day: '2-digit', year: 'numeric'
+  }).toUpperCase();
+
+  if (freshness.type === 'stale' || freshness.type === 'delayed') {
+    document.getElementById('filter-note').textContent = '資料可能延遲，仍按最新發布排序';
+  }
 }
 
 // ============================================
-// NEWS RENDERING
+// NEWS FILTERING & RENDERING
 // ============================================
-function renderNews() {
-  const grid = document.getElementById('news-grid');
-  
-  // Filter by category
-  let articles = newsData.articles;
-  if (currentCategory !== 'all') {
-    articles = articles.filter(a => a.category === currentCategory);
-  }
+function getFilteredArticles() {
+  const articles = Array.isArray(newsData?.articles) ? newsData.articles : [];
+  const search = currentSearch.trim().toLocaleLowerCase();
 
-  // Limit to 30 articles for performance
-  articles = articles.slice(0, 30);
+  return articles.filter(article => {
+    const categoryMatch = currentCategory === 'all' || article.category === currentCategory;
+    const languageMatch = currentLanguage === 'all' || article.lang === currentLanguage;
+    const searchable = `${article.title || ''} ${article.description || ''} ${article.source || ''}`.toLocaleLowerCase();
+    const searchMatch = !search || searchable.includes(search);
+    return categoryMatch && languageMatch && searchMatch;
+  });
+}
+
+function renderNews() {
+  const featured = document.getElementById('featured-news');
+  const grid = document.getElementById('news-grid');
+  const loadMore = document.getElementById('load-more');
+  const visibleCount = document.getElementById('visible-count');
+  const articles = getFilteredArticles();
+
+  featured.innerHTML = '';
+  grid.innerHTML = '';
 
   if (articles.length === 0) {
-    grid.innerHTML = '<div class="loading">暫無新聞數據</div>';
+    grid.innerHTML = `
+      <div class="empty-state">
+        <span class="empty-state-mark" aria-hidden="true">⌕</span>
+        <h3>找不到相符的新聞</h3>
+        <p>試試其他關鍵字，或清除目前的篩選條件。</p>
+        <button class="empty-state-action" type="button" id="reset-filters">清除篩選</button>
+      </div>
+    `;
+    loadMore.hidden = true;
+    visibleCount.textContent = '0 則結果';
+    document.getElementById('reset-filters').addEventListener('click', resetFilters);
     return;
   }
 
-  grid.innerHTML = articles.map((article, index) => {
-    const date = article.pubDate ? new Date(article.pubDate) : null;
-    const dateStr = date ? formatDate(date) : '未知日期';
-    const langLabel = article.lang === 'zh' ? '中文' : 'EN';
-    const delay = index * 0.03;
+  const [lead, ...remaining] = articles;
+  featured.innerHTML = renderArticle(lead, { featured: true, index: 0 });
 
-    return `
-      <article class="news-card" style="animation-delay: ${delay}s">
-        <h3 class="news-title">
-          <a href="${article.link}" target="_blank" rel="noopener">${article.title}</a>
-        </h3>
-        <div class="news-meta">
-          <span class="news-source">${article.source}</span>
-          <span class="lang-badge">${langLabel}</span>
-          <span class="news-date">${dateStr}</span>
-        </div>
-        <p class="news-description">${article.description}</p>
-      </article>
-    `;
-  }).join('');
+  const cardsToRender = remaining.slice(0, visibleLimit - 1);
+  grid.innerHTML = cardsToRender.map((article, index) => renderArticle(article, {
+    featured: false,
+    index: index + 1
+  })).join('');
+
+  const renderedCount = Math.min(articles.length, visibleLimit);
+  visibleCount.textContent = `顯示 ${renderedCount} / ${articles.length} 則`;
+  loadMore.hidden = renderedCount >= articles.length;
+  const remainingCount = articles.length - renderedCount;
+  loadMore.innerHTML = remainingCount > 0
+    ? `載入更多新聞 <span aria-hidden="true">↓</span><small>還有 ${remainingCount} 則</small>`
+    : '載入更多新聞 <span aria-hidden="true">↓</span>';
+}
+
+function renderArticle(article, { featured = false, index = 0 } = {}) {
+  const title = escapeHTML(article.title || '未命名新聞');
+  const description = escapeHTML(cleanDescription(article.description || '暫無摘要。'));
+  const link = safeURL(article.link);
+  const source = escapeHTML(article.source || sourceLabels[article.category] || '新聞來源');
+  const langLabel = article.lang === 'zh' ? '中文' : 'EN';
+  const date = article.pubDate ? new Date(article.pubDate) : null;
+  const dateLabel = date && !Number.isNaN(date.getTime()) ? formatDate(date) : '時間未知';
+  const readingTime = estimateReadingTime(`${article.title || ''} ${article.description || ''}`);
+  const sourceClass = escapeHTML(article.category || 'unknown');
+  const delay = Math.min(index * 0.035, 0.45);
+
+  return `
+    <article class="news-card ${featured ? 'news-card--featured' : ''} source-${sourceClass}" style="--card-delay: ${delay}s">
+      <div class="news-card-rule" aria-hidden="true"></div>
+      <div class="news-card-topline">
+        <span class="news-index">${featured ? '01' : String(index + 1).padStart(2, '0')}</span>
+        ${featured ? '<span class="lead-label">EDITOR’S PICK</span>' : ''}
+      </div>
+      <h3 class="news-title">
+        <a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>
+      </h3>
+      <div class="news-meta">
+        <span class="news-source">${source}</span>
+        <span class="lang-badge lang-${article.lang === 'zh' ? 'zh' : 'en'}">${langLabel}</span>
+        <span class="news-date">${dateLabel}</span>
+        <span class="reading-time">${readingTime} 分鐘閱讀</span>
+      </div>
+      <p class="news-description">${description}</p>
+      <a class="article-more" href="${link}" target="_blank" rel="noopener noreferrer">閱讀原文 <span aria-hidden="true">↗</span></a>
+    </article>
+  `;
+}
+
+function cleanDescription(value) {
+  return String(value)
+    .replace(/Continue reading\.\.\.?/gi, '')
+    .replace(/Sign up for[^.]*\.?/gi, '')
+    .replace(/Get the Guardian's? newsletter[^.]*\.?/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim() || '暫無摘要。';
+}
+
+function estimateReadingTime(text) {
+  const normalized = String(text).trim();
+  if (!normalized) return 1;
+  const chineseChars = (normalized.match(/[\u3400-\u9fff]/g) || []).length;
+  const englishWords = normalized.replace(/[\u3400-\u9fff]/g, ' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.ceil((chineseChars / 420) + (englishWords / 220)));
 }
 
 function formatDate(date) {
-  const now = new Date();
-  const diff = now - date;
+  const diff = Date.now() - date.getTime();
   const hours = Math.floor(diff / (1000 * 60 * 60));
-  
-  if (hours < 1) return '剛剛';
-  if (hours < 24) return `${hours} 小時前`;
-  
-  return date.toLocaleDateString('zh-TW', {
-    month: 'short',
-    day: 'numeric'
+
+  if (hours >= 0 && hours < 1) return '剛剛';
+  if (hours >= 1 && hours < 24) return `${hours} 小時前`;
+  return date.toLocaleDateString('zh-TW', { month: 'short', day: 'numeric' });
+}
+
+function setupNewsControls() {
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      currentCategory = tab.dataset.category;
+      visibleLimit = 12;
+      document.querySelectorAll('.tab').forEach(item => {
+        const active = item === tab;
+        item.classList.toggle('active', active);
+        item.setAttribute('aria-pressed', String(active));
+      });
+      updateFilterNote();
+      renderNews();
+    });
+  });
+
+  document.querySelectorAll('.language-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      currentLanguage = tab.dataset.language;
+      visibleLimit = 12;
+      document.querySelectorAll('.language-tab').forEach(item => {
+        const active = item === tab;
+        item.classList.toggle('active', active);
+        item.setAttribute('aria-pressed', String(active));
+      });
+      updateFilterNote();
+      renderNews();
+    });
+  });
+
+  const search = document.getElementById('news-search');
+  const clear = document.getElementById('search-clear');
+  search.addEventListener('input', event => {
+    currentSearch = event.target.value;
+    clear.hidden = !currentSearch;
+    visibleLimit = 12;
+    updateFilterNote();
+    renderNews();
+  });
+  clear.addEventListener('click', () => {
+    search.value = '';
+    currentSearch = '';
+    clear.hidden = true;
+    visibleLimit = 12;
+    updateFilterNote();
+    renderNews();
+    search.focus();
+  });
+
+  document.getElementById('load-more').addEventListener('click', () => {
+    visibleLimit += 9;
+    renderNews();
   });
 }
 
+function updateFilterNote() {
+  const parts = [];
+  if (currentCategory !== 'all') parts.push(sourceLabels[currentCategory] || currentCategory);
+  if (currentLanguage !== 'all') parts.push(currentLanguage === 'zh' ? '中文' : 'English');
+  if (currentSearch.trim()) parts.push(`搜尋「${currentSearch.trim()}」`);
+  document.getElementById('filter-note').textContent = parts.length
+    ? `${parts.join(' · ')} · 按最新發布排序`
+    : '按最新發布排序';
+}
+
+function resetFilters() {
+  currentCategory = 'all';
+  currentLanguage = 'all';
+  currentSearch = '';
+  visibleLimit = 12;
+  document.getElementById('news-search').value = '';
+  document.getElementById('search-clear').hidden = true;
+  document.querySelectorAll('.tab, .language-tab').forEach(item => {
+    const isActive = item.dataset.category === 'all' || item.dataset.language === 'all';
+    item.classList.toggle('active', isActive);
+    item.setAttribute('aria-pressed', String(isActive));
+  });
+  updateFilterNote();
+  renderNews();
+}
+
 // ============================================
-// HOROSCOPE RENDERING
+// HOROSCOPE
 // ============================================
 function renderHoroscope() {
   const grid = document.getElementById('horoscope-grid');
-  const dateEl = document.getElementById('horoscope-date');
-  
-  // Format date
   const date = new Date(horoscopeData.date);
-  const dateStr = date.toLocaleDateString('zh-TW', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-    weekday: 'long'
-  });
-  dateEl.textContent = dateStr;
+  document.getElementById('horoscope-date').textContent = Number.isNaN(date.getTime())
+    ? '日期未知'
+    : date.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
 
-  grid.innerHTML = horoscopeData.horoscopes.map((h, index) => `
-    <div class="horoscope-card" data-sign="${h.signEn}" style="animation-delay: ${index * 0.05}s">
-      <div class="horoscope-header">
-        <span class="horoscope-emoji">${h.emoji}</span>
-        <div>
-          <div class="horoscope-sign">${h.sign}</div>
-          <div class="horoscope-sign-en">${h.signEn}</div>
+  grid.innerHTML = horoscopeData.horoscopes.map((h, index) => {
+    const overall = localizeHoroscopeText(h.overall, h.sign);
+    const detailId = `horoscope-detail-${index}`;
+    return `
+      <article class="horoscope-card" data-sign="${escapeHTML(h.signEn)}" tabindex="0" role="button" aria-expanded="false" aria-controls="${detailId}" style="--card-delay: ${Math.min(index * 0.04, 0.45)}s">
+        <div class="horoscope-header">
+          <span class="horoscope-emoji" aria-hidden="true">${h.emoji}</span>
+          <div>
+            <div class="horoscope-sign">${escapeHTML(h.sign)}</div>
+            <div class="horoscope-sign-en">${escapeHTML(h.signEn)}</div>
+          </div>
+          <span class="horoscope-chevron" aria-hidden="true">↘</span>
         </div>
-      </div>
-      
-      <p class="horoscope-overview">${h.overall}</p>
-      
-      <div class="horoscope-lucky">
-        <span class="lucky-item"><strong>幸運數字:</strong> ${h.luckyNumber}</span>
-        <span class="lucky-item"><strong>幸運色:</strong> ${h.luckyColor}</span>
-      </div>
-      
-      <div class="horoscope-detail">
-        <div class="detail-item">
-          <div class="detail-label">愛情運勢</div>
-          <div class="detail-text">${h.love}</div>
+        <p class="horoscope-overview">${escapeHTML(overall)}</p>
+        <div class="horoscope-lucky">
+          <span class="lucky-item"><strong>幸運數字</strong> ${escapeHTML(h.luckyNumber)}</span>
+          <span class="lucky-item"><strong>幸運色</strong> ${escapeHTML(h.luckyColor)}</span>
         </div>
-        <div class="detail-item">
-          <div class="detail-label">事業運勢</div>
-          <div class="detail-text">${h.career}</div>
+        <div class="horoscope-detail" id="${detailId}" aria-hidden="true">
+          <div class="detail-item"><div class="detail-label">愛情運勢</div><div class="detail-text">${escapeHTML(h.love)}</div></div>
+          <div class="detail-item"><div class="detail-label">事業運勢</div><div class="detail-text">${escapeHTML(h.career)}</div></div>
+          <div class="detail-item"><div class="detail-label">財富運勢</div><div class="detail-text">${escapeHTML(h.wealth)}</div></div>
         </div>
-        <div class="detail-item">
-          <div class="detail-label">財富運勢</div>
-          <div class="detail-text">${h.wealth}</div>
-        </div>
-      </div>
-      
-      <div class="expand-hint"></div>
-    </div>
-  `).join('');
+        <div class="expand-hint">查看愛情・事業・財富</div>
+      </article>
+    `;
+  }).join('');
 
-  // Setup click to expand
   setupHoroscopeCards();
+}
+
+function localizeHoroscopeText(text, sign) {
+  if (!text) return `${sign}今天適合放慢腳步，先整理方向，再開始下一步。`;
+  const isEnglish = /^[\x00-\x7F\s.,'!?;:()\-]+$/.test(String(text));
+  return isEnglish ? `${sign}今天適合專注眼前的一件事。先整理節奏，再把想法化為實際行動。` : text;
 }
 
 function setupHoroscopeCards() {
   const cards = document.querySelectorAll('.horoscope-card');
   cards.forEach(card => {
-    card.addEventListener('click', () => {
-      card.classList.toggle('expanded');
+    const toggle = () => {
+      const expanded = card.classList.toggle('expanded');
+      card.setAttribute('aria-expanded', String(expanded));
+      card.querySelector('.horoscope-detail').setAttribute('aria-hidden', String(!expanded));
+      card.querySelector('.expand-hint').textContent = expanded
+        ? '收起今日完整運勢'
+        : '查看愛情・事業・財富';
+    };
+    card.addEventListener('click', toggle);
+    card.addEventListener('keydown', event => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        toggle();
+      }
     });
   });
-}
-
-// ============================================
-// TABS SETUP
-// ============================================
-function setupTabs() {
-  const tabs = document.querySelectorAll('.tab');
-  tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-      // Update active state
-      tabs.forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
-      
-      // Update category and re-render
-      currentCategory = tab.dataset.category;
-      renderNews();
-    });
-  });
-}
-
-// ============================================
-// ERROR HANDLING
-// ============================================
-function showError(message) {
-  const toast = document.createElement('div');
-  toast.className = 'error-toast';
-  toast.textContent = message;
-  document.body.appendChild(toast);
-
-  setTimeout(() => {
-    toast.remove();
-  }, 5000);
 }
 
 // ============================================
 // SECTION NAVIGATION
 // ============================================
-let currentSection = 'news';
-const sections = ['news', 'horoscope'];
-const sectionElements = {
-  news: document.getElementById('news-section'),
-  horoscope: document.getElementById('horoscope-section')
-};
-
 function setupSectionNav() {
-  const navLinks = document.querySelectorAll('.section-nav-link');
+  const nav = document.getElementById('section-nav');
   const jumpBtn = document.getElementById('scroll-jump');
   const jumpLabel = document.getElementById('jump-label');
-  const sectionNav = document.getElementById('section-nav');
 
-  // Smooth scroll on nav link click
-  navLinks.forEach(link => {
-    link.addEventListener('click', e => {
-      e.preventDefault();
+  document.querySelectorAll('.section-nav-link').forEach(link => {
+    link.addEventListener('click', event => {
+      event.preventDefault();
       const target = document.querySelector(link.getAttribute('href'));
       if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   });
 
-  // Floating jump button click
   jumpBtn.addEventListener('click', () => {
-    if (currentSection === 'news') {
-      sectionElements.horoscope.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    } else {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+    const target = currentSection === 'news' ? sectionElements.horoscope : sectionElements.news;
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 
-  // IntersectionObserver to track visible section
   const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const id = entry.target.id.replace('-section', '');
-        setActiveSection(id);
-      }
+      if (entry.isIntersecting) setActiveSection(entry.target.id.replace('-section', ''));
     });
-  }, {
-    threshold: 0.15,
-    rootMargin: '-80px 0px -40% 0px'
-  });
+  }, { threshold: 0.15, rootMargin: '-80px 0px -40% 0px' });
 
   observer.observe(sectionElements.news);
   observer.observe(sectionElements.horoscope);
 
-  // Scroll handler for sticky nav shadow and jump button visibility
-  let ticking = false;
-  window.addEventListener('scroll', () => {
-    if (!ticking) {
-      window.requestAnimationFrame(() => {
-        updateNavShadow(sectionNav);
-        updateJumpButton(jumpBtn, jumpLabel);
-        ticking = false;
-      });
-      ticking = true;
-    }
-  });
+  const update = () => {
+    nav.classList.toggle('scrolled', window.scrollY > 20);
+    const atHoroscope = window.scrollY + window.innerHeight / 2 >= sectionElements.horoscope.offsetTop;
+    const show = window.scrollY > (window.innerWidth <= 720 ? 180 : 360);
+    jumpBtn.classList.toggle('visible', show);
+    jumpBtn.classList.toggle('at-horoscope', atHoroscope);
+    jumpLabel.textContent = atHoroscope ? '回到新聞' : '星座運程';
+    jumpBtn.setAttribute('aria-label', atHoroscope ? '回到國際焦點' : '跳至星座運程');
+    jumpBtn.querySelector('.jump-icon').textContent = atHoroscope ? '↑' : '✧';
+  };
 
-  // Initial state
-  updateNavShadow(sectionNav);
-  updateJumpButton(jumpBtn, jumpLabel);
+  window.addEventListener('scroll', () => requestAnimationFrame(update), { passive: true });
+  window.addEventListener('resize', update);
+  update();
 }
 
 function setActiveSection(id) {
   if (currentSection === id) return;
   currentSection = id;
-
   document.querySelectorAll('.section-nav-link').forEach(link => {
     link.classList.toggle('active', link.dataset.section === id);
   });
-}
-
-function updateNavShadow(nav) {
-  nav.classList.toggle('scrolled', window.scrollY > 60);
-}
-
-function updateJumpButton(btn, label) {
-  const horoscopeTop = sectionElements.horoscope.offsetTop;
-  const scrollY = window.scrollY;
-  const viewportH = window.innerHeight;
-  const isAtOrPastHoroscope = scrollY + viewportH / 2 >= horoscopeTop;
-  const isMobile = window.innerWidth <= 720;
-  const showThreshold = isMobile ? 200 : 400;
-
-  if (scrollY > showThreshold) {
-    btn.classList.add('visible');
-  } else {
-    btn.classList.remove('visible');
-  }
-
-  btn.classList.toggle('at-horoscope', isAtOrPastHoroscope);
-  label.textContent = isAtOrPastHoroscope ? '回到頂部' : '星座運程';
-  btn.querySelector('.jump-icon').textContent = isAtOrPastHoroscope ? '↑' : '🔮';
 }
 
 // ============================================
 // THEME SWITCHER
 // ============================================
 function setupThemeSwitcher() {
+  const switcher = document.querySelector('.theme-switcher');
   const btn = document.getElementById('theme-btn');
   const menu = document.getElementById('theme-menu');
-  const label = document.getElementById('theme-label');
-  const themeNames = {
-    default: '預設',
-    sakura: '櫻花',
-    gothic: '哥特',
-    chinese: '中國風'
-  };
-
-  // Load saved theme
   const savedTheme = localStorage.getItem('ccnews-theme') || 'default';
   applyTheme(savedTheme);
 
-  // Toggle menu
-  btn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    btn.parentElement.classList.toggle('open');
+  btn.addEventListener('click', event => {
+    event.stopPropagation();
+    const open = switcher.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(open));
   });
 
-  // Close menu on outside click
   document.addEventListener('click', () => {
-    btn.parentElement.classList.remove('open');
+    switcher.classList.remove('open');
+    btn.setAttribute('aria-expanded', 'false');
   });
 
-  // Theme selection
-  menu.querySelectorAll('.theme-option').forEach(opt => {
-    opt.addEventListener('click', (e) => {
-      e.stopPropagation();
-      const theme = opt.dataset.theme;
-      applyTheme(theme);
-      localStorage.setItem('ccnews-theme', theme);
-      btn.parentElement.classList.remove('open');
+  menu.querySelectorAll('.theme-option').forEach(option => {
+    option.addEventListener('click', event => {
+      event.stopPropagation();
+      applyTheme(option.dataset.theme);
+      localStorage.setItem('ccnews-theme', option.dataset.theme);
+      switcher.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
     });
   });
 }
 
 function applyTheme(theme) {
-  document.documentElement.setAttribute('data-theme', theme);
-
+  const normalized = themeNames[theme] ? theme : 'default';
+  document.documentElement.setAttribute('data-theme', normalized);
   const label = document.getElementById('theme-label');
-  const themeNames = {
-    default: '預設',
-    sakura: '櫻花',
-    gothic: '哥特',
-    chinese: '中國風'
-  };
-  if (label) label.textContent = themeNames[theme] || '風格';
-
-  // Update active state in menu
-  document.querySelectorAll('.theme-option').forEach(opt => {
-    opt.classList.toggle('active', opt.dataset.theme === theme);
+  if (label) label.textContent = themeNames[normalized];
+  document.querySelectorAll('.theme-option').forEach(option => {
+    option.classList.toggle('active', option.dataset.theme === normalized);
   });
 }
 
 // ============================================
-// INITIALIZE
+// HELPERS & ACCESSIBILITY
 // ============================================
+function safeURL(value) {
+  try {
+    const url = new URL(value || '#', window.location.href);
+    return ['http:', 'https:'].includes(url.protocol) ? escapeHTML(url.href) : '#';
+  } catch {
+    return '#';
+  }
+}
+
+function escapeHTML(value) {
+  return String(value ?? '').replace(/[&<>'"]/g, char => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+  }[char]));
+}
+
+function showError(message) {
+  const toast = document.createElement('div');
+  toast.className = 'error-toast';
+  toast.setAttribute('role', 'alert');
+  toast.textContent = message;
+  document.body.appendChild(toast);
+  setTimeout(() => toast.remove(), 5000);
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   setupThemeSwitcher();
   setupSectionNav();
