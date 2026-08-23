@@ -27,6 +27,21 @@ const themeNames = {
   chinese: '中國風'
 };
 
+const localizedHoroscopeOverviews = {
+  Aries: '今天適合把旺盛的行動力集中在一個目標上，先完成最重要的事，再迎接新的挑戰。',
+  Taurus: '放慢一點反而更穩。今天適合整理財務與生活節奏，用踏實的步伐累積成果。',
+  Gemini: '交流會帶來靈感。勇敢說出你的想法，也為自己保留一段安靜思考與整理的時間。',
+  Cancer: '熟悉的人與事能讓你重新充電。今天適合照顧自己的情緒，也關心身邊重要的人。',
+  Leo: '你的存在感自然提升，適合站出來承擔責任；保持真誠，別讓急於證明自己打亂節奏。',
+  Virgo: '細節是你的優勢，但不必追求每件事都完美。先完成，再逐步修正，效率會更高。',
+  Libra: '今天適合在不同意見中尋找平衡。清楚表達需求，關係與合作都會因此更順暢。',
+  Scorpio: '直覺能幫你看見事情的核心。給自己一點獨處空間，再做出重要決定會更踏實。',
+  Sagittarius: '新的可能性正在靠近。先處理眼前的責任，再為下一段旅程保留好奇與彈性。',
+  Capricorn: '一步一步就能推進長期目標。今天適合排定優先順序，完成一件拖延已久的工作。',
+  Aquarius: '新點子值得被記下來，但不必一次完成所有事。選一個方向實驗，成果會比想像更好。',
+  Pisces: '敏銳的感受力帶來創意，也需要界線來保護能量。今天適合安靜整理心情與計畫。'
+};
+
 async function loadData() {
   try {
     const [newsRes, horoscopeRes] = await Promise.all([
@@ -328,9 +343,11 @@ function renderHoroscope() {
 }
 
 function localizeHoroscopeText(text, sign) {
-  if (!text) return `${sign}今天適合放慢腳步，先整理方向，再開始下一步。`;
-  const isEnglish = /^[\x00-\x7F\s.,'!?;:()\-]+$/.test(String(text));
-  return isEnglish ? `${sign}今天適合專注眼前的一件事。先整理節奏，再把想法化為實際行動。` : text;
+  const signEn = horoscopeData?.horoscopes?.find(item => item.sign === sign)?.signEn;
+  const value = String(text || '').trim();
+  const hasCjk = /[\u3400-\u9fff]/.test(value);
+  if (hasCjk) return value;
+  return localizedHoroscopeOverviews[signEn] || `${sign}今天適合放慢腳步，先整理方向，再開始下一步。`;
 }
 
 function setupHoroscopeCards() {
