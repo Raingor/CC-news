@@ -1,0 +1,14 @@
+{
+  "name": "cc-news-hub",
+  "version": "1.0.0",
+  "description": "Daily News & Horoscope Hub - Static Site for GitHub Pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/fetch-data.js",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.3.7"
+  }
+}
